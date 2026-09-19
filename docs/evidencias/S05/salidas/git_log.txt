@@ -1,0 +1,32 @@
+﻿commit f7c093d82722cf15289af7021cf66bf8a5576ba4 (HEAD -> develop, tag: v0.5, tag: taller-05)
+Author: Grupo 01 - SI886 <grupo01.peti@upt.pe>
+Date:   Sat Sep 19 18:36:03 2026 -0500
+
+    S05: valores conductuales y diagnostico de cultura ÔÇö secciones 2.3 y 2.4
+
+ 02_identidad/2.3_valores.md                        |   56 +
+ 02_identidad/2.4_cultura.md                        |  141 +
+ 02_identidad/CU01_instrumento.md                   |  115 +
+ 02_identidad/CU02_perfil_cultura.csv               |    8 +
+ 02_identidad/CU02_perfil_cultura.py                |  309 ++
+ 02_identidad/CU03_supuestos.csv                    |    7 +
+ 02_identidad/CU04_implicancias_peti.md             |   32 +
+ 02_identidad/CU_perfil_cultura.png                 |  Bin 0 -> 517179 bytes
+ 02_identidad/encuesta_cultura.csv                  |   36 +
+ 3-TALLER (1).md                                    |  316 ++
+ anexos/anexo_B_resultados_cultura.xlsx             |  Bin 0 -> 13667 bytes
+ anexos/anexo_C_perfil_cultura.png                  |  Bin 0 -> 517179 bytes
+ anexos/anexo_D_supuestos_basicos.xlsx              |  Bin 0 -> 6353 bytes
+ docs/evidencias/S05/salidas/analisis_perfil.txt    |   36 +
+ docs/evidencias/S05/salidas/control_calidad.txt    |   12 +
+ documentos_fuente/7700859-pei_escaneo-1.pdf        |  Bin 0 -> 10285871 bytes
+ documentos_fuente/ORGANIGRAMA DEL ROF 2022.pdf     |  Bin 0 -> 452418 bytes
+ ...15 de codigo de etica de la funcion publica.pdf |  Bin 0 -> 266376 bytes
+ ... interno de seguridad y salud en el trabajo.pdf |  Bin 0 -> 1137030 bytes
+ scratch/codigo_etica_text.txt                      |  235 ++
+ scratch/ocr.ps1                                    |   17 +
+ scratch/organigrama.png                            |  Bin 0 -> 851742 bytes
+ scratch/organigrama_ocr.txt                        |    1 +
+ scratch/pei_summary.txt                            |   44 +
+ scratch/risst_text.txt                             | 3598 ++++++++++++++++++++
+ 25 files changed, 4963 insertions(+)
