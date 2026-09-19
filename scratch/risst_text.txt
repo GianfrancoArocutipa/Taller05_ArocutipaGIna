@@ -1,0 +1,3598 @@
+
+--- P.1 ---
+ 
+Municipalidad Provincial de Tacna 
+REGLAMENTO INTERNO DE SEGURIDAD Y 
+SALUD EN EL TRABAJO DE LA 
+MUNICIPALIDAD PROVINCIAL DE TACNA 
+F. Aprobación 
+RISST- 001 
+14/11/24 
+Versión 
+02 
+Página 1 /51 
+ 
+ 
+ 
+ 
+TITULO PRELIMINAR 
+ 
+El Reglamento Interno de Seguridad y Salud en el Trabajo (RISST) es un instrumento de gestión que 
+contribuye con la prevención, en el marco del Sistema de Gestión de Seguridad y Salud en el Trabajo, y 
+promueve la instauración de una cultura de prevención de riesgos laborales. 
+Tiene un carácter normativo, regulador de las relaciones laborales, con sustento disciplinario (permite 
+sancionar los incumplimientos por parte del trabajador), estándar (se determina la forma de trabajar), legal, 
+técnico. 
+El Reglamento Interno de Trabajo, establece normas de comportamiento dentro de las políticas de la 
+organización, con sujeción a las normas laborales vigentes, que determinan derechos y obligaciones tanto 
+para el empleador como para los trabajadores; además, se basa en el espíritu de colaboración, comprensión, 
+y armonía, a fin de asegurar el logro de los objetivos y el bienestar de sus trabajadores. 
+Todas las empresas con 20 o más trabajadores de acuerdo a la Ley 29783, están obligadas a contar con un 
+reglamento interno de seguridad y salud en el trabajo. 
+En concordancia con su Reglamento de Organización y Funciones (ROF) 2022, la Municipalidad también 
+establece las bases para la gestión de Seguridad y Salud en el Trabajo. Esto implica la participación activa 
+de todas sus unidades orgánicas en la implementación y ejecución de políticas de prevención de riesgos 
+laborales, asegurando así el cumplimiento de la normativa vigente 
+ 
+CAPITULO I 
+ 
+ 
+GENERALIDADES Y PRINCIPIOS 
+ 
+Art. 01 Del Objetivo 
+El objetivo del presente Reglamento es establecer los principios, normas y procedimientos para promover una cultura de prevención de 
+riesgos laborales, con la participación activa de todas las unidades orgánicas de la Municipalidad Provincial de Tacna, bajo cualquier 
+régimen laboral, ya sea público o privado. El compromiso institucional se extiende al desarrollo de políticas internas de Seguridad y 
+Salud en el Trabajo, alineadas con la misión y visión de la Municipalidad. 
+ 
+Art. 02 Del Alcance 
+ 
+El presente Reglamento es aplicable a todos los trabajadores de la Municipalidad Provincial de Tacna, bajo los distintos sistemas de 
+contratación y regímenes de servicios laborales, incluidos los practicantes, servicios tercerizados, proveedores. 
+ 
+ 
+ 
+
+--- P.2 ---
+ 
+Municipalidad Provincial de Tacna 
+REGLAMENTO INTERNO DE SEGURIDAD Y 
+SALUD EN EL TRABAJO DE LA 
+MUNICIPALIDAD PROVINCIAL DE TACNA 
+F. Aprobación 
+RISST- 001 
+14/11/24 
+Versión 
+02 
+Página 2 /51 
+ 
+Art. 03 Base Legal 
+ 
+Constituye Base Legal de este Reglamento: 
+a. Constitución Política del Perú. 
+b. Ley Orgánica de Municipalidades, Ley N°27972. 
+c. Decreto Supremo N°019-2006-TR, Reglamento de la Ley General de Inspecciones de Trabajo. 
+d. Ley 29783, Ley de Seguridad y Salud en el Trabajo. 
+e. Decreto Supremo N°005-2012 TR, Reglamento de la Ley N°29783, Ley de Seguridad y Salud en el Trabajo. 
+f. Ley 30222 que Modifica la Ley 29783 Ley de Seguridad y Salud en el Trabajo. 
+g. Decreto Supremo Nº006-2014-TR Modifica el Reglamento de Seguridad y Salud en el Trabajo. 
+h. Decreto Supremo Nº012-2014-TR, Decreto Supremo que aprueba el Registro Único de Información sobre accidentes de trabajo, 
+incidentes peligrosos y enfermedades ocupacionales y modifica el artículo 110 del Reglamento de la Ley de Seguridad y Salud 
+en el Trabajo. 
+i. Decreto Supremo N°001-2021-TR, Decreto Supremo que modifica diversos artículos del Reglamento de la Ley N°29783, Ley de 
+Seguridad y Salud en el Trabajo, aprobado por Decreto Supremo N°005- 2012-TR y sus modificatorias (funciones del CSST). 
+j. Decreto Supremo N°006-2022-TR, que modifica el artículo 1 del Decreto Supremo N°012-2014-TR y el artículo 112 del Reglamento 
+de la Ley N°29783, Ley de Seguridad y Salud en el Trabajo, aprobado por Decreto Supremo N°005-2012-TR 
+k. Decreto Supremo Nº017-2017-TR, Reglamento de Seguridad y Salud en el Trabajo Obreros Municipales del Perú. 
+l. Resolución Ministerial N°249-2017-TR. Disposiciones complementarias al Reglamento SST de obreros municipales. 
+m. Decreto Supremo Nº018-2021-TR, Política Nacional de Seguridad y Salud en el Trabajo al 2030. 
+n. Decreto Supremo N°008-2022-SA, Actualización del Anexo 5 del Reglamento de la Ley N°26790, Ley de Modernización de la 
+Seguridad Social en Salud, aprobado por Decreto Supremo N°009-97-SA. 
+o. Resolución Ministerial N°480-2008-MINSA. Listado de Enfermedades Profesionales 
+p. Resolución Ministerial N°312-2011-MINSA. Protocolos de los Exámenes Médico Ocupacionales 
+q. Resolución Ministerial N°571-2014-MINSA. Modificatoria de RM 312-2011-MINSA 
+Art. 04 De los Principios Principio de Protección: 
+La Municipalidad Provincial de Tacna, tiene la responsabilidad y atribución de promover un trabajo en condiciones dignas, entendido 
+como el cumplimiento de los derechos y deberes laborales, a fin de garantizar una adecuada condición de trabajo que procure un 
+estado de vida saludable, física y social. 
+ 
+Dichas condiciones deberán propender a: 
+a) Que las actividades laborales se desarrollen en un ambiente seguro y saludable. 
+b) Que las condiciones de trabajo sean compatibles con el bienestar, dignidad y realización de los objetivos personales de los 
+trabajadores. 
+Principio de Prevención: 
+ 
+La Municipalidad Provincial de Tacna velará para cumplir y garantizar en coordinación y colaboración con los trabajadores para 
+el establecimiento de políticas, medios, prácticas, sistemas y condiciones que protejan la vida, salud y el bienestar de los trabajadores 
+teniendo en consideración que todo accidente en el trabajo puede y debe ser prevenido, que las causas que generan accidentes 
+pueden ser eliminadas o controladas y que la prevención de accidentes es una condición de empleo tanto de los trabajadores como de 
+los funcionarios de la institución. 
+Principio de Responsabilidad: 
+Las consecuencias económicas, legales de afectación en el trabajo y de cualquier otra índole como resultado de accidentes que sufra 
+el trabajador en el desempeño de sus labores, serán asumidas, en lo que corresponda, tanto por parte de la MPT como del trabajador 
+en cuanto le sea inherente su responsabilidad, de conformidad a las normas vigentes. 
+
+--- P.3 ---
+ 
+Municipalidad Provincial de Tacna 
+REGLAMENTO INTERNO DE SEGURIDAD Y 
+SALUD EN EL TRABAJO DE LA 
+MUNICIPALIDAD PROVINCIAL DE TACNA 
+F. Aprobación 
+RISST- 001 
+14/11/24 
+Versión 
+02 
+Página 3 /51 
+ 
+ 
+Principio de Información y Capacitación: 
+Los trabajadores recibirán de la Municipalidad Provincial de Tacna (MPT) una oportuna y adecuada información y capacitación preventiva 
+en las labores que se le asigne, con énfasis en los riesgos o peligros para la salud de los trabajadores. 
+ 
+Principio de Participación del Trabajador: 
+La MPT en materia de Seguridad y Salud en el Trabajo promoverá la participación de los trabajadores, través de sus representantes 
+o publicaciones a fin de captar aportes de mejoras para una gestión integral de seguridad y salud, en concordancia con la 
+normativa vigente. 
+Principio de Sistema de Seguridad y Salud en el Trabajo: 
+ 
+Conjunto de medidas o elementos que la MPT organiza teniendo por objeto establecer políticas, desarrollar principios, objetivos, 
+metas, mecanismos y actividades de Seguridad y Salud en el Trabajo tendientes a sensibilizar y a crear conciencia, potenciando el 
+desarrollo de actitudes, habilidades y compromisos para mejorar las condiciones y la calidad del trabajo, a fin de evitar riesgos o daños 
+a la salud de la prestación de las actividades. 
+ 
+CAPITULO II 
+ 
+DEL LIDERAZGO, COMPROMISO Y LA POLÍTICA DE SEGURIDAD Y SALUD 
+Art. 05 Del Liderazgo y Compromiso 
+ 
+El alcalde de la Municipalidad Provincial de Tacna ordena sus acciones con el objetivo de cumplir con lo dispuesto en la Ley N°29783 
+y su reglamento, en referencia a las responsabilidades del empleador en materia de seguridad y salud en el trabajo, incluyendo lo 
+siguiente: 
+ 
+1. Liderar y apoyar todas las actividades en la organización, desarrollo y aplicación del sistema de gestión de seguridad y salud, 
+a fin de lograr su éxito en la prevención de accidentes y enfermedades ocupacionales. 
+2. Proveer los recursos necesarios para mantener un ambiente de trabajo seguro y saludable. 
+3. Asumir la responsabilidad de la prevención de accidentes y la seguridad de su personal y lograr el compromiso de cada trabajador 
+mediante el estricto cumplimiento de disposiciones y reglas que contiene el presente documento. 
+4. Operar en concordancia con las prácticas aceptables de las Unidades Orgánicas, y con pleno cumplimiento de la normativa vigente 
+en materia de Seguridad y Salud en el Trabajo. 
+5. Capacitar a sus trabajadores en el desempeño seguro y productivo de sus trabajos. 
+6. Exigir que los proveedores y contratistas cumplan con todas las normas aplicables de Seguridad y Salud en el Trabajo. 
+Art. 06 De la Política de Seguridad y Salud en el Trabajo 
+La Municipalidad Provincial de Tacna, tiene como Política: 
+“Garantizar la Seguridad, la Salud y el desarrollo del personal en Nuestra Institución a través del control de riesgos y accidentes en 
+nuestras instalaciones, a través de la mejora continua de la Seguridad y Salud en el Trabajo, en todas las actividades que se 
+desarrollan en ella, en especial en la prevención de los riesgos locativos, mecánicos, físicos, químicos, ergonómicos y psicosociales 
+en concordancia con la normatividad en materia de Seguridad y Salud”. 
+ 
+
+--- P.4 ---
+ 
+Municipalidad Provincial de Tacna 
+REGLAMENTO INTERNO DE SEGURIDAD Y 
+SALUD EN EL TRABAJO DE LA 
+MUNICIPALIDAD PROVINCIAL DE TACNA 
+F. Aprobación 
+RISST- 001 
+14/11/24 
+Versión 
+02 
+Página 4 /51 
+ 
+ 
+Nuestra Institución, considera que su capital más importante es su personal y por ello es prioridad el cuidado de su Seguridad Salud y 
+del Ambiente de Trabajo, para el mejor desarrollo de sus actividades, buscando mejorar en forma continua y sostenida, las actitudes y 
+condiciones de Seguridad, Salud Ocupacional y Ambiente de Trabajo de su personal, proyectando sus programas hacia su personal, 
+su familia y la comunidad. 
+ 
+Para ello reconoce que: 
+1. La prevención y control de accidentes y de eventos indeseados es responsabilidad de todos. 
+2. Identificar los peligros, evaluar y controlar los riesgos significativos de seguridad, salud ocupacional y ambiente de trabajo es una 
+prioridad. 
+3. Mantener las condiciones de higiene y limpieza en los servicios de bienestar, contribuye al cuidado de la salud y comodidad de 
+quienes los usan. 
+4. Cumplir con la normativa legal aplicable, favorece la seguridad de su personal. 
+ 
+CAPITULO III 
+ 
+DEL SISTEMA DE SEGURIDAD Y SALUD EN EL TRABAJO 
+Art. 07 Establecimiento del Sistema de Seguridad y Salud en el Trabajo: 
+El establecimiento de un sistema de Seguridad y Salud en el Trabajo, tiene por objeto contar con un proceso de gerenciamiento 
+que permita detectar, evaluar y controlar la Seguridad y Salud en el Trabajo, basándose en el compromiso y capacitación de todos 
+los servidores independientemente de sus cargos, tiempo o tipo de prestación de servicios. Este sistema estará organizado de tal manera 
+que permita subministrar una adecuada protección a los trabajadores y terceros. Para establecer el Sistema de Seguridad y Salud en el 
+Trabajo, se efectuará una evaluación o diagnóstico del estado de Seguridad y Salud en el centro de trabajo. 
+De los resultados obtenidos se planificará la implementación de un Sistema de Seguridad y Salud en el Trabajo, así como el 
+mejoramiento continuo de este, a fin de conseguir: 
+1) 
+Adecuarse y cumplir con las Normas Legales pertinentes. 
+2) 
+Mejorar el desempeño laboral en forma decente y segura 
+3) 
+Desarrollar las actividades en la Institución de forma segura y saludable 
+4) 
+Lograr una adecuada gestión de control, eliminación o reducción de riesgos a través de: 
+a. Establecer medidas o mecanismos de identificación, prevención control de riesgos 
+b. Establecer medidas de mejoramiento continuo de los procesos, gestión de cambio, preparación, y respuesta y 
+situaciones de emergencia. Adecuada gestión administrativa en las adquisiciones y contrataciones relacionadas con 
+la Seguridad y Salud en el Trabajo. 
+ 
+Art. 08 Principio del Sistema de Seguridad y Salud en el Trabajo: 
+ 
+El Sistema de Seguridad y Salud en el Trabajo se regirá por los siguientes principios básicos: 
+ 
+1) Compromiso sostenido de los funcionarios de la alta y mediana dirección de la MPT con los trabajadores en materia 
+de Seguridad y Salud en el Trabajo. 
+2) Participación sostenida de los Trabajadores en el Sistema de Seguridad y Salud en el Trabajo a través de: 
+a. La consulta, información y capacitación en todos los aspectos de Seguridad y Salud en el Trabajo. 
+b. El funcionamiento del Comité Central y Sub Comités de Seguridad y Salud en el Trabajo. 
+3) El reconocimiento de los representantes de los trabajadores a fin de propender a la sensibilización y compromiso con el 
+Sistema. 
+ 
+
+--- P.5 ---
+ 
+Municipalidad Provincial de Tacna 
+REGLAMENTO INTERNO DE SEGURIDAD Y 
+SALUD EN EL TRABAJO DE LA 
+MUNICIPALIDAD PROVINCIAL DE TACNA 
+F. Aprobación 
+RISST- 001 
+14/11/24 
+Versión 
+02 
+Página 5 /51 
+ 
+ 
+4) Coherencia en la implementación de medidas de prevención de riesgos en cada Gerencia, Sub Gerencia, Oficina y áreas 
+de trabajo, especialmente en donde se ejecuta actividades de alto riesgo. 
+5) Fomentar el trabajo en equipo, el respeto mutuo y la autoestima, a fin de incentivar la cooperación y participación 
+de los trabajadores. 
+6) Promover la cultura de la seguridad, a fin de interiorizar conceptos de prevención y pro actividad en Seguridad y Salud en el 
+Trabajo, promoviendo actividades y comportamientos seguros. 
+7) Establecimiento de medios de reconocimiento al personal proactivo. 
+8) Utilizar la metodología del mejoramiento continuo sobre la base de: 
+a. La retroalimentación proveniente de la variación de actividades, nuevas tecnologías o accidentes de trabajo, para 
+actualizar la identificación de peligros y evaluación de riesgos en las actividades que desarrolla la MPT 
+especialmente en las actividades de alto riesgo, a fin de fortalecer el sistema de control de riesgos y evitar pérdidas 
+a la Salud. 
+b. Identificación de las debilidades o desviaciones en las prácticas, procedimientos y condiciones consideradas 
+seguras ya establecidas. 
+c. Establecer estándares de seguridad. 
+d. Medición y evaluación del desempeño laboral con respecto a los estándares de seguridad establecidos. 
+e. Corrección oportuna y reconocimiento del mejor desempeño y de las buenas prácticas en seguridad y salud en el trabajo. 
+9) Aplicación de medidas de prevención y protección considerando el orden de prioridad siguiente: 
+a. Eliminación inmediata de peligros y riesgos detectados. 
+b. Control de los peligros y riesgos, adoptando todas las medidas técnicas administrativas posibles. 
+c. Minimizar los peligros y riesgos, adoptando procedimientos o sistemas seguros y estableciendo disposiciones 
+administrativas de control monitoreo. 
+d. Proporcionar equipos de protección personal adecuados, asegurándose del uso correcto y apropiado, conservación 
+por parte de los trabajadores. 
+Art. 09 Mejoramiento Continuo del Sistema de Seguridad y Salud en el Trabajo 
+ 
+El mejoramiento continuo del Sistema de Seguridad y Salud en el Trabajo, se basa en la vigilancia y control de: 
+1. Los objetivos de Seguridad y Salud en el Trabajo acordados, después de evidenciar la necesidad de mejora. 
+2. Los procedimientos adoptados, a fin de evaluar su eficacia y eficiencia con relación a la gestión de la Seguridad y 
+Salud en el Trabajo. 
+3. Los resultados de las actividades de identificación de los peligros y evaluación de los riesgos. 
+4. Los resultados de la supervisión y medición de los indicadores de eficiencia. 
+5. La investigación de accidentes, enfermedades e incidentes relacionados con el trabajo. 
+6. Los resultados y recomendaciones de las auditorías periódicas y evaluaciones realizadas por la MPT. 
+7. Las recomendaciones del Comité o Subcomité de Seguridad y Salud en el Trabajo o de los supervisores de Seguridad y 
+Salud en el Trabajo o por cualquier trabajador en pro de las mejoras del Sistema. 
+8. Los cambios y adecuación a las Normas Legales vigentes. 
+9. La información pertinente considerada nueva. 
+10. Los resultados de los programas de protección y promoción de la salud. 
+ 
+Art. 10 De las Actividades de Alto Riesgo 
+En la tabla siguiente se identifica las Unidades orgánicas donde se desarrollan actividades de Alto Riesgo, para identificar a los 
+trabajadores que las ejecutan debiéndose e incluir a aquellos que por la naturaleza de sus funciones deben desplazarse continuamente 
+en las zonas de trabajo de alto riesgo: 
+
+--- P.6 ---
+ 
+Municipalidad Provincial de Tacna 
+REGLAMENTO INTERNO DE SEGURIDAD Y 
+SALUD EN EL TRABAJO DE LA 
+MUNICIPALIDAD PROVINCIAL DE TACNA 
+F. Aprobación 
+RISST- 001 
+14/11/24 
+Versión 
+02 
+Página 6 /51 
+ 
+ 
+Tabla N° 1 
+ 
+Nº 
+UNIDAD ORGÁNICA 
+ACTIVIDADES DE ALTO RIESGO y PERSONAL EN: 
+1 
+OFICINA GENERAL DE 
+ADMINISTRACIÓN Y FINANZAS 
+Of. de Equipo Mecánico: Prevencionista de Riesgos, Personal de canteras, diversos taller
+y manejo de Maquinarias pesadas. Personal que ejecuta funciones de prevencionista 
+riesgos del trabajo. 
+Of. Abastecimiento: Personal de Limpieza y conserjes. 
+Personal que desarrolla actividades en la Imprenta. 
+2 
+GERENCIA DE INGENIERÍA Y OBRAS 
+Personal en talleres de madera y metal en todas las obras o mantenimiento por administraci
+directa, por impuestos o por terceros. Gerente de GIO. Personal que por la naturaleza de s
+funciones acude continuamente a las zonas de impacto de obras y mantenimientos. Person
+de obras y mantenimientos por 
+administración directa como: Residente, Prevencionista de riesgos, Asistente Técnic
+Asistente administrativo. 
+3 
+OFICINA GENERAL DE SUPERVISIÓN D
+INVERSIONES 
+Personal que supervisa obras, mantenimientos o servicio de terceros. 
+4 
+    GERENCIA DE DESARROLLO 
+ECONÓMICO SOCIAL 
+Sub Gerencia de Comercialización: Prevencionista de Riesgos, Personal de la Policía 
+Municipal, Camal Municipal, Policlínico Municipal. 
+5 
+GERENCIA DE GESTIÓN AMBIENTAL 
+Sub Gerencia de Protección Ambiental y Servicios a la Ciudad: Prevencionistas 
+Riesgos, Personal de la U.G. Residuos Sólidos y U.G. Áreas Verdes y Bosque Municip
+Tratamiento de aguas servidas, zoológico y personal de los Planes de Trabajo 
+6 
+OFICINA GENERAL DE 
+COMUNICACIONES Y PREVENCIÓN D
+CONFLICTOS 
+Personal que ejecuta funciones en actividades relacionadas a difundir informaciones sob
+la Municipalidad y de establecer contacto con los medios, hacen trabajos de publicidad
+marketing (creación de spots publicitarios, campañas, diseño…), organización de eventos
+relaciones públicas, ya que en realidad todos estos ámbitos tienen puntos en común. 
+7 
+OFICINA GENERAL DE GESTIÓN DE 
+RECURSOS HUMANOS 
+Personal del Área Seguridad y Salud en el Trabajo que realiza funciones de inspección. 
+8 
+GERENCIA DE TRANSPORTE PÚBLICO Y
+SEGURIDAD CIUDADANA 
+Prevencionista de Riesgos, Personal de Seguridad Ciudadana y Policía Municipal, 
+Personal de mantenimiento vial y semáforos. 
+ 
+ 
+CAPITULO IV 
+ 
+DEL COMITE DE SEGURIDAD Y SALUD EN EL TRABAJO 
+Art. 11 Funciones del Comité de Seguridad y Salud en el Trabajo 
+ 
+Son funciones del Comité de Seguridad y Salud en el Trabajo: 
+a) Conocer los documentos e informes relativos a las condiciones de trabajo que sean necesarios para el cumplimiento de sus funciones, 
+así como los procedentes de la actividad del servicio de seguridad y salud en el trabajo. 
+b) Aprobar y vigilar el cumplimiento del Reglamento Interno de Seguridad y Salud en el Trabajo y el Plan Anual de Seguridad y Salud en el 
+Trabajo, elaborados por el empleador. 
+c)  
+ 
+
+--- P.7 ---
+ 
+Municipalidad Provincial de Tacna 
+REGLAMENTO INTERNO DE SEGURIDAD Y 
+SALUD EN EL TRABAJO DE LA 
+MUNICIPALIDAD PROVINCIAL DE TACNA 
+F. Aprobación 
+RISST- 001 
+14/11/24 
+Versión 
+02 
+Página 7 /51 
+ 
+ 
+d) Conocer, aprobar y dar seguimiento al cumplimiento del Programa Anual de Seguridad y Salud en el Trabajo, del Programa Anual de 
+Seguridad y Salud en el Trabajo y del Programa Anual de Capacitaciones en seguridad y salud en el trabajo. 
+e) Participar en la elaboración, aprobación, puesta en práctica y evaluación de las políticas, planes y programas de promoción de la seguridad 
+y salud en el trabajo, de la prevención de accidentes y enfermedades ocupacionales. 
+f) Promover que al inicio de la relación laboral los trabajadores/as reciban inducción, capacitación y entrenamiento sobre la 
+prevención de riesgos laborales presentes en el lugar y puesto de trabajo. 
+g) Vigilar el cumplimiento de la legislación, las normas internas y las especificaciones técnicas del trabajo relacionadas con la 
+seguridad y salud en el lugar de trabajo. 
+h) Promover que los trabajadores estén informados y conozcan los reglamentos, instrucciones, especificaciones técnicas de 
+trabajo, avisos y demás documentos escritos o gráficos relativos a la prevención de los riesgos en el lugar de trabajo. 
+i) Promover el compromiso, colaboración y participación activa de todos/as los/las trabajadores/as en el fomento de la prevención 
+de riesgos en el lugar de trabajo. 
+j) Realizar inspecciones periódicas del lugar de trabajo y de sus instalaciones, maquinarias y equipos, a fin de reforzar la gestión preventiva. 
+k) Considerar las circunstancias e investigar las causas de todos los incidentes, accidentes y de las enfermedades 
+ocupacionales que ocurran en el lugar de trabajo, emitiendo las recomendaciones respectivas para evitar la repetición de 
+éstos. 
+l) Verificar el cumplimiento y eficacia de sus recomendaciones para evitar la repetición de los accidentes y la ocurrencia de enfermedades 
+profesionales. 
+m) 
+Hacer recomendaciones apropiadas para el mejoramiento de las condiciones y el medio ambiente de trabajo. 
+n) Revisar mensualmente las estadísticas de los incidentes, accidentes y enfermedades profesionales ocurridas en el lugar de trabajo, 
+cuyo registro y evaluación son constantemente actualizados por la unidad orgánica de seguridad y salud en el trabajo del empleador. 
+o) Colaborar con los servicios médicos y de primeros auxilios. 
+p) Supervisar los servicios de seguridad y salud en el trabajo y la asistencia y asesoramiento al empleador y al trabajador. 
+q) Reportar a la máxima autoridad del empleador la siguiente información: 
+ 
+q.1) El accidente mortal o el incidente peligroso, de manera inmediata. 
+q.2) La investigación de cada accidente mortal y medidas correctivas adoptadas dentro de los diez (10) días de ocurrido. 
+q.3) Las actividades del Comité de Seguridad y Salud en el Trabajo con las estadísticas de accidentes, incidentes y enfermedades 
+profesionales, trimestralmente. 
+r) Llevar el control del cumplimiento de los acuerdos registrados en el Libro de Actas. 
+s) Reunirse mensualmente en forma ordinaria para analizar y evaluar el avance de los objetivos establecidos en el programa anual, y en 
+forma extraordinaria para analizar accidentes que revistan gravedad o cuando las circunstancias lo exijan. 
+ 
+Art. 12 Constitución de los Subcomités de Seguridad y Salud en el Trabajo 
+La constitución de Sub Comités, Brigadas está a carago de la Gerencia, Jefatura General, Unidad Orgánica obedecerá a la necesidad de 
+acuerdo a las normas vigentes al caso, considerando los aspectos de tipo de actividades, estructura orgánica institucional y ubicación 
+geográfica de sus instalaciones administrativas y de servicios. 
+Art. 13 Funciones de los Supervisores de Seguridad y Salud en el Trabajo 
+ 
+Las funciones del Comité de Seguridad y Salud en el trabajo las asume la situación que se dá en obras de administración directa o indirecta, 
+cuando el número de trabajadores de la Obra o mantenimiento de Construcción Civil es menor a 20 trabajadores. 
+ 
+Son funciones de los supervisores de seguridad y salud en el Trabajo: 
+a) Promover la seguridad y salud en el trabajo. 
+b) Asesorar y vigilar el cumplimiento de la normativa nacional. 
+c) 
+Hacer recomendaciones para mejorar las condiciones de trabajo. 
+d) Velar por la implementación de las medidas adoptadas. 
+ 
+ 
+
+--- P.8 ---
+ 
+Municipalidad Provincial de Tacna 
+REGLAMENTO INTERNO DE SEGURIDAD Y 
+SALUD EN EL TRABAJO DE LA 
+MUNICIPALIDAD PROVINCIAL DE TACNA 
+F. Aprobación 
+RISST- 001 
+14/11/24 
+Versión 
+02 
+Página 8 /51 
+ 
+ 
+e) Reportar de manera inmediata cualquier incidente o accidente laboral del que tenga conocimiento, siguiendo los 
+procedimientos establecidos para este tipo de eventos no deseados. 
+f) 
+Participar en las inspecciones programadas del Comité de Seguridad y Salud en el Trabajo. 
+g) Formular o proponer acciones correctivas y/o preventivas para mitigar las condiciones de riesgo en el entorno laboral que deriven 
+de accidentes, incidentes peligrosos o enfermedades ocupacionales y otros. 
+h) Velar por el cumplimiento de las normativas, regulaciones o directivas internas en materia de Seguridad y Salud en el Trabajo. 
+i) 
+Colaborar en la investigación de incidentes y/o accidentes laborales y proponer acciones correctivas. 
+j) 
+Fomentar la implementación de programas de inducción, capacitaciones generales o específicas y entrenamientos en 
+materia de seguridad y salud en el trabajo. 
+k) 
+Participación en la ejecución y fomento de las actividades planificadas orientadas a la seguridad y salud en el entorno laboral. 
+l) 
+Programar inspecciones regulares en los lugares de trabajo para identificar y evaluar posibles riesgos en materia de seguridad y salud 
+en el trabajo. 
+m) Asistir y fomentar actividades programadas relacionadas con seguridad salud en el trabajo, que promuevan una cultura de seguridad 
+laboral, e implementación de prácticas seguras. 
+ 
+ 
+CAPITULO V 
+ 
+ 
+ATRIBUCIONES Y OBLIGACIONES DE LA MUNICIPALIDAD PROVINCIAL DE TACNA 
+Art. 14 Atribuciones. 
+Son atribuciones de la Municipalidad Provincial de Tacna, en materia de Seguridad y Salud en el Trabajo: 
+a) Desarrollar una Política de Seguridad y Salud en el Trabajo, teniendo como objetivos fundamentales: 
+i. 
+El cumplimiento de las normas de seguridad y salud en el trabajo. 
+ii. 
+La protección de la seguridad y salud a todos los trabajadores. 
+iii. 
+La integración de un sistema de seguridad y salud en el trabajo, con otros sistemas en el ámbito institucional. 
+b) Proveer a los trabajadores la inducción oportuna, capacitación y entrenamiento adecuados en seguridad y salud, así como información 
+sobre las medidas preventivas y de protección necesarias, para que se apliquen en el lugar de trabajo o en la actividad específica 
+asignada. Esto debe realizarse en el momento de la contratación, independientemente de la modalidad o duración del contrato, durante 
+el desempeño de las tareas asignadas, al producirse cambios en la función o puesto de trabajo, o al implementarse nuevas tecnologías. 
+c) 
+Llevar a cabo investigaciones para identificar responsabilidades y establecer medidas correctivas cuando se hayan producido daños en 
+la salud de los trabajadores o cuando existan indicios de que las medidas preventivas son insuficientes o no se están aplicando 
+correctamente. 
+d) Planificar la acción preventiva en materia de seguridad y salud en el trabajo, basándose en evaluaciones que consideren las 
+características y experiencia de los trabajadores, la naturaleza de las actividades laborales asignadas, el uso de máquinas, equipos, 
+herramientas, materiales o sustancias, y las condiciones del entorno laboral. 
+e) Realizar controles periódicos de la salud de los trabajadores y de las condiciones de trabajo para identificar  
+y evaluar posibles situaciones de riesgo. 
+f) 
+Implementar o ajustar medidas de prevención de riesgos laborales relacionadas con los métodos de trabajo y la prestación de actividades 
+laborales, con el objetivo de garantizar mayores niveles de protección y salud en el entorno laboral. 
+g) Adoptar las medidas necesarias cuando se considere que los equipos de protección, uniformes o disposiciones laborales son 
+inadecuados o insuficientes, representando un riesgo para la seguridad y salud de los trabajadores. 
+h) Sancionar el incumplimiento de las disposiciones establecidas en el presente Reglamento, así como de las normativas de prevención de 
+riesgos laborales. 
+Art. 15 Obligaciones de la Municipalidad Provincial de Tacna: 
+ 
+Son obligaciones de la Municipalidad Provincial de Tacna en materia de Seguridad y Salud en el Trabajo: 
+a) Proporcionar en forma impresa o digital a todo trabajador una copia del presente Reglamento de Seguridad y Salud en el 
+Trabajo, y garantizar su comprensión mediante capacitación sobre su contenido y garantizar su práctica. 
+ 
+
+--- P.9 ---
+ 
+Municipalidad Provincial de Tacna 
+REGLAMENTO INTERNO DE SEGURIDAD Y 
+SALUD EN EL TRABAJO DE LA 
+MUNICIPALIDAD PROVINCIAL DE TACNA 
+F. Aprobación 
+RISST- 001 
+14/11/24 
+Versión 
+02 
+Página 9 /51 
+ 
+ 
+b) Aplicar medidas de prevención de riesgos laborales implementando acciones preventivas considerando lo siguiente: 
+1. Gestionar el control de riesgos, identificando los peligros y riesgos laborales, eliminándolos en su origen cuando sea posible. 
+Si no se puede eliminar, aplicar otras medidas de control que reduzcan el peligro y riesgo, aplicando sistemas de control 
+adecuados. 
+2. Asignar labores seguras considerando las competencias personales, técnicas y profesionales en seguridad y salud en el 
+trabajo al asignar tareas, diseñar puestos de trabajo, y seleccionar equipos que garanticen la seguridad y minimicen riesgos. 
+3. Integrar nuevos conocimientos en materia de seguridad y salud en el trabajo a través de planes y programas de prevención 
+de riesgos laborales en la cultura organizacional, para el desempeño laboral. 
+4. 
+Capacitar y entrenar a los trabajadores de manera anticipada y adecuada, manteniendo políticas de seguridad y protección tanto 
+colectivas como individuales. 
+c) Proporcionar a los trabajadores equipos de protección personal adecuados según el tipo de trabajo y riesgos específicos, y 
+supervisar su uso efectivo. 
+d) Realizar una evaluación continua para asegurar que los equipos de protección personal (EPP) proporcionados se mantienen 
+adecuados para los riesgos actuales. En caso se identifique que los EPP ya no cumplen con los requisitos necesarios para mitigar los 
+riesgos presentes, proceder a su reemplazo por equipos nuevos y adecuados. 
+e) Garantizar la protección de los trabajadores con discapacidad que sean más vulnerables a condiciones de riesgo. 
+f) Adoptar las medidas necesarias para evitar la exposición a riesgos conforme a las disposiciones vigentes. 
+g) Garantizar que los extintores estén debidamente operativos, cumpliendo con los requisitos y normas vigentes, incluyendo la 
+verificación de que estén correctamente ubicados y revisados periódicamente, con el agente extintor apropiado. 
+h) Asegurar que los botiquines estén debidamente equipados con elementos y materiales para primeros auxilios, cumpliendo con las 
+exigencias necesarias. 
+ 
+Art. 16 Responsabilidades de los Inmediatos Superiores (Gerentes, Sub Gerentes, Jefes de Oficinas Generales) de los Órganos de alta 
+dirección, asesoramiento y de apoyo: 
+Los inmediatos superiores de los órganos de alta dirección, asesoramiento y de apoyo que tengan a su cargo directa o indirectamente, personal 
+sujeto a regímenes laborales de la MPT, deberá tener en cumplir lo siguiente: 
+ 
+a) Deberán contar con 01 prevencionista de riesgos que implementará el sistema de gestión de seguridad y salud en el trabajo en ámbito 
+de las actividades a desarrollar por cada uno de los tres órganos mencionados. 
+b) En los órganos donde se desarrollen actividades de alto riesgo deberá conformar un Sub Comité de Seguridad y Salud en el 
+Trabajo a efectos de descentralizar y atender en forma inmediata los requerimientos provenientes de la gestión de prevención 
+como: mejora continua, accidentes, incidentes peligros, medidas de prevención y corrección. El proceso de elecciones estará a 
+cargo de la Gerencia, Sub Gerencia o Jefaturas de Oficinas Generales y prevencionista de riesgos designado, cumpliendo lo 
+estipulado en la normativa vigente en la materia. 
+c) Elaborar y presentar un Plan de Seguridad y Salud en el Trabajo para su revisión al área de seguridad y salud en el trabajo y proseguir 
+el trámite de su aprobación por el Comité Central de seguridad y salud en el trabajo de la Municipalidad Provincial de Tacna. 
+d) Remitir un informe mensual de las actividades desarrolladas en torno a la implementación y aplicación del Plan de Seguridad y Salud en 
+el Trabajo. (Anexo 4) 
+e) Garantizar la oportuna asignación de todos los recursos humanos, materiales, financieros y técnicos que sean necesarios para 
+implementar y ejecutar actividades relacionadas con la Seguridad y Salud en el Trabajo dentro del marco de sus competencias. 
+f) 
+Disponer que al personal que ejecuta actividades de alto riesgo, se le realicen exámenes médicos ocupacionales ANTES, 
+DURANTE Y DESPUÉS a cargo del centro de costos de su Gerencia, Sub Gerencia u Oficina. 
+g) Disponer que todos los trabajadores que no ejecutan actividades de ALTO RIESGO deberán pasar exámenes médicos pre-
+ocupacionales u ocupacionales (según corresponda) cada dos (2) años a cargo del centro de costos de su Gerencia, Sub Gerencia u 
+Oficina. 
+h) Para los trabajadores nuevos deberá realizarse los exámenes médicos pre-ocupacionales a cargo del centro de costos de su 
+Gerencia, Sub Gerencia u Oficina. 
+i) 
+Garantizar que los trabajadores a su cargo sean evaluados respecto a la aptitud para el puesto de trabajo mediante exámenes médicos 
+ocupacionales. 
+ 
+ 
+
+--- P.10 ---
+ 
+Municipalidad Provincial de Tacna 
+REGLAMENTO INTERNO DE SEGURIDAD Y 
+SALUD EN EL TRABAJO DE LA 
+MUNICIPALIDAD PROVINCIAL DE TACNA 
+F. Aprobación 
+RISST- 001 
+14/11/24 
+Versión 
+02 
+Página 10 /51 
+ 
+ 
+j) 
+Garantizar la protección con el seguro complementario de trabajo de riesgo para los trabajadores que ejecuten actividades de alto 
+riesgo según la normativa vigente en la materia. 
+k) 
+Asegurarse que los trabajadores bajo su cargo reciban vacunación adecuada y oportuna contra Hepatitis 
+“A”, Hepatitis “B”, Antitetánica e Influenza primordialmente, según grado de exposición en el trabajo. 
+l) 
+Liderar y hacer cumplir los contenidos de los programas o planes de seguridad y salud en el trabajo, así como también las disposiciones 
+del presente Reglamento manteniendo un compromiso visible, constante y sostenido con los principios de prevención. 
+m) Ejecutar las auditorías periódicas y en base de ellas, disponer medidas correctivas, preventivas y proactivas necesarias para la mejora 
+continua del Sistema de Gestión de Seguridad y Salud en el Trabajo, mediante mecanismos de control preventivo, periódico y correctivo 
+que permitan identificar y mitigar los riesgos laborales de manera efectiva a cargo de su centro de costos correspondiente. 
+n) Supervisar periódicamente el cumplimiento de las medidas de seguridad establecidas, asegurándose de que se implementen controles 
+para minimizar los riesgos, y aplicar sanciones o correcciones pertinentes en caso de incumplimientos, en línea con las normativas 
+vigentes. 
+o) Asegurarse que los trabajadores a su disposición reciban una capacitación adecuada y continua sobre los riesgos específicos de sus 
+actividades, el correcto uso de los Equipos de Protección personal, medidas de prevención individual y colectiva. 
+p) Asegurar que los botiquines estén debidamente equipados con elementos y materiales para primeros auxilios, cumpliendo con las 
+exigencias necesarias. 
+q) Asegurar que los extintores estén debidamente operativos, cumpliendo con la normativa vigente en la materia. 
+r) 
+Asegurar que los espacios de trabajo, de circulación y evacuación estén debidamente señalizados. 
+s) 
+Asegurar que la infraestructura e instalaciones sanitarias de los espacios físicos que se encuentre a cargo de la Gerencia, Sub Gerencia, 
+Oficina o área de trabajo se mantengan en óptimas condiciones para brindar un adecuado ambiente de trabajo. 
+ 
+Art. 17 Atribuciones y Obligaciones de los Funcionarios de confianza  
+ 
+a) Promueve e integra la Gestión de la Seguridad y Salud en el Trabajo a la Gestión General de la Municipalidad Provincial 
+de Tacna considerando presupuestalmente su implementación. 
+b) Ejerce el liderazgo y manifiesta su respaldo a las actividades de su jurisdicción en materia de Seguridad y Salud en el Trabajo. 
+c) 
+Cumplir con la política de Seguridad y Salud en el Trabajo. 
+d) Se compromete a promover y mantener un ambiente de trabajo seguro y saludable en concordancia con las mejores prácticas y con el 
+cumplimiento de las normativas vigentes, en materia de Seguridad y Salud en el Trabajo. 
+e) Establecer y hacer funcionar al Comité o Sub Comité de Seguridad y Salud en el Trabajo, brindando los permisos correspondientes 
+para la participación de los miembros del Comité de seguridad y salud en el trabajo en sus actividades programadas. 
+f) 
+Supervisa el cumplimiento de la normativa en materia de Seguridad y Salud en el Trabajo. 
+g) Implementar las recomendaciones del Comité o Sub Comité de Seguridad y Salud en el Trabajo. 
+Del Gerente Municipal 
+ 
+a) Establecer políticas claras y efectivas para garantizar el cumplimiento de la Gestión de Seguridad y Salud en el Trabajo. 
+b) Promover activamente una cultura de Prevención de Riesgos Laborales, en coordinación con el Comité de Seguridad y Salud en el Trabajo 
+con el área encargada de la prevención de los riesgos laborales y de salud. 
+c) 
+Asegurar que todas las personas responsables de la Seguridad y Salud en el Trabajo, incluido el Comité de Seguridad y Salud en el 
+Trabajo, cuenten con los recursos necesarios para desempeñar sus funciones de manera eficaz, considerando presupuestalmente su 
+implementación. 
+De los Gerentes, Jefes de Oficinas Generales y Sub Gerentes 
+ 
+a) Asegurar la aplicación y el cumplimiento del presente Reglamento Interno de Seguridad y Salud en el Trabajo en las actividades 
+a su cargo. 
+b) Fomentar una cultura de prevención de riesgos laborales entre los trabajadores, contratistas, proveedores y cualquier persona bajo 
+su responsabilidad. 
+c) 
+Estimular y fomentar el desarrollo de una mayor conciencia de prevención entre trabajadores, proveedores y contratistas, 
+implementando el Sistema de Gestión de Seguridad y Salud en el Trabajo. 
+d) Realizar un seguimiento constante de las acciones preventivas en seguridad y salud en los diferentes frentes de trabajo. 
+ 
+
+--- P.11 ---
+ 
+Municipalidad Provincial de Tacna 
+REGLAMENTO INTERNO DE SEGURIDAD Y 
+SALUD EN EL TRABAJO DE LA 
+MUNICIPALIDAD PROVINCIAL DE TACNA 
+F. Aprobación 
+RISST- 001 
+14/11/24 
+Versión 
+02 
+Página 11 /51 
+ 
+ 
+d) Suministrar los recursos necesarios para implementar efectivamente las políticas y el Sistema de Seguridad y Salud en el Trabajo, 
+considerando presupuestalmente su implementación. 
+e) Asegurarse que en las capacitaciones de inducción al personal nuevo se le entregue de manera virtual o física el presente reglamento 
+interno de Seguridad y Salud en el Trabajo. 
+De los Residentes responsables de Obra 
+a) Tener pleno conocimiento de las Normativas en materia de Seguridad y Salud en el Trabajo y Reglamento Nacional de Edificaciones. 
+b) Asegurarse que en las capacitaciones de inducción al personal nuevo se le entregue de manera virtual o física el presente reglamento 
+interno de Seguridad y Salud en el Trabajo. 
+c) 
+Ser responsable de la implementación del Plan de Seguridad y Salud en el Trabajo (PSST) antes de iniciar las labores previstas, y 
+asegurar su cumplimiento en todas las fases de ejecución de la obra. 
+d) Participar en las inspecciones de obra para verificar el cumplimiento de las medidas de seguridad y salud en el trabajo. 
+e) Presentar el Plan de Seguridad y Salud en el Trabajo para su evaluación y aprobación el antes del inicio de actividades. 
+f) 
+Garantizar la revisiones médico ocupacionales a todo su personal conforme a ley. 
+g) Contratar el seguro complementario de trabajo de riesgo (SCTR) para su personal que ejecuta labores clasificadas de “alto riesgo” 
+en el frente de trabajo, incluido personal que por la naturaleza de sus funciones debe ingresar a dicho frente. 
+h) Notificar y reportar todos los incidentes peligrosos o accidentes acaecidos en la obra, a las instancias superiores 
+correspondientes - Seguridad y Salud en el Trabajo. 
+i) 
+Implementar las recomendaciones sobre Seguridad y Salud en el trabajo, que efectué en materia de Seguridad y Salud en el 
+Trabajo; con la finalidad de identificar los peligros y minimizar los riesgos de trabajo. 
+j) 
+Asegurar el cumplimiento del Reglamento Interno de Seguridad y Salud en el Trabajo, promoviendo una cultura de seguridad 
+mediante el liderazgo y el ejemplo. 
+k) 
+Informar diariamente a los trabajadores sobre los riesgos y peligros laborales, y garantizar la ejecución del Análisis de Trabajo Seguro 
+(ATS). 
+l) 
+Proveer primeros auxilios y coordinar la evacuación de los trabajadores accidentados o en situación de peligro. 
+m) Coordinar con el personal encargado del Sistema de Gestión, el Comité de Seguridad y Salud en el trabajo 
+o los supervisores, para implementar las medidas más adecuadas que garanticen la seguridad en la obra 
+o frente de trabajo. 
+n) Cumplir con la gestión de los registros y documentos obligatorios del sistema de seguridad y salud en el trabajo. 
+o) Elevar informe mensual de aplicación del Plan de Seguridad y Salud en el Trabajo de inicio a fin de obra o mantenimiento. 
+De los servicios de terceros a la Municipalidad Provincial de Tacna 
+Toda empresa o persona que proporcione servicios a la Municipalidad Provincial de Tacna deberá cumplir con lo siguiente según corresponda: 
+a) En caso de empresa presentar aprobado el Plan de seguridad y salud en el trabajo (por su respectivo comité o supervisor de seguridad y 
+salud en el trabajo) antes del inicio de las actividades de ejecutar. 
+b) En caso de persona natural, presentar el procedimiento seguro de la actividad a ejecutar para el visto bueno de seguridad y salud 
+en el trabajo de la Municipalidad Provincial de Tacna. 
+c) En caso de persona natural deberá presentar su Seguro Complementario de Trabajo de Riesgo y su certificado de aptitud médica 
+para la ejecución de dicha actividad. 
+d) Acatar las normativas legales vigentes en materia de seguridad y salud en el trabajo, así como el presente Reglamento Interno de 
+Seguridad y Salud en el Trabajo. 
+e) En caso de ser empresa capacitar y entrenar a sus trabajadores en aspectos relacionados con la seguridad y salud laboral. 
+f) 
+Asegurarse que en las capacitaciones de inducción al personal nuevo se le entregue de manera virtual o física el reglamento interno de 
+Seguridad y Salud en el Trabajo correspondiente. 
+g) Proveer a sus empleados los equipos de protección personal adecuados según las funciones que desempeñen. 
+h) Garantizar que sus trabajadores estén cubiertos por el Seguro Complementario de Trabajo de Riesgo (SCTR) para protección ante 
+accidentes laborales y enfermedades ocupacionales. 
+i) Asegurar que todos los trabajadores antes de ejercer una función determinada hayan completado el examen médico pre-
+ocupacional, que evalúa su capacidad física y mental para determinar si son aptos o no para realizar las tareas asignadas, garantizando 
+de esta manera que no se expongan a riesgos laborales que comprometan su salud o seguridad en el entorno de trabajo. 
+ 
+
+--- P.12 ---
+ 
+Municipalidad Provincial de Tacna 
+REGLAMENTO INTERNO DE SEGURIDAD Y 
+SALUD EN EL TRABAJO DE LA 
+MUNICIPALIDAD PROVINCIAL DE TACNA 
+F. Aprobación 
+RISST- 001 
+14/11/24 
+Versión 
+02 
+Página 12 /51 
+ 
+ 
+j) Informar de inmediato a cualquier miembro del Comité de Seguridad y Salud en el Trabajo y/o encargado de la Oficina de Seguridad y 
+Salud en el Trabajo de la Municipalidad en caso de incidentes o accidentes laborales de su personal a cargo. 
+k) Consultar con el responsable de la Oficina de Seguridad y Salud en el Trabajo de la Municipalidad cualquier duda respecto a la 
+implementación o aplicación de este Reglamento Interno. 
+l) Facilitar las labores de los miembros del Comité de Seguridad y Salud en el Trabajo y/o Supervisores de  
+Seguridad y Salud en el Trabajo de la Municipalidad en el ejercicio de sus funciones. 
+m) Cumplir con la presentación de los registros y documentos obligatorios en forma mensual (o según duración de las actividades 
+ejecutadas) al área encargada de la seguridad y salud en el trabajo. 
+ 
+Del Plan y Programa Anual de Trabajo 
+El Comité de Seguridad y Salud en el Trabajo aprueba el Plan y Programa Anual de Seguridad y Salud de la Municipalidad Provincial de 
+Tacna. 
+Este Programa debe alinearse con los objetivos establecidos en el presente Reglamento, así como con otros elementos que aseguren una 
+gestión preventiva y sistemática de los riesgos presentes en el lugar de trabajo. La elaboración del Programa está a cargo de la Oficina de Seguridad 
+y Salud en el Trabajo, con el apoyo de la Oficina General de Gestión de Recursos Humanos y las demás áreas involucradas en temas de seguridad 
+y salud laboral. 
+ 
+De la Implementación de Registros y Documentación del Sistema de Gestión. 
+ 
+Para los procedimientos de inspección ordenados por la autoridad fiscalizadora todas las unidades orgánicas deben exhibir el registro de accidentes 
+de trabajo, enfermedades ocupacionales e incidentes peligrosos ocurridos en el centro de labores, debiendo consignarse los eventos ocurridos 
+en los doce últimos meses y mantenerlo archivado por espacio de cinco años posteriores al suceso. Adjunto a los registros de la empresa, deben 
+mantenerse las copias de las notificaciones de accidentes de trabajo. 
+A demás deben tener los siguientes registros: 
+a) Registro de accidentes de trabajo, enfermedades ocupacionales, incidentes y otros incidentes en el que deben constar la 
+investigación y las medidas correctivas. 
+b) Registro de entrega de Equipos de Protección personal para trabajadores que ejecutan trabajos de alto riesgo. 
+c) 
+Registro de exámenes médicos ocupacionales. 
+d) Registro del Monitoreo de Agentes Físicos, Químicos, Biológicos, Psicosocialesy Factores de riesgo disergonómicos. 
+e) Registro de entrega del Reglamento Interno de Seguridad y Salud en el Trabajo. 
+f) 
+Registro de inspecciones internas de seguridad y salud en el Trabajo. 
+g) Registro de estadísticas de seguridad y salud 
+h) Registro de equipos de seguridad o emergencia 
+i) 
+Registro de inducción, capacitación, entrenamiento y simulacros de emergencia 
+j) 
+Registro de auditorías. 
+ 
+ 
+CAPITULO VI 
+DE LOS DERECHOS Y OBLIGACIONES DE LOS TRABAJADORES 
+ 
+Art. 18 Derechos de los trabajadores en materia de Seguridad y Salud en el Trabajo. 
+a) Los trabajadores tienen el derecho a recibir una inducción el Reglamento de Seguridad y Salud en el Trabajo en forma virtual o 
+impresa. 
+b) Los trabajadores tienen derecho a que se les aplique las revisiones médicas ocupacionales según lo establece la normativa 
+vigente. 
+ 
+
+--- P.13 ---
+ 
+Municipalidad Provincial de Tacna 
+REGLAMENTO INTERNO DE SEGURIDAD Y 
+SALUD EN EL TRABAJO DE LA 
+MUNICIPALIDAD PROVINCIAL DE TACNA 
+F. Aprobación 
+RISST- 001 
+14/11/24 
+Versión 
+02 
+Página 13 /51 
+ 
+ 
+c) Tienen derecho que, antes de iniciar sus actividades se les debe capacitar sobre los procedimientos de trabajo para actividades 
+correspondientes a las tareas asignadas, incluyéndose la siguiente información básica: 
+1. 
+Descripción de las tareas que deberán realizar. 
+2. 
+Obligaciones y responsabilidades asociadas. 
+3. 
+Equipos y herramientas de trabajo a utilizar. 
+4. 
+Metodología de trabajo que se implementará. 
+5. 
+Análisis de los riesgos relacionados con las tareas a desarrollar. 
+6. 
+Medidas de control, prevención y protección aplicables. 
+d) Los trabajadores tienen el derecho de ser informados y consultados antes de la implementación de cualquier medida de seguridad 
+y salud en el trabajo, así como de cambios en los sistemas, operaciones o procesos que impacten su seguridad y salud laboral. Esto 
+garantiza su participación activa en la gestión preventiva de riesgos. 
+e) Los trabajadores que representen a los trabajadores en el Comité o Subcomité de Seguridad y Salud en el Trabajo o Supervisor de 
+Seguridad y Salud en el Trabajo, están protegidos contra cualquier acto de hostigamiento o represalia cuando exijan el cumplimiento 
+de las normativas y medidas de seguridad y salud establecidas. 
+f) 
+Los trabajadores que representen a los trabajadores en el Comité o Subcomité de Seguridad y Salud en el Trabajo o Supervisor de 
+Seguridad y Salud en el Trabajo, tienen el derecho de revisar, observar y proponer modificaciones a los programas de capacitación y a la 
+implementación de prácticas, factores u operaciones que representen riesgos laborales. También pueden sugerir cambios en el 
+Reglamento vigente o en los manuales internos de seguridad y salud en el trabajo, así como en los acuerdos adoptados por el Comité 
+o Subcomité o supervisor de Seguridad y Salud en el Trabajo. Las observaciones o sugerencias planteadas deberán ser atendidas dentro 
+de los plazos y formas establecidas por la Ley. 
+g) Los trabajadores tienen derecho a ser informados según el tipo de puesto que desempeñen sobre las razones, responsabilidades 
+y resultados de los exámenes periódicos de salud, así como de las investigaciones relacionadas con los riesgos, seguridad y 
+salud en el trabajo. 
+h) Los trabajadores también tienen derecho a ser informados de forma individual y confidencial acerca de los resultados de los exámenes 
+médicos previos a la asignación de un puesto o de los realizados de manera periódica. Estos resultados, al ser de carácter confidencial, 
+no deberán ser utilizados para tomar decisiones discriminatorias en contra del trabajador ni afectar su derecho a la privacidad. 
+Art. 19 Obligaciones de los trabajadores. 
+Son obligaciones de los trabajadores lo siguiente: 
+a) Cumplir con las disposiciones del presente Reglamento, los manuales internos de seguridad y salud en el trabajo, así como las 
+instrucciones y programas emitidos por la Municipalidad Provincial de Tacna (MPT) o a través de sus superiores inmediatos. Para 
+formalizar este cumplimiento, los trabajadores deberán suscribir la Declaración de Conocimiento del Reglamento Interno de Seguridad 
+y Salud en el Trabajo. 
+b) Los trabajadores que ejecuten trabajos de alto riesgo tienen la obligación de aplicar la hoja del Análisis de Trabajo Seguro (ATS), proveído 
+por el prevencionista de riesgos. 
+c) Usar de manera correcta las máquinas, herramientas, equipos de trabajo, así como los equipos de protección individual y 
+colectiva proporcionados. 
+d) Abstenerse de operar o manipular maquinaria, unidades móviles, equipos, herramientas u otros elementos sin contar con la debida 
+autorización, capacitación, certificación o licencia, según corresponda. 
+e) Colaborar y participar activamente en los procesos de investigación de accidentes laborales y enfermedades ocupacionales 
+cuando lo requiera la MPT, las autoridades competentes, o cuando los trabajadores consideren que su contribución puede esclarecer 
+dichos eventos. 
+f) 
+Velar por el cuidado de su propia salud física y mental, y contribuir al bienestar de sus compañeros mientras realizan sus labores. 
+g) Evitar la generación de conflictos y actos de violencia o agresiones entre compañeros de trabajo. 
+h) Someterse a los exámenes médicos necesarios para la evaluación de su salud. 
+i) 
+Participar en la elección de representantes o actuar como representantes ante el Comité o Sub comité de Seguridad y Salud en el Trabajo, 
+así como en programas, sistemas o actividades que promueva la MPT en relación con la prevención de riesgos laborales. 
+j) 
+Informar cualquier acto, medida, situación o práctica que pueda poner en riesgo la seguridad y salud de los trabajadores o las 
+instalaciones del centro de trabajo. De ser posible, deberán adoptar de inmediato las medidas correctivas correspondientes. 
+ 
+
+--- P.14 ---
+ 
+Municipalidad Provincial de Tacna 
+REGLAMENTO INTERNO DE SEGURIDAD Y 
+SALUD EN EL TRABAJO DE LA 
+MUNICIPALIDAD PROVINCIAL DE TACNA 
+F. Aprobación 
+RISST- 001 
+14/11/24 
+Versión 
+02 
+Página 14 /51 
+ 
+ 
+k) Reportar de manera inmediata cualquier incidente o accidente de trabajo a su jefatura directa o a un miembro del Comité o Sub 
+Comité o Supervisor de Seguridad y Salud en el Trabajo (CSST). 
+l) 
+Participar con seriedad y responsabilidad en simulacros o ejercicios de emergencia y evacuación, con el fin de recibir la capacitación 
+adecuada para responder eficazmente en casos de accidentes, desastres o emergencias. 
+ 
+ 
+CAPITULO VII 
+ 
+ 
+DE LOS CONTRATISTAS, PERSONAL EN MODALIDADES FORMATIVAS Y USUARIOS 
+Art. 20 Contratistas /Sub Contratistas, personal en modalidades formativas 
+ 
+Toda Oficina, Gerencia o Sub Gerencia y Jefaturas de Oficinas Generales en la que se ejecuten actividades de alto riesgo como: Actividades de 
+construcción (de cualquier tiempo de duración, planes, mantenimientos), montaje y desmontaje de antenas, soldaduras, trabajos en altura, 
+maquinaria pesada, trabajos con gas, electricidad, Bosque municipal (manipulación de aguas servidas, contaminación biológica trabajos con 
+motoguadaña), Zoológico (animales peligrosos y contaminación biológica), Camal Municipal (el Ante morten, Morten y Post morten de beneficio de 
+ganado) cantera municipal (Extracción y molienda de piedra), áreas verdes (poda de árboles altos, fumigación, trabajos con motoguadaña, trabajos 
+en vías de tránsito), residuos sólidos (trabajos en compactadora, barrido en calles de tránsito) talleres de metal mecánica o madera, seguridad 
+ciudadana, policía municipal, etc. 
+Es obligatorio cumplir lo siguiente: 
+ 
+a) Deberán hacer requerimiento de servicios considerando en “los términos de referencia” las disposiciones 
+legales en materia de seguridad y salud en el trabajo como: 
+• 
+Plan de Seguridad y Salud en el Trabajo, para la ejecución de las actividades, aprobado por el comité de SST de su empresa. 
+• 
+Un Ingeniero especialista en seguridad y salud en el trabajo a cargo de la vigilancia del cumplimiento de la ley N°29783 Ley de 
+Seguridad y Salud en el Trabajo. 
+• 
+Dotar de Equipos de protección personal al trabajador. 
+• 
+Coberturar con el Seguro Complementario de Trabajo de Riesgo a los trabajadores. 
+• 
+Contar con el certificado de Aptitud médica (proveniente de los exámenes médicos ocupacionales). 
+• 
+Registro de entrega del reglamento interno de seguridad y salud en el trabajo en forma virtual o física. 
+ 
+Art. 21 Personal en modalidades formativas 
+ 
+Toda Oficina, Gerencia o Sub Gerencia y Jefaturas de Oficinas Generales que solicite “practicantes” que deban realizar actividades de ALTO 
+RIESGO: Construcción, maquinaria pesada, beneficio de ganado, Trabajos de Altura, o de Contaminación biológica o química, Residuos sólidos 
+o áreas verdes, etc. Es obligatorio que cumpla lo siguiente: 
+a) Debe solicitar que los estudiantes porten su póliza del Seguro Complementario de Trabajo de Riesgo, certificado de aptitud 
+médica e implementos de seguridad. 
+b) Deberán recibir las charlas de inducción y entregárseles el Reglamento interno de Seguridad y Salud en el Trabajo en forma virtual o 
+física. 
+Art. 22 Visitantes, Usuarios 
+ 
+Toda Oficina, Gerencia o Sub Gerencia y Jefaturas de Oficinas Generales donde exista recurrencia de público y que tenga en sus instalaciones zonas 
+dónde se presenten riesgos de: caídas, electrocución, caída de objetos de altura, pisos muy resbalosos, contaminación o animales peligrosos, etc. 
+Deberá cumplir obligatoriamente lo siguiente: 
+a) Colocar señalización en todas las zonas que representen riesgos para el personal de visita o usuarios. 
+b) Colocar mallas de resguardo a zonas peligrosas. 
+
+--- P.15 ---
+ 
+Municipalidad Provincial de Tacna 
+REGLAMENTO INTERNO DE SEGURIDAD Y 
+SALUD EN EL TRABAJO DE LA 
+MUNICIPALIDAD PROVINCIAL DE TACNA 
+F. Aprobación 
+RISST- 001 
+14/11/24 
+Versión 
+02 
+Página 15 /51 
+ 
+ 
+c) Señalizar los lugares que están prohibidos de ingreso de personas no autorizadas por el peligro que representan. 
+d) Colocar barandas de protección para distanciar del peligro a toda persona. 
+e) En caso de pisos mojados o con grasa, disponer que personal a cargo limpie las áreas. 
+f) 
+Si se usarán andamios o escaleras, estos deben cumplir con lo reglamentado en la Norma G50 y normas vigentes. 
+g) Si existiera focos de contaminación biológica deberá tomar las medias de prevención para la minimización o erradicación de lo que 
+causa dicha contaminación. 
+h) Colocar extintores y botiquines en lugares accesibles. 
+i) 
+En locales comerciales deberá contar con un desfibrilador externo automático (DEA), para el auxilio oportuno al público. 
+ 
+CAPITULO VII 
+ 
+DE LAS REGLAS DE SEGURIDAD Y SALUD EN EL TRABAJO 
+Los trabajadores de la MPT. están obligados a observar el cumplimiento de las siguientes Reglas de Seguridad y Salud en el 
+Trabajo: 
+Art. 23 Reglas en el Centro de Trabajo. 
+a) Asistir a toda capacitación y entrenamiento que se brinde en temas de Seguridad y Salud en el Trabajo en forma obligatoria. 
+b) Los trabajadores están obligados a utilizar y mantener los equipos de protección personal (EPP) y las guardas de seguridad industrial 
+en todo equipo asignado a su persona de manera correcta y comunicar al detectar daños o desgaste de los mismos. 
+c) Usar los Equipos de protección personal brindados en cada dotación, caso contrario se sujetará a las medidas disciplinarias. 
+d) Cumplir con los procedimientos seguros de ejecución de las actividades encomendadas y las directrices en materia de seguridad y salud 
+en el trabajo brindadas por el prevencionista de riesgos. 
+e) Reportar condiciones inseguras en al ámbito de trabajo. 
+f) 
+Conservar el lugar de trabajo, equipo, unidad móvil o maquinaria asignada para sus labores en forma ordenada, operativa y limpia. 
+g) Cooperar en las investigaciones de accidentes o incidentes. 
+h) Participar en los Comités y Sub Comités de Seguridad y Salud en el Trabajo como representantes de los trabajadores. 
+i) 
+Respetar los avisos de seguridad y rótulos que señalen lugares peligrosos, como las señales preventivas de acceso prohibido (en color 
+rojo), de acceso restringido (en color amarillo), de acceso libre (en color verde), y las demás señales de tipo institucional. Respetar 
+los rótulos colocados y no cambiarlos de ubicación sin la autorización del inmediato superior correspondiente. 
+j) 
+Evitar el acceso de visitantes al área de trabajo, máquina o unidad móvil sin el uso de implementos de seguridad y sin la autorización 
+correspondiente. 
+k) Comunicar inmediatamente situaciones inherentes de peligro de incendio, riesgos eléctricos o conexiones defectuosas, 
+contaminación por sustancias tóxicas o peligrosas, por desperfectos mecánicas, riesgos de caídas 
+l) 
+Está terminantemente prohibido portar armas de cualquier tipo a excepción del personal de seguridad autorizado. 
+m) No dejar desperdicios, materiales u otros objetos que puedan originar accidentes o contaminación. 
+n) Disponer lo necesario para que se mantenga completamente libres las áreas donde se ubiquen extintores, equipos o grifos 
+contra incendios 
+o) Está terminantemente prohibido transportar, poseer, consumir o vender bebidas alcohólicas o drogas estupefacientes. 
+p) Todo personal está obligado a mantener el orden y limpieza de su área, maquinaria o unidad vehicular de trabajo, así como de los 
+baños, vestuarios, casilleros y de los sitios de maniobra o esparcimiento. 
+q) Está prohibido mantener en sitios no autorizados combustibles, envases, materiales o sustancias inflamables que puedan 
+ocasionar incendios, asfixia o envenenamientos. 
+r) 
+Está prohibido hacer necesidades fisiológicas en sitios que no sean destinadas para tal fin. 
+s) Está prohibido permanecer o transitar en paños menores, sin camisa o sin pantalones largos. 
+t) 
+Dar fiel cumplimiento a la Ley que prohíbe fumar en lugares públicos o cerrados. 
+u) Mantener todo piso en estado seco para evitar caídas. 
+v) 
+Permanecer el tiempo necesario en el centro de labores según horario trabajo asignado. 
+w) Está prohibido la realización de cualquier tipo de juego de azar o de cualquier otra especie. 
+ 
+
+--- P.16 ---
+ 
+Municipalidad Provincial de Tacna 
+REGLAMENTO INTERNO DE SEGURIDAD Y 
+SALUD EN EL TRABAJO DE LA 
+MUNICIPALIDAD PROVINCIAL DE TACNA 
+F. Aprobación 
+RISST- 001 
+14/11/24 
+Versión 
+02 
+Página 16 /51 
+ 
+Art. 24 Reglas para el Uso de los Vestuarios 
+a) Antes de ingresar al vestuario limpiarse bien los zapatos, entrar al vestuario de forma ordenada, no jugar. 
+b) Usar el baño en forma higiénica, manteniéndolo limpio y en buen estado. 
+c) 
+Usar correctamente los servicios higiénicos y duchas (evitar estar descalzo), no pisar la tasa, ni lavarse los pies en los lavamanos. 
+d) Mantener cerrada las conexiones o surtidores de agua del centro de trabajo. 
+e) La ropa de trabajo debe guardarse o transportarse en bolsas plásticas para evitar contaminar el ambiente de trabajo. 
+f) 
+No guardar en los vestuarios o casilleros residuos sólidos, materiales segregados o reciclados. 
+g) Utilizar un solo casillero haciéndose responsable de la conservación, limpieza y seguridad y respetando el derecho a la privacidad. 
+h) No se permitirá que se mantenga ropas, calzado, útiles de aseo, comidas, materiales u otros objetos fuera de los casilleros. 
+i) 
+Permanecer en las duchas y vestuarios el tiempo estrictamente necesario para dar turno al resto de compañeros. 
+j) 
+Los útiles de aseo son de uso estrictamente personal e intransferible. 
+k) 
+Está terminantemente prohibido abrir casilleros o sustraer contenidos de otros casilleros. 
+Art. 25 Reglas para el Uso de Unidades Vehiculares. 
+ 
+a) Todos los conductores de vehículos deben contar con un examen práctico de manejo, así como el curso actualizado de manejo a la 
+defensiva. 
+b) Respetar la señalización interna de la cochera de la sede municipal donde preste servicio. 
+c) Está prohibido a todos los conductores de vehículos recoger o transportar personas ajenas a la MPT, incluso a compañeros que no 
+tienen que ver con el servicio programado. 
+d) Están prohibidas en el centro de labores o unidades vehiculares las disputas u ofensas personales que puedan causar daño moral o 
+físico. 
+e) Todo conductor debe conocer las rutas de recorrido de servicio para prevenir riesgos en zonas averiadas o calles peligrosas, así como 
+evitar que los trabajadores viajen fuera de la cabina y respetando el sentido y reglas de tránsito. 
+f) 
+Verificar que las herramientas se encuentren en el lugar que le corresponde y en condiciones apropiadas, sin bordes cortantes y sobre 
+los requerimientos mínimos permisibles para el uso de herramientas. 
+Art. 26 Reglas para la Prestación de Servicios. 
+a) Cuidar y dar el uso apropiado a los equipos que la Institución le hubiere proporcionado para su protección, así como los bienes 
+o insumos que estuvieran bajo su responsabilidad. 
+b) Comunicar al inmediato superior responsable correspondiente alguna irregularidad en las instalaciones, unidades vehiculares o equipos 
+que se utilicen. 
+c) 
+Desconectar, proteger, guardar y apagar las máquinas, equipos fluido eléctrico al término de sus labores diarias. 
+d) Verificar al ingresar a su área de trabajo, equipos, unidad móvil u otros respecto de cualquier hecho o circunstancia que pueda 
+considerarse peligrosa o anómala, dando cuenta a su inmediato superior de ser necesario. 
+e) No distraer la atención de otros trabajadores en forma tal que lo expone a accidentes. 
+f) 
+Dar aviso oportuno a que se produzca o se propague fuego, de ser el caso solicitar auxilio inmediato dando las señales de alarma y 
+prestando su colaboración para neutralizar cualquier siniestro. 
+g) Ante los indicios de que algún trabajador padezca de alguna enfermedad infecta contagiosa o esté bajo los efectos de bebidas 
+alcohólicas o sustancias estupefacientes, debe ser comunicado al inmediato superior correspondiente para las acciones respectivas, 
+quedando obligado el trabajador a someterse inmediatamente al examen médico respectivo. 
+h) No dejar desperdicios, materiales u otros objetos que puedan originar accidentes. 
+i) 
+Consuma los alimentos necesarios antes de iniciar sus labores. 
+j) 
+El trabajador está obligado a capacitarse en conocer y manipular los distintos tipos de residuos sólidos o envases. 
+k) Verificar que se cuenta con el vestuario apropiado y presentable con equipos de protección personal según tipo y turno de 
+trabajo. 
+l) 
+Todo trabajador debe realizar sus labores en concentración, actitud positiva mostrando su capacidad de prevenir accidentes o 
+enfermedades. 
+m) Todo trabajador debe informar sobre las ocurrencias no previstas durante la prestación del servicio. 
+n) Todo trabajador debe mostrar respeto y colaboración con los compañeros evitando llamarlos a gritos o utilizando sobrenombres, 
+discutiendo sobre las ocurrencias del trabajo o lanzando amenazas o agravios. 
+
+--- P.17 ---
+ 
+Municipalidad Provincial de Tacna 
+REGLAMENTO INTERNO DE SEGURIDAD Y 
+SALUD EN EL TRABAJO DE LA 
+MUNICIPALIDAD PROVINCIAL DE TACNA 
+F. Aprobación 
+RISST- 001 
+14/11/24 
+Versión 
+02 
+Página 17 /51 
+ 
+ 
+CAPITULO VIII 
+ 
+DE LOS ESTÀNDARES DE SEGURIDAD Y SALUD 
+Art. 27 En los Locales de Trabajo y Edificios en General 
+Todos los locales deberán reunir los requisitos de seguridad establecidos en el Reglamento Nacional de Edificaciones (Norma A.130) y 
+Reglamento de Seguridad Industrial (D.S.42 F). 
+a) Los Gerentes, Sub Gerentes, Jefes de Oficinas Generales, encargados y trabajadores en general de la MPT deben tener pleno 
+conocimiento del presente reglamento y planes de Seguridad y Salud en el Trabajo de la unidad orgánica donde desarrolla sus funciones, 
+siendo responsables del cumplimiento de las normas, procedimientos, prácticas y reglas del sistema de seguridad, salud y medio ambiente. 
+b) El personal de la MPT, debe cumplir con las normas, reglamentos e instrucciones del Sistema de seguridad y salud en el trabajo. 
+ 
+Condiciones Generales: 
+a) Organizar las superficies de trabajo (escritorios, mesas, módulos de cómputo) para que pueda disponer de una manera cómoda y 
+segura su equipo y otros elementos de trabajo. 
+b) Con relación a los útiles, equipos de trabajo y materiales en general se debe tener en consideración lo siguiente: 
+i. Colocar los implementos de trabajo que utiliza con mayor frecuencia, al fácil alcance de las manos. 
+ii. No colocar materiales u objetos en la parte superior de armarios, archivadores o muebles, donde sea difícil alcanzarlos. 
+iii. No ubicar cajas, papelería u otro tipo de elementos debajo de escritorios, o mesa de trabajo, puesto que esta situación 
+limita el acercamiento al plano de trabajo e incrementa la fatiga. 
+iv. Mantener en el escritorio ó puesto de trabajo sólo lo indispensable para realizar las actividades. 
+c) Asegurarse de que su mesa de trabajo no esté a un nivel demasiado alto o demasiado bajo. La altura del escritorio o del tablero de la 
+mesa debe permitir el suficiente espacio para acomodar las piernas, de modo de facilitar los ajustes de la postura para el trabajador 
+sentado, a la vez que también permite un ángulo de 90° a 100º para el codo. 
+d) Evitar utilizar calentadores eléctricos de agua, en los puestos de trabajo, estos podrán ser utilizados sólo en las áreas destinadas para 
+cafeterías o en áreas exclusivas dentro de oficinas autorizadas para ello, lejos de materiales combustibles tales como cortinas, papeles, 
+etc. 
+e) Mantener las zonas de tránsito (pasillos dentro de oficinas, corredores, áreas comunes, vías de evacuación) libres de 
+obstáculos (cajas, papeles, cables sueltos, etc.) 
+f) 
+Mantener los cajones de escritorios, archivadores, armarios, etc. siempre cerrados a fin de evitar golpes o caídas del personal. 
+g) Evitar ingerir alimentos cerca de los equipos electrónicos. 
+h) Utilizar los pasamanos cada vez que se transite por una escalera. No correr en las escaleras. 
+i) Mantener las áreas de trabajo limpias y ordenadas. La basura y los desperdicios deberán ser colocados en los recipientes 
+correspondientes. 
+j) Evitar posturas incorrectas como: sentarse sobre una pierna o sentarse con las piernas cruzadas ni sujetar el auricular del teléfono 
+con el hombro. 
+k) Evitar sobrecargar los tomacorrientes utilizando enchufes múltiples u otros dispositivos eléctricos. Los ventiladores que sean utilizados 
+en las áreas de trabajo y que se encuentren al alcance de la mano deberán poseer protectores y al terminar la tarea diaria, 
+dejar apagadas y desconectadas las computadoras, ventiladores, radios y todo aquello que funcione con energía eléctrica. 
+Seguridad en el Uso de Computadoras 
+ 
+a) Coloque su monitor frente a usted sin que su cabeza tenga que dar giros laterales. La parte superior de los monitores deben estar a la 
+altura de la vista de los usuarios. 
+ 
+b) Evitar reflejos de la luz sobre la pantalla del monitor mediante: 
+• 
+Disponer la pantalla de forma vertical para que no refleje los puntos de luz o los fluorescentes del techo. 
+• 
+Colocar la pantalla en dirección paralela a las ventanas, para evitar el reflejo sobre la misma y que la luz que entra del 
+exterior incida directamente sobre los ojos. 
+ 
+ 
+
+--- P.18 ---
+ 
+Municipalidad Provincial de Tacna 
+REGLAMENTO INTERNO DE SEGURIDAD Y 
+SALUD EN EL TRABAJO DE LA 
+MUNICIPALIDAD PROVINCIAL DE TACNA 
+F. Aprobación 
+RISST- 001 
+14/11/24 
+Versión 
+02 
+Página 18 /51 
+ 
+ 
+c) Mantener una postura de sentado, que permita comodidad en el trabajo, mediante: 
+ 
+• 
+Regular la altura de la silla o de la superficie de trabajo, de forma que los antebrazos queden paralelos al suelo y las muñecas 
+no se doblen. 
+• 
+Colocar los pies de forma plana sobre el suelo. 
+• 
+La zona lumbar debe quedar cómodamente apoyada 
+• 
+La distancia entre el ojo y la pantalla no debe ser menos de 45 cm. 
+d) Durante el trabajo con Computadoras personales pueden producirse molestias en la nuca, cabeza, brazos y columna vertebral 
+como resultado de posturas excesivamente estáticas y a veces, forzadas, para lo cual se recomienda interrumpir el trabajo brevemente 
+cada cierto tiempo, incluso realizar algunos ejercicios de relajación y estiramiento. 
+e) No beba cerca o junto equipos o sistemas eléctricos, los cual incluye computadores. 
+Iluminación 
+a) Las instalaciones de la Municipalidad deberán contar con la iluminación adecuada para el desarrollo de las actividades. Cuando la 
+iluminación natural no es suficiente se proveerá de luz artificial de acuerdo a las normas con un mínimo de luces de conformidad al 
+ambiente o actividad que desarrolle. 
+b) En todos los lugares de tránsito de trabajo habrá iluminación de tipo natural, artificial o mixta apropiada a las actividades que dentro 
+del sistema ejecuta la Municipalidad. De preferencia se empleará la iluminación natural y se intensificará con iluminación artificial 
+en las máquinas, escaleras, salidas de urgencia y lugares. 
+c) 
+Utilizar al máximo la luz natural, que ingresa a través de ventanales, los cuales deben permanecer limpios y libres de obstáculos. Regule 
+el ingreso excesivo de luz mediante persianas o cortinas. 
+d) En las zonas, áreas o secciones de trabajo que no cuenten con iluminación natural o ésta sea insuficiente, se empleará 
+iluminación artificial adecuada. 
+e) Las luminarias deberán suministrar una distribución uniforme, llevarán rejillas ó pantallas difusoras para evitar el deslumbramiento. 
+Emplear colores claros para las paredes y techos cuando se requieran mayores niveles de iluminación, esto permite un ambiente 
+mejor iluminado sin aumentar el número de lámparas. 
+f) 
+Combinar la luz natural con la luz artificial para mejorar las condiciones de iluminación en el puesto de trabajo. 
+g) No utilice materiales o pinturas cuyos acabados causen reflejos o brillos (pared blanca brillante, metal, plástico o cristal), a fin de prevenir 
+el deslumbramiento molesto. 
+ 
+Condiciones Ambientales 
+ 
+Las condiciones ambientales en los ambientes de trabajo serán como sigue: 
+ 
+a) La temperatura en todas las instalaciones de la Municipalidad se mantendrá durante las horas de labor a un nivel que no sea perjudicial 
+para la salud de los trabajadores ya sea por medios naturales o artificiales, debiendo evitarse el estrés térmico. 
+b) En los locales de trabajos cerrados, se mantendrán por medios naturales y/o artificiales, condiciones atmosféricas adecuadas para 
+evitar el insuficiente suministro de aire, el aire viciado y las corrientes dañinas. 
+ 
+Red de Agua y Desagüe 
+La red de agua y desagüe deberá cumplir con lo siguiente: 
+a) La Municipalidad garantizará el suministro de agua potable, para ser utilizado tanto en la limpieza y aseo de sus trabajadores. 
+b) La Municipalidad contará ó se proveerá del suministro de agua con tanques cisternas y tanques elevados, los cuales deberán estar 
+debidamente vigilados, conservados y protegidos contra los peligros de contaminación para prevenir a los trabajadores de 
+enfermedades infectocontagiosas, debiendo efectuarse periódicamente los análisis correspondientes. Los tanques, por lo menos 
+deberán limpiarse y desinfectarse semestralmente. 
+ 
+
+--- P.19 ---
+ 
+Municipalidad Provincial de Tacna 
+REGLAMENTO INTERNO DE SEGURIDAD Y 
+SALUD EN EL TRABAJO DE LA 
+MUNICIPALIDAD PROVINCIAL DE TACNA 
+F. Aprobación 
+RISST- 001 
+14/11/24 
+Versión 
+02 
+Página 19 /51 
+ 
+Limpieza de Lugares de Trabajo 
+La limpieza de los lugares de trabajo se hace como sigue: 
+a) Los accesos y ambientes de la Municipalidad deben mantenerse limpios; los desperdicios, materiales inflamables y combustibles 
+deben depositarse en recipientes y lugares apropiados y expresamente acondicionados y, se debe evitar las concentraciones de 
+gases, humo, polvo y humedad. 
+b) La entidad realizará inspecciones periódicas para verificar el orden, limpieza, y cumplimiento de las disposiciones internas sobre 
+procedimientos específicos establecidos de las diversas operaciones que se realicen en sus instalaciones. 
+c) El personal de limpieza colocará letreros de advertencia en las zonas en donde se está realizando las actividades de limpieza. 
+d) Limpieza de mantenimiento de paredes, techos, pisos, lunas de ventanas, etc., se efectuará periódicamente. 
+e) La limpieza en los ambientes de trabajo deberá realizarse, de preferencia, fuera de las horas de trabajo. Cuando el trabajo sea 
+continuo se deberá realizar la limpieza en las horas en que se encuentre el menor número de trabajadores. 
+f) 
+Las operaciones de limpieza deberán realizarse con el mayor cuidado y esmero, disponiendo las medidas de seguridad en las 
+inmediaciones o lugares ocupados por máquinas y equipos. 
+g) Deberá cuidarse especialmente que el piso no esté encharcado y se mantenga limpio, evitando que exista aceite, grasa y otros 
+cuerpos que lo hagan resbaladizo y que obstruyéndolas representen una condición insegura. 
+h) Se deberá mantener los lugares de trabajo limpios y libres de residuos deshechos que fueran susceptibles de originar riesgo, 
+infecciones que van en perjuicio de la integridad física y salud del trabajador, sometiéndose a control previó. Sin ser limitativo, los 
+trabajos de mantenimiento deben estar referidos a ductos en general. 
+i) 
+Los residuos sólidos son dispuestos en recipientes que cumplen con las normas de disposición y clasificación de residuos. 
+j) 
+Está prohibido arrojar basura al suelo. 
+k) 
+El personal de limpieza realizará su labor utilizando los equipos de protección personal correspondiente como: guantes, calzado 
+antideslizante, ropa de trabajo, máscara, entregados por la Municipalidad. 
+Servicios Higiénicos 
+ 
+En la dotación de servicios higiénicos se tendrá en cuenta lo siguiente: 
+a) La Municipalidad dotará de servicios higiénicos adecuados y separados para cada sexo. Así mismo deberá dotar a los baños de 
+útiles de aseo como jabón líquido. 
+b) Los servicios higiénicos se mantendrán permanentemente limpios y desinfectados. 
+c) 
+Todos los envases y recipientes de productos de limpieza y desinfección serán debidamente rotulados. 
+d) Es responsabilidad de la Municipalidad mantener en buen estado de conservación de los lavamanos. y es responsabilidad de los 
+trabajadores el utilizarlos adecuadamente. 
+e) La Municipalidad velará por el suficiente suministro y dotación de agua potable. 
+ 
+Art. 28 De los Estándares de Seguridad y Salud en las Actividades y Servicios Conexos de las Áreas Administrativas 
+ 
+Mantenimiento de Equipos e Instalaciones: 
+a) Cuando se realice el mantenimiento de cualquier máquina de la Municipalidad, se deberá dejar en la puerta del ambiente donde ésta 
+funcione un aviso que indique el motivo, fecha, nombre del responsable, tipo de máquina u equipo. 
+b) Para las obras de mantenimiento o reparación de un edificio o estructura que no puedan efectuarse con seguridad desde una escalera 
+portátil o plataforma, se utilizará cuando sea necesario andamiaje, plataformas de trabajo entablado, escalerillas y demás 
+construcciones fijas provisionales, adecuadas y seguras. 
+c) 
+Se tomarán las medidas de seguridad necesarias, para proteger a las personas empleadas en trabajos, de reparación o conservación de 
+los edificios o estructuras de la maquinaria en movimiento, cerca de la cual trabajen. 
+ 
+Servicio de Mantenimiento y Reparación Eléctrica: 
+En las instalaciones eléctricas se tendrán en cuenta lo siguiente: 
+
+--- P.20 ---
+ 
+Municipalidad Provincial de Tacna 
+REGLAMENTO INTERNO DE SEGURIDAD Y 
+SALUD EN EL TRABAJO DE LA 
+MUNICIPALIDAD PROVINCIAL DE TACNA 
+F. Aprobación 
+RISST- 001 
+14/11/24 
+Versión 
+02 
+Página 20 /51 
+ 
+a) Todos los equipos e instalaciones eléctricas, serán de una construcción, instalados y conservados de manera que prevenga el peligro 
+de contacto con los elementos a tensión y el riesgo de incendio. 
+b) Se evitará en lo posible efectuar instalaciones eléctricas provisionales, las que en todo caso se instalarán en forma definitiva en la 
+brevedad posible. 
+c) Los conductores eléctricos susceptibles de deteriorarse deberán estar empotrados y/o protegidos con una cubierta de caucho duro u 
+otro material equivalente. 
+d) El material para todos los equipos eléctricos se seleccionará con relación a la tensión de trabajo, la carga y todas las condiciones 
+particulares de su utilización. 
+e) Cuando se lleven a cabo reparaciones estructurales, extensiones o trabajo de pintado de los ambientes de la Municipalidad, se adoptará 
+las medidas de seguridad necesarias para la protección. 
+f) 
+Solo podrá obtenerse energía eléctrica de toma corrientes, empleándose para tal fin enchufes adecuados, sólidos y aislados; 
+quedando terminantemente prohibido efectuar conexiones directamente de los tableros de distribución, llaves generales y/o emplear 
+alambres sueltos para dichas conexiones. 
+g) Para trabajos eléctricos de cualquier índole, sólo se utilizarán alicates, destornilladores, saca fusibles y demás herramientas manuales 
+similares, que se encuentren debidamente aisladas. 
+h) Antes de proceder a dar mantenimiento o reparación de algún equipo o instalación eléctrica, deberá desenergizarse el circuito 
+correspondiente y se deberá dar publicidad del hecho con letreros en las áreas de trabajo, sobre todo en la caja de llaves, mientras dure 
+el mantenimiento. 
+Conexión a Tierra y Protección de los Elementos a Tensión 
+En relación a la conexión a tierra y protección de elementos a tensión se cumplirá con lo siguiente: 
+a) Los equipos y elementos eléctricos, portátiles o no, tendrán conexión a tierra por medio de conductores que serán de baja resistencia y 
+suficiente capacidad para poder llevar con seguridad el caudal más fuerte de corriente. 
+b) Se dispondrá de conmutadores para desconectar los equipos de conductores eléctricos de la fuente de abastecimiento, cuando haya que 
+efectuar trabajos de reparación o conservación en dichos equipos o conductores. 
+Alumbrado de Emergencia: 
+Deberá contarse con una fuente de alumbrado de emergencia mediante un generador independiente, batería de acumuladores u otro medio 
+apropiado en centrales, subestaciones y locales donde haya personal permanente. 
+ 
+Art. 29 De los Estándares de Seguridad y Salud en las Operaciones 
+a) Los Gerentes, Sub Gerentes, Jefes de Oficinas Generales y trabajadores en general de la MPT deben tener pleno conocimiento del 
+presente reglamento y son responsables del cumplimiento de las disposiciones contenidas en el mismo y cumplir con las normas, 
+procedimientos, prácticas y reglas del sistema de seguridad, salud y medio ambiente. 
+b) El personal de la MPT, debe cumplir con las normas, reglamentos e instrucciones de los programas de seguridad y salud en el trabajo. 
+c) Para el personal de obras; se deberá realizar una charla de inducción a cargo del Prevencionista de Seguridad y Salud en el Trabajo 
+en coordinación con la residencia de la obra. 
+d) Las obras o frentes de trabajo con 20 o más trabajadores deben constituir un Sub Comité de Seguridad y Salud en el Trabajo. Si la obra 
+cuenta con menos de 20 trabajadores se debe nombrar, entre ellos un Supervisor de Seguridad y Salud en el Trabajo. 
+e) Los trabajadores deben comunicar al empleador todo evento o situación que ponga o pueda poner en riesgo su seguridad y salud o 
+las instalaciones físicas, debiendo adoptar inmediatamente de ser posible, las medidas correctivas del caso sin que genere sanción de 
+ningún tipo. 
+f) 
+Reportar a los representantes o delegados de seguridad, de forma inmediata la ocurrencia de cualquier incidente, accidente o 
+enfermedad profesional. 
+g) Los trabajadores y empleados, deben usar adecuadamente los equipos, instrumentos, así como los equipos de protección personal 
+y colectiva, siempre y cuando hayan sido previamente informados y capacitados para su uso. 
+h) No se permitirá ingresar a trabajar a ningún trabajador, cuando se encuentre con síntomas de ebriedad, ebrio o drogado; siendo 
+responsabilidad del jefe inmediato, si se lograra detectar cualquiera de estos casos se sancionará al infractor. 
+ 
+ 
+
+--- P.21 ---
+ 
+Municipalidad Provincial de Tacna 
+REGLAMENTO INTERNO DE SEGURIDAD Y 
+SALUD EN EL TRABAJO DE LA 
+MUNICIPALIDAD PROVINCIAL DE TACNA 
+F. Aprobación 
+RISST- 001 
+14/11/24 
+Versión 
+02 
+Página 21 /51 
+ 
+ 
+Uso de Vehículos: 
+Es obligación de todos los conductores de vehículos autorizados por la Municipalidad Provincial de Tacna: 
+ 
+a) Portar la licencia de conducir de acuerdo al vehículo que conduce, conocer y cumplir con las Leyes y Reglamentaciones de 
+Tránsito vigentes. 
+b) Portar la Tarjeta de Propiedad. 
+c) 
+Tener el Seguro Obligatorio de Accidentes de Tránsito (SOAT) vigente. 
+d) Contar con el certificado de Inspección Técnica vehicular vigente. 
+e) Portará equipos de protección personal en caso de manejar maquinaria pesada. 
+f) 
+El conductor y los pasajeros del vehículo deben usar el cinturón de seguridad. 
+g) Realizar el Check List diario para constatar que antes de conducir el vehículo, este se encuentra en buenas condiciones 
+relacionadas con frenos, combustible, herramientas y equipos de seguridad, así mismo asegurarse que lleve consigo su licencia de 
+conducir, tarjeta de propiedad, correctores si los usa y que el botiquín del vehículo tenga medicamentos de primeros auxilios etc., con 
+posterior verificación del área de seguridad y salud en el trabajo. 
+h) Apagar el motor del vehículo al proveerse de combustible. 
+i) 
+No conducir bajo los efectos del alcohol y/o drogas. 
+j) 
+No confiar el manejo del vehículo a personas no autorizadas. 
+k) 
+No abandonar los vehículos en la vía pública por ningún motivo. 
+l) 
+En caso de accidente reportar al jefe inmediato, prevencionista de riesgos de la unidad orgánica y al área de Seguridad y salud en el 
+trabajo. 
+Seguridad en Almacenes 
+a) Las cajas de cartón, bolsas de papel o plástico que contengan materias primas, productos en proceso o terminados, se colocaran 
+sobre parihuelas colocadas en el suelo o sobre estantes de metal, para facilitar su acarreo mediante el uso de carretillas. 
+b) Los productos que se almacenen en el suelo, se colocaran sobre parihuelas, en lugares donde no dificulten el tránsito del 
+personal, ni oculten u obstruyan los equipos contra incendios. 
+c) 
+Los trabajadores que laboren dentro de los almacenes utilizaran: ropa de trabajo, zapatos de seguridad y los que tengan que 
+transportar materiales abrasivos, cortantes, se les dotará de guantes de cuero. 
+d) Para sacar productos de la parte superior de los estantes, los trabajadores deberán utilizar las escaleras que se dotará a los 
+almacenes. 
+e) Los trabajadores que tengan que levantar cargas a mano deberán seguir las siguientes reglas: 
+i. 
+Agacharse junto a la carga. 
+ii. 
+Mantener la espalda recta. 
+iii. 
+Doblar las rodillas. 
+iv. 
+Poner en juego los músculos de piernas y brazos, nunca los de la espalda. 
+v. 
+Deberán usar fajas para carga pesada, a fin de evitar lesiones lumbares. 
+f) 
+Se evitará en todo momento el amontonamiento desordenado y sin seguridad de los materiales almacenados. 
+g) Las carretillas manuales, u otros medios de acarreo, no deberán ser sobrecargadas, ni utilizarse para transportar personas, una vez 
+terminado con su uso, estas deberán colocarse en lugares donde no dificulten el tránsito del personal. 
+h) No se permitirá la existencia de basura en el piso de los almacenes, los cuales serán barridos a diario. 
+Respete las señales de “no fumar”, instaladas en los almacenes, debido al riesgo de incendio 
+i) 
+La obra contará con depósitos, estantes debidamente distribuidos según sus necesidades de almacenamiento. 
+j) 
+Debe vigilarse el apilamiento correcto, de tal manera que se haga el amarre, aconsejado para evitar la caída de rumas. 
+k) 
+Los lugares donde se tienen instalados extintores, deben permanecer libres de obstáculos que permitan un fácil acceso en caso de ser 
+requeridos. 
+l) 
+Asegurar una ventilación apropiada, en los lugares designados para el almacenamiento de materiales inflamables. 
+m) La carga y descarga de botellas de gases comprimidos en general se efectuará con sumo cuidado, utilizando los equipos y 
+herramientas apropiados para su manipuleo y evitando el uso de vehículos inadecuados. 
+n) Todas las botellas de gases comprimidos, deben permanecer siempre en posición vertical, con sus tapas de seguridad puestas y 
+debidamente aseguradas, con cadenas o algún otro dispositivo que evite su posible caída. 
+o) Deberán contar con extintores operativos. 
+
+--- P.22 ---
+ 
+Municipalidad Provincial de Tacna 
+REGLAMENTO INTERNO DE SEGURIDAD Y 
+SALUD EN EL TRABAJO DE LA 
+MUNICIPALIDAD PROVINCIAL DE TACNA 
+F. Aprobación 
+RISST- 001 
+14/11/24 
+Versión 
+02 
+Página 22 /51 
+ 
+Equipos de Protección Personal (EPPs) 
+Uniforme 
+a) Cuando se seleccione ropa de trabajo, se deberán tomar en consideración los riesgos, a los cuales el trabajador puede estar 
+expuesto y se seleccionará aquellos tipos que reducen los riesgos al mínimo. 
+b) No se usarán prendas de vestir sueltas, desgarradas o rotas, no corbatas, ni cadenas de llaveros o de relojes cerca de maquinaria 
+en movimiento. 
+c) 
+No se deberá llevar en los bolsillos, objetos afilados, o con puntas, ni materiales explosivos o inflamables. 
+d) Es obligación del personal el uso de ropa de trabajo dotado por la MPT, para ingresar a trabajar y mientras dure la jornada de trabajo. 
+Protección de la Cabeza 
+ 
+a) Los trabajadores deberán usar casco de seguridad en los lugares o zonas donde exista peligro de caída de materiales u objetos o 
+donde están expuestos a sufrir golpes en la cabeza. 
+b) Los cascos de seguridad serán fabricados de material resistente, liviano e incombustible y de acuerdo a la Norma Técnica Peruana, 
+NTP 399.018 
+c) 
+Cuando se use cascos de seguridad deberá tenerse especial cuidado en mantener la cabeza separada del casco mismo, mediante el 
+ajuste correcto de las bandas de soporte. 
+d) Para trabajos eléctricos, se recomienda el uso de cascos dieléctricos. 
+e) Para todos los casos de uso de cascos éstos deberán usarse con barbiquejo y en los casos que se considere necesario el uso 
+de tapa-nucas 
+Protección de la Vista 
+ 
+a) Todos los trabajadores que ejecuten cualquier operación que pueda poner en peligro sus ojos, dispondrán de protección 
+apropiada para estos órganos. 
+b) Los anteojos protectores para trabajadores ocupados en operaciones de picado, remachado, recalcado y operaciones similares que 
+pueda producir el desprendimiento de partículas en forma violenta, estarán provistos de lunas resistentes a cada tipo de impactos y en 
+conformidad con la Norma Técnica Peruana NTP 399.046:1977 
+c) Los anteojos protectores para trabajadores, ocupados en operaciones que requieran el empleo de sustancias químicas corrosivas 
+o similares, serán fabricados de material blando que se ajuste a la cara. Resistente al ataque de dichas sustancias, incombustibles y 
+construidos de tal manera que impida el ingreso por cualquier lado de las sustancias indicadas. 
+d) Los anteojos protectores para trabajadores ocupados en operaciones en donde se pueda producir o produzca gases o 
+emanaciones peligrosas, serán de material flexible, resistente a dichos gases, no deberán tener aberturas de ventilación. 
+e) Los trabajadores cuya vista requiere el empleo de lentes correctores y necesiten protectores, serán provistos de anteojos que 
+puedan ser superpuestos a sus lentes correctores. 
+Protección Auditiva 
+a) En los puestos de trabajo, donde el nivel de ruido sobrepase los 85 decibeles, será obligatorio el uso de protectores auditivos 
+(tapones o auriculares). 
+Calzado de Seguridad 
+a) Se usarán zapato de seguridad en aquellas operaciones donde exista peligro de caída de objetos contundentes, cortes o 
+incrustaciones en diferentes partes de los pies 
+b) Las botas de seguridad tendrán punteras de acero o de otro material, conforme a las normas de resistencia aceptadas por la 
+autoridad competente. 
+c) El calzado para los trabajadores ocupados en trabajos eléctricos, no deberá tener ajustes de metal y tendrá suelas y tacones 
+clavados con clavijas de madera o cocidos. Se recomienda el uso de calzado de seguridad dieléctrico. 
+d) Para trabajadores en el manejo de residuos sólidos y áreas verdes según corresponda deberán usar zapatillas de seguridad. 
+ 
+
+--- P.23 ---
+ 
+Municipalidad Provincial de Tacna 
+REGLAMENTO INTERNO DE SEGURIDAD Y 
+SALUD EN EL TRABAJO DE LA 
+MUNICIPALIDAD PROVINCIAL DE TACNA 
+F. Aprobación 
+RISST- 001 
+14/11/24 
+Versión 
+02 
+Página 23 /51 
+ 
+Guantes 
+a) Los guantes que se doten a los trabajadores, serán seleccionados de acuerdo a los riesgos a los cuales el usuario este expuesto y a 
+la necesidad de movimiento libre de los dedos; (guantes de cuero grueso, guantes de cuero flexible, guantes anticorte, guantes 
+de nitrilo, de carpintero, de jebe, etc) de acuerdo a la NTP 1146. 
+b) Los guantes y mangas protectoras para los trabajos de soldadura, serán confeccionada de un material 
+resistente al calor, para trabajos eléctricos se dotará de guantes de material aislante. 
+Protección del Sistema Respiratorio 
+a) Todos los equipos protectores del sistema respiratorio, serán de un tipo apropiado y aceptado por la autoridad competente y 
+de acuerdo a la NTP. 
+b) En las áreas de trabajo en que se produzcan polvos, gases y/o vapores, el personal deberá usar protección respiratoria. 
+c) Al seleccionar equipos protectores del sistema respiratorio, se deberán tomar en cuenta las siguientes consideraciones: 
+I. El procedimiento y condiciones que originan la exposición 
+II. Las propiedades químicas, físicas, tóxicas u otras propiedades peligrosas de las sustancias de las cuales se requiere 
+protección. 
+III. La naturaleza de los deberes que ejecuta la persona que va a usar el equipo e impedimento o restricción de 
+movimiento en la zona de trabajo. 
+IV. Las facilidades para la conservación, mantenimiento y vigilancia del uso. 
+V. Los equipos protectores del sistema respiratorio, serán capaces de ajustar en los diversos contornos faciales 
+sin filtración. 
+Art. 30 Higiene en Áreas de la Obra: Condiciones Ambientales Ruidos y Vibraciones 
+ 
+a) En los lugares de trabajo se evitarán en lo posible los ruidos y vibraciones desde su punto de origen. 
+b) Las máquinas que produzcan ruido o vibraciones se cimentarán o anclarán fuertemente al piso. 
+c) Cuando el nivel de ruido exceda los 85 decibeles, siempre que no se logre su disminución, se dotará obligatoriamente de 
+dispositivos de protección auditiva a los trabajadores expuestos. 
+Temperatura 
+ 
+a) En todas las instalaciones de la Municipalidad Provincial de Tacna, se mantendrán durante las horas de labor una temperatura, que no 
+sea perjudicial para la salud de los trabajadores ya sea por medios naturales o artificiales. 
+Ventilación 
+a) Las emanaciones de polvo, gases vapores producidos o desprendidos de los procedimientos industriales, serán extraídos en 
+lo posible en su lugar de origen y no se permitirá que se difundan a la atmósfera del área de trabajo. 
+b) En los almacenes y ambientes de trabajos, se mantendrán por medios naturales y/o artificiales, condiciones atmosféricas 
+adecuadas para evitar el insuficiente suministro de aire, el aire viciado y las corrientes dañinas. 
+Art. 31 Conservación de Áreas de Trabajo Agua y desagüe 
+ 
+a) La Municipalidad Provincial de Tacna garantizará el suministro de agua potable, para ser utilizado tanto en la limpieza y aseo de sus 
+trabajadores, y en la producción, el desagüe estará conectado a la red pública. 
+Orden y Limpieza de los Lugares de Trabajo. 
+ 
+a) Cada trabajador es responsable de mantener ordenado y limpio su lugar de trabajo. La limpieza debe hacerse después de cada trabajo 
+o tarea. No abandonar herramientas, cables, mangueras o equipos que pueden ocasionar tropezones, resbalones y caídas. Ninguna 
+labor se considera terminada si el área de trabajo no queda limpia y ordenada. 
+
+--- P.24 ---
+ 
+Municipalidad Provincial de Tacna 
+REGLAMENTO INTERNO DE SEGURIDAD Y 
+SALUD EN EL TRABAJO DE LA 
+MUNICIPALIDAD PROVINCIAL DE TACNA 
+F. Aprobación 
+RISST- 001 
+14/11/24 
+Versión 
+02 
+Página 24 /51 
+ 
+ 
+b) Mientras realice cualquier trabajo o finalizado éste, todo material debe ser almacenado correctamente asegurando que no caiga, 
+ruede o se pueda mover. 
+c) En lugares de trabajo donde transiten vehículos, tractores, volquetes, etc. Respetar la señalización de tránsito (letrero de velocidad 
+máxima) y señalización de tránsito peatonal. 
+d) Ante el sonido de sirenas o alarmas de retroceso u operación de los vehículos las personas deben retirarse a zonas seguras. 
+e) En las áreas (talleres) o zonas donde transiten vehículos y personas, se señalizará las zonas de tránsito vehicular y peatonal, 
+igualmente las zonas donde se ubiquen los equipos, máquinas, etc. 
+f) 
+Al abrir o desarmar cajas u objetos de madera se evitará dejar clavos sobresalientes en las tablas o maderas, estos pueden 
+ocasionar un accidente personal. 
+g) Está prohibido arrojar basura al piso, en ambientes y áreas de trabajo de las obras. 
+h) Cuando se realicen trabajos de encofrado y desencofrado se tendrá mucho cuidado con los clavos incrustados en las maderas; los 
+cuales deberán ser eliminados de la zona de trabajo en un lugar seguro o depósitos de desechos. 
+i) 
+Cuando se haga uso de estacas de metal o madera; éstas deberán ser señalizadas o protegidas con material reflectante para su 
+mejor visualización y prevención de accidentes. 
+Trabajos en Altura. 
+a) Para realizar trabajos en altura o en distintos niveles a partir de 1.80 metros se usarán un sistema de prevención y detención de 
+caídas, conformado por: anclaje, línea de vida o cuerda de seguridad y arnés. 
+b) Los trabajadores con problemas de hipertensión o diabetes estarán excluidos de realizar trabajos en altura. 
+c) 
+Cuando el trabajo a realizarse sea en alturas superiores a los 15 metros, los trabajadores deberán tener certificados de suficiencia 
+médica, el mismo que deberá descartar problemas de: epilepsia, vértigo, insuficiencias cardiacas, asma bronquial crónica, 
+alcoholismo y enfermedades mentales. 
+d) Cuando trabaje en lugares elevados como: postes, paredes altas, techos, árboles, taludes de cerros, etc. se debe usar “Arnés de Seguridad 
+con línea de vida”, la que debe tener una longitud apropiada y debe estar enganchada a una base segura. El arnés de seguridad debe 
+contar con un “absorvedor de impacto”. 
+e) Cuando trabaje en lugares elevados, recuerde que puede haber personal debajo de usted, por ello se debe colocar señales de 
+advertencia portátiles y barreras indicando el peligro. No deje caer herramientas o material al suelo ni tampoco los arroje; use baldes con 
+sogas para subir o bajar lo que necesita. 
+f) 
+Todo andamio, antes de ser usado debe ser inspeccionado y aprobado por el supervisor. 
+g) Los trabajos sobre techos, tijerales y/o estructuras elevadas, deben ser coordinadas previamente con el prevencionista de seguridad y 
+salud de la Institución y de la unidad orgánica, si usa tablones estos deben asegurarse convenientemente, usar arnés con su cuerda 
+salvavidas y cables de seguridad en forma obligatoria, esta labor es calificada como “crítica” por lo tanto debe ser supervisada 
+permanentemente y deben ser firmados los permisos respectivos antes de iniciar la tarea (uso de ATS y PETAR). Evite caminar 
+sobre un techo a menos que tenga la completa seguridad de que el material del techo resistirá el peso de su persona y de su equipo. 
+h) Únicamente se permite a los electricistas autorizados y personal capacitado y autorizado subir a los postes incluyendo de alta 
+tensión. 
+Escaleras Portátiles 
+a) Se utilizarán escaleras en buen estado, libre de grasas, pinturas o barro ya que ello puede ocultar en la escalera y producir un accidente. 
+Está prohibido usar escaleras defectuosas. No trate de repararlas, en todo caso reporte esta condición sub-estandar de escaleras, 
+deberá ser efectuada solamente por el personal autorizado. 
+b) Antes de usar escaleras de tijeras plegables, vea que estén completamente abiertas y aseguradas. Está prohibido usar escaleras 
+plegables de tijeras como escalera recta. 
+c) 
+Para subir o bajar por una escalera se debe usar siempre los peldaños hacia el frente, no debe subirse por la parte posterior de una 
+escalera plegable. 
+d) Antes de usar las escaleras “rectas”, vea que estén apoyadas en una base sólida y apropiadamente asegurada, o amarrada para 
+que no resbale o se ladeen y asegúrese que las mismas tengan zapatas de seguridad u otro elemento antideslizante. Las escaleras 
+metálicas son inapropiadas para realizar trabajos en circuitos eléctricos. 
+e) Use ambas manos para sujetarse cuando este subiendo o bajando una escalera (siempre tiene que hacerlo mediante tres puntos 
+de apoyo). Para que permanezca con las manos libres para subir o bajar, las herramientas o equipo deberá subirlo con una cuerda, 
+dentro de una bolsa colgada al hombro o utilizando la correa portaherramientas. 
+
+--- P.25 ---
+ 
+Municipalidad Provincial de Tacna 
+REGLAMENTO INTERNO DE SEGURIDAD Y 
+SALUD EN EL TRABAJO DE LA 
+MUNICIPALIDAD PROVINCIAL DE TACNA 
+F. Aprobación 
+RISST- 001 
+14/11/24 
+Versión 
+02 
+Página 25 /51 
+ 
+ 
+f) 
+Siempre use una escalera suficientemente larga y colocada de tal manera que pueda alcanzar el lugar de trabajo sin esforzarse, 
+doblarse o estirarse. Las escaleras rectas deben usarse de tal modo que la distancia horizontal comprendida entre ambos puntos de 
+apoyo, entre el pie de la escalera y la pared de apoyo sea equivalente a ¼ de la longitud de la escalera. 
+ 
+Andamios 
+a) Es obligatorio el uso de andamios homologados para todo trabajo. 
+b) En los trabajos con andamios se presentan dos principales riesgos: las caídas a distinto nivel y el desplome de la estructura: 
+b.1. Las caídas a distinto nivel pueden deberse principalmente a: 
+• 
+Montaje o desmontaje incorrecto de la estructura o de las plataformas de trabajo sin las protecciones individuales. 
+• 
+Anchura insuficiente de la plataforma de trabajo. 
+• 
+Acceso a la zona de trabajo trepando verticalmente por la estructura. 
+• 
+Separación excesiva entre el andamio y la fachada, careciendo de banderilla interior. 
+• 
+Deficiente sujeción de la plataforma de trabajo a la estructura que permite su movimiento incontrolado. 
+• 
+Vuelco del andamio por estar incorrectamente apoyado en el suelo o por anclaje deficiente o inexistente del mismo. 
+• 
+Desplome del andamio por distintas causas. 
+• 
+Rotura de la plataforma de trabajo por sobrecarga, deterioro de las garras o de la superficie o mal uso de la misma. 
+• 
+Mala utilización de las escaleras de acceso a las distintas plantas de la estructura del andamio. 
+ 
+b.2. El desplome de la estructura puede deberse a: 
+• 
+Hundimiento o reblandecimiento de toda o parte de la superficie de apoyo. 
+• 
+Apoyo del andamio sobre materiales poco resistentes. 
+• 
+Deformación o rotura de uno o varios de los elementos constituyentes del andamio. 
+• 
+Sujeciones a las fachadas inexistentes, incompletas o insuficientes. 
+• 
+Montaje incorrecto. 
+• 
+Sobrecarga de las plataformas de trabajo, respecto a su resistencia máxima permitida. 
+• 
+Anclaje y amarres incorrectos. 
+• 
+Arriostramientos incompletos de la propia estructura. 
+• 
+Acción de las inclemencias atmosféricas, en especial el viento. 
+c) 
+Las medidas de prevención y protección, frente a los riesgos de mayor relevancia, se puede prevenir si los andamios cumplen con las 
+normas constructivas correspondientes, así como los materiales de la estructura de los andamios, deben estar formados por tubos 
+de acero (pintados o galvanizados) o de aluminio. 
+d) Las plataformas de trabajo deben ser de madera tratada, acero galvanizado, plástico o aluminio de resistencia suficiente, su 
+superficie debe ser antideslizante. Los materiales deben estar exentos de cualquier anomalía que afecte a su comportamiento, como 
+puede ser deformaciones en los tubos, nudos mal cortados en las maderas, oxidación, etc. 
+e) La dimensión de los distintos elementos que componen el andamio, se ajustará a las normas correspondiente. Según ella 
+los andamios deben tener dimensiones de circulación y de trabajo, así mismo las dimensiones del andamio y de las plataformas de 
+trabajo. Los riesgos de contactos eléctricos, se manifiesta en cuanto se tiene que realizar trabajos, en las proximidades de líneas eléctricas 
+aéreas, sean de alta o de baja tensión. 
+f) 
+Para prevenir el riesgo de electrocución se deberá aplicar el procedimiento correspondiente, para la protección de la salud y 
+seguridad de los trabajadores frente al riesgo eléctrico; todo trabajo en una instalación eléctrica o en su proximidad, que conlleve 
+riesgo eléctrico se debe efectuar sin tensión. 
+g) Las medidas de seguridad para trabajar con andamios y con alta tensión eléctrica incluyen: 
+• 
+Usar equipo de protección personal (EPP) adecuado 
+• 
+Mantener una distancia de seguridad adecuada 
+• 
+Utilizar herramientas aisladas 
+• 
+Anclar el sistema a un punto seguro 
+• 
+Respetar la carga máxima del andamio 
+• 
+Utilizar cables y enchufes con toma a tierra 
+• 
+Evitar el contacto entre agua y electricidad 
+• 
+No tocar partes metálicas con las manos mojadas o descalzo 
+• 
+Desenchufar los aparatos eléctricos antes de limpiarlos o repararlos. 
+
+--- P.26 ---
+ 
+Municipalidad Provincial de Tacna 
+REGLAMENTO INTERNO DE SEGURIDAD Y 
+SALUD EN EL TRABAJO DE LA 
+MUNICIPALIDAD PROVINCIAL DE TACNA 
+F. Aprobación 
+RISST- 001 
+14/11/24 
+Versión 
+02 
+Página 26 /51 
+ 
+ 
+Herramientas Manuales y Portátiles 
+ 
+a) Las herramientas manuales y portátiles se emplearán sólo para los fines para los que fueron construidos y se mantendrán en buen 
+estado de conservación. 
+b) Las cabezas de las herramientas deberán mantenerse sin deformaciones ni agrietamientos. 
+c) 
+Se tendrá en especial cuidado en el almacenamiento de las herramientas con filos y puntas agudas, con el fin de evitar lesiones al 
+personal. 
+d) Los mangos para herramientas de toda clase, se mantendrán en buen estado de conservación y firmemente asegurados: 
+e) Los trabajadores que emplean herramientas tales como cinceles, taladros, esmeriles, etc., que por acción de trabajo pueden desprender 
+partículas, deberán estar provistos de anteojos a prueba de impacto. 
+f) 
+No se usará tubos, barras u otros elementos con el fin de extender o aumentar el brazo de palanca de las herramientas manuales, con 
+el objeto de no sobrepasar la resistencia mecánica de estas, a menos que dichos elementos estén especialmente diseñados o 
+preparados para estos efectos. 
+g) Se dispondrá de gabinetes, portaherramientas o estantes adecuados para las herramientas en uso. 
+h) Los trabajadores asignados al uso de herramientas, serán instruidos y adiestrados en el empleo seguro de tales instrumentos. 
+i) 
+Es obligatorio informar al residente de obra o jefe inmediato cuando las herramientas hayan sufrido daños o pérdidas en el trabajo. 
+j) 
+Está prohibido llevar herramientas u objetos punzo cortantes en los bolsillos. 
+ 
+Art. 32 Manipulación y Transporte de Materiales Carretillas 
+ 
+a) El piso de los lugares de trabajo donde se realiza el transporte de los materiales utilizando carretillas, se mantendrán libre de huecos y 
+el suficientemente nivelado. 
+b) Las carretillas se usan para sacar o colocar cargas de los almacenes, prohibido transporte de personas. 
+c) 
+Para maniobrar las carretillas, se deberán seguir las siguientes normas básicas: 
+d) Mirar la dirección del recorrido y controlar la visibilidad. 
+• Antes de usar verificar su correcto estado. 
+• Balancear bien la carga levantando por el centro. 
+• Inclinar la carga contra el soporte de atrás. 
+• Evitar arranques y paradas bruscas, para que no se desequilibre 
+ 
+Alzado y Conducción de materiales. 
+Los trabajadores asignados a la manipulación de materiales, deberán ser instruidos sobre los métodos de levantar y conducir materiales con 
+seguridad, según el procedimiento de seguridad para ese tipo de actividades. 
+Apilamientos de Materiales 
+a) Los materiales serán apilados de tal forma que no interfieran con: 
+b) La adecuada distribución de la luz natural o artificial. 
+c) 
+El paso libre en los pasillos y pasajes de tránsito; y 
+d) El funcionamiento eficiente de rociadores o el uso de cualquier otro equipo de combatir incendios. 
+e) Los materiales no serán apilados a una altura tal que pueda causar la inestabilidad de la pila. 
+f) 
+Es obligatorio clasificar y ordenar los materiales de manera que sea fácil su ubicación, control y utilización. 
+g) Se deberá disponer que los almacenes cuenten con estantería o anaqueles, de acuerdos a las necesidades de almacenaje, 
+si no se dispone de ellos los materiales no deben almacenarse pegados a la pared, sino con una separación de 30 cm como mínimo. 
+h) Las escaleras, plataformas, andamios etc. serán controlados y construidos, para soportar las cargas normales de trabajo al que se 
+sometan, tomando en cuenta los factores de seguridad de los materiales que lo constituyen y deberán dotarse de barandas de construcción 
+y resistencia, capaces de eliminar el riesgo de caídas por los espacios libres que lo rodean. 
+ 
+
+--- P.27 ---
+ 
+Municipalidad Provincial de Tacna 
+REGLAMENTO INTERNO DE SEGURIDAD Y 
+SALUD EN EL TRABAJO DE LA 
+MUNICIPALIDAD PROVINCIAL DE TACNA 
+F. Aprobación 
+RISST- 001 
+14/11/24 
+Versión 
+02 
+Página 27 /51 
+ 
+ 
+Art. 33 CONSERVACIÓN DE LOS LOCALES DE TRABAJO 
+ 
+ 
+SERVICIOS HIGIENICOS 
+La Municipalidad Provincial de Tacna dotará de servicios higiénicos adecuados y separados para cada sexo, el número de estos servicios estará 
+de acuerdo a la tabla siguiente, basado en la norma G.50 de construcción. 
+ 
+Tabla N° 2 
+ 
+EMPLEADOS Y OBREROS 
+W.C 
+LAVATORIOS 
+DUCHAS 
+URINARIOS 
+BEBEDEROS 
+1 a 9 
+1 
+2 
+1 
+1 
+1 
+10 a 24 
+2 
+4 
+2 
+1 
+1 
+25 a 49 
+3 
+5 
+3 
+2 
+1 
+50 a 100 
+más de 100: 1 adicional por 
+cada 30 personas. 
+4 
+10 
+6 
+4 
+2 
+ 
+Servicios Especiales: Para personal que por la naturaleza de sus funciones lo requiere 
+a) Vestuarios: 
+ 
+• La MPT proporcionará de ambientes debidamente separados para trabajadores de uno y otro sexo, para ser utilizados como 
+vestuarios. 
+• El área del vestuario será adecuada al número de trabajadores que simultáneamente lo utilicen. 
+• Está prohibido guardar alimentos y/o bebidas en los vestuarios. 
+ 
+b) Comedores: 
+La MPT dotará de un ambiente adecuado, ventilado e iluminado, provisto de mobiliario, para ser utilizado como comedor por los trabajadores, 
+este ambiente estará alejado de los lugares de trabajo. 
+ 
+Art. 34 Resguardo de Maquinarias Condiciones Generales 
+a) Se protegerán todas las partes móviles de las máquinas, transmisiones, acoplamientos, ejes, etc., a menos que estén construidos o 
+colocados de tal manera que eviten que una persona u objeto entre en contacto con ellas. 
+b) Ninguna persona quitará los resguardos o dispositivos de seguridad, que protejan una máquina o parte de ellas, que sea peligrosa. 
+Excepto cuando la máquina esté detenida con el fin de efectuar reparaciones u operaciones de mantenimiento, al término de los cuales 
+se colocarán de inmediato dichos resguardos o dispositivos de seguridad. 
+c) Los trabajadores darán cuenta inmediatamente de los defectos o deficiencias que descubran en una máquina, resguardo o 
+dispositivo, a efecto de detener su funcionamiento y prohibir su uso, hasta que se hayan hecho las reparaciones necesarias, debiéndose 
+colocar los avisos de prevención respectivos. 
+d) Siempre esté alerta de no poner sus dedos en lugares donde pueden ser atrapados, es decir donde haya maquinaria, motores otras 
+piezas en cualquier clase de movimiento, ya sea esté de rotación o de impacto. 
+e) Se deberá colocar señales visibles y designar personas que actúen como “señaleros” para regular el tránsito de vehículos, cuando 
+se esté trabajando en el mantenimiento de caminos o carreteras; especial atención merecerá la protección de las curvas. 
+
+--- P.28 ---
+ 
+Municipalidad Provincial de Tacna 
+REGLAMENTO INTERNO DE SEGURIDAD Y 
+SALUD EN EL TRABAJO DE LA 
+MUNICIPALIDAD PROVINCIAL DE TACNA 
+F. Aprobación 
+RISST- 001 
+14/11/24 
+Versión 
+02 
+Página 28 /51 
+ 
+Uso de Maquinarias y Equipos 
+ 
+a) Sólo personal calificado y autorizado podrá realizar trabajos o manejar máquinas y motores, adoptando para ello las precauciones 
+necesarias. 
+b) Los motores eléctricos estarán previstos de cubiertas permanentes o guardas de seguridad y demás resguardos adecuados, 
+dispuesto de tal manera que prevengan el contacto con personas u objetos. 
+c) 
+Antes de arrancar máquinas, se deberá seguir el procedimiento seguro para operar las máquinas. 
+d) Todo trabajo de mantenimiento, ajuste o reparación se efectuará con máquinas estén desenergizadas. 
+e) Las transmisiones por cadenas, correas, cuerdas, engranajes, etc., estarán siempre resguardadas. 
+f) 
+Los botones de arranque y parada, pedales, etc., estarán aisladas de manera que eviten ser accionadas en forma accidental. 
+g) Los vehículos de la Municipalidad Provincial de Tacna, serán conducidos únicamente por personal autorizado y que porte la 
+licencia de conducir correspondiente al tipo de vehículo. 
+h) Es obligación de todo conductor de vehículos portar la licencia de conducir original, la tarjeta de propiedad del vehículo y el seguro 
+contra accidentes de tránsito. 
+i) 
+Está prohibido subir o bajar de un vehículo en movimiento. 
+j) 
+El conductor del vehículo debe reportar cualquier defecto que encuentre en el vehículo, a su jefe inmediato, quien se encargará 
+de ordenar las reparaciones que sean requeridas. 
+k) 
+Sólo conducir vehículos que se encuentren en perfecto estado de operación y documentos al día. 
+l) 
+Está prohibido manejar cuando se está fatigado o cansado, con sueño o bajo la influencia de drogas o licor, cualquiera sea la cantidad 
+consumida o ingerida, manténgase alerta y no se distraiga. 
+m) Es obligatorio el cumplimiento estricto de lo normado en el “Reglamento Nacional de Tránsito” vigente, su violación así como al presente 
+Reglamento, podrá ser motivo de la suspensión definitiva, sin derecho a reclamos posteriores. 
+n) Se deberá llevar un registro del mantenimiento de cualquier máquina de la Municipalidad Provincial de Tacna, indicando el motivo, tipo de 
+reparación, fecha, nombre del responsable, tipo de máquina o equipo. 
+o) Antes de operar cualquier máquina en el taller, vea que ésta se encuentre en buenas condiciones, con sus guardas y dispositivos de 
+seguridad en su lugar. 
+p) Antes de taladrar una pieza asegúrela usando mordazas o prensas. 
+q) Es obligatorio desconectar el cable de corriente eléctrica al terminar de usar la maquinaria, utilizando el interruptor correspondiente. 
+r) 
+No se podrá poner en funcionamiento alguna máquina o equipo cuando tenga colocado una “tarjeta y candado de seguridad”, 
+asegurándose que la persona que los puso, los retire luego de terminada la reparación, revisión, mantenimiento, etc. Según 
+procedimiento de seguridad de bloqueo y etiquetado. 
+ 
+Condiciones de los Resguardos 
+Los resguardos deberán ser diseñados, construidos y usados de tal manera que ellos: 
+a) Suministren una protección positiva. 
+b) Prevengan todo acceso a la zona de peligro durante las operaciones. 
+c) 
+No ocasionen molestias ni inconvenientes al operador. 
+d) No interfieran innecesariamente con la producción. 
+e) Funcionen automáticamente con un mínimo de esfuerzo. 
+f) 
+Sean apropiados para el trabajo y la máquina. 
+g) Permita el aceitado, la inspección, el ajuste y la reparación de la máquina. 
+h) Puedan utilizarse por largo tiempo con un mínimo de conservación. 
+i) 
+Resistan un uso normal y el choque no pueda fácilmente neutralizar su función. 
+ 
+Los resguardos podrán ser: 
+a) Metal fundido o planchas metálicas sólidas, perforadas o de metal desplegado o de alambre tejido en marcos de angulares de 
+hierro o barras sólidas de hierro; y 
+b) Madera, material plástico u otro material apropiado para el fin al cual se aplicará. 
+c) 
+Todos los resguardos deberán estar fuertemente fijados a la máquina, al piso, etc., y se mantendrán en su lugar siempre que la 
+máquina funcione. 
+d) El punto de operación de las máquinas de trabajo estará siempre resguardados efectivamente, para lo cual se tendrá en cuenta el tipo 
+y características de las mismas. 
+ 
+
+--- P.29 ---
+ 
+Municipalidad Provincial de Tacna 
+REGLAMENTO INTERNO DE SEGURIDAD Y 
+SALUD EN EL TRABAJO DE LA 
+MUNICIPALIDAD PROVINCIAL DE TACNA 
+F. Aprobación 
+RISST- 001 
+14/11/24 
+Versión 
+02 
+Página 29 /51 
+ 
+ 
+Art. 35 Requisitos Mínimos de Seguridad contra Accidentes Eléctricos Condiciones específicas de instalación 
+a) 
+Todos los equipos e instalaciones eléctricas, serán de una construcción tal y estarán instalados y conservados de manera que prevenga a la vez 
+el peligro de contacto con los elementos a tensión y el riesgo de incendio. 
+b) 
+Se evitará en lo posible efectuar instalaciones eléctricas provisionales, las que en todo caso se instalarán en forma definitiva en la brevedad posible. 
+c) 
+Los conductores eléctricos susceptibles de deteriorarse, deberán estar empotrados y/o protegidos con una cubierta de caucho duro u otro material 
+equivalente. 
+d) 
+El material para todos los equipos eléctricos se seleccionará con relación a la tensión de trabajo, la carga y todas las condiciones particulares de su 
+utilización. 
+e) 
+Cuando se lleven a cabo reparaciones estructurales, extensiones o trabajo de pintado de los ambientes de la MPT, se adoptará las medidas 
+necesarias para la protección. 
+f) 
+Solo podrá obtenerse energía eléctrica de toma corrientes, empleándose para tal fin enchufes adecuados, sólidos y aislados; quedando 
+terminantemente prohibido efectuar conexiones directamente de los tableros de distribución, llaves generales y/o emplear alambres sueltos para dichas 
+conexiones. 
+g) 
+Para trabajos eléctricos de cualquier índole, sólo se utilizarán alicates, destornilladores, saca fusibles y demás herramientas manuales similares, que 
+se encuentren debidamente aisladas. 
+h) 
+Antes de proceder a remplazar fusibles defectuosos, deberá desenergizarse el circuito correspondiente. 
+ 
+Conexión a Tierra y Protección de los Elementos a Tensión. 
+ 
+a) Los equipos y elementos eléctricos, portátiles o no, tendrán conexión a tierra por medio de conductores que serán de baja resistencia y 
+suficiente capacidad, para poder llevar con seguridad el caudal más fuerte de corriente. 
+b) Se dispondrá de conmutadores para desconectar los equipos de conductores eléctricos de la fuente de abastecimiento, cuando haya que 
+efectuar trabajos de reparación o conservación en dichos equipos o conductores. 
+c) Los cercos, las cubiertas y demás resguardos de los equipos o conductores a tensión estarán construidos, de tal manera que 
+eviten el peligro de conmoción eléctrica o de corto circuito, se dispondrá de acceso seguro a los conductores y equipos a fin de 
+resguardarlos o separarlos. 
+d) Los cercos, las cubiertas y resguardos para los elementos de los circuitos o equipos eléctricos a tensión que puedan en cualquier momento 
+quitarse mientras los elementos estén a tensión, serán: De material aislante; o Instalados de tal manera que ellos no puedan entrar 
+en contacto con los elementos a tensión. 
+Art. 36 Estándares de Seguridad en el Centro de Salud 
+ 
+La atención en los Centros de Salud de la Municipalidad Provincial de Tacna comprende, entre otros aspectos, el contacto con sangre u otros 
+fluidos potencialmente infecciosos. Una exposición ocupacional se considera al contacto del personal sanitario a través de una lesión percutánea 
+(PINCHAZO ACCIDENTAL), o por contacto con mucosas o con piel lesionada. 
+ 
+a) Lavarse las manos antes de proporcionar cualquier atención al paciente, con cuidado especial ante la piel no intacta. 
+b) Se utilizará jabón normal para eliminar microorganismos transitorios, suciedad de sangre, tierra, heces y partículas de comida. 
+c) Se utilizará jabón antiséptico para evitar que crezcan los microorganismos, este lavado es apropiado, cuando se realicen procedimientos 
+invasivos o de tener contacto con usuarios inmune deprimidos con alto riesgo a infectarse. 
+d) Utilizar en todo momento las barreras de seguridad (EPP) tales como: guantes, mascarillas, protectores oculares, gorro, bata y mandil. 
+e) El suelo o pavimento debe ser homogéneo, llano y liso, sin solución de continuidad, de material consistente, no resbaladizo y de fácil 
+limpieza. 
+f) 
+No deben existir corrientes de aire molestas, ya que una atmósfera húmeda impide la evaporación del sudor y favorece el desarrollo de 
+las bacterias. 
+g) Disponer adecuadamente del mobiliario y equipos, de forma que facilite el desplazamiento de los trabajadores y les permita mantener 
+posiciones adecuadas durante el desarrollo del trabajo. 
+h) Las sustancias peligrosas deberán estar etiquetadas: En un mismo campo visual deberán figurar los siguientes datos: 
+▪ 
+Nombre y Concentración de la sustancia 
+▪ 
+Nombre y dirección del fabricante, envasador, distribuidor. 
+▪ 
+Pictogramas e indicaciones de peligro. 
+▪ 
+Mención de los riesgos específicos de las sustancias 
+ 
+
+--- P.30 ---
+ 
+Municipalidad Provincial de Tacna 
+REGLAMENTO INTERNO DE SEGURIDAD Y 
+SALUD EN EL TRABAJO DE LA 
+MUNICIPALIDAD PROVINCIAL DE TACNA 
+F. Aprobación 
+RISST- 001 
+14/11/24 
+Versión 
+02 
+Página 30 /51 
+ 
+ 
+Consejos de prudencia relativos a las sustancias peligrosas 
+a) Apartar objetos cortantes cuando no se utilicen, de la mesa de curaciones. (Tijeras, lancetas, bisturí, etc.) 
+b) Envolver con algodón o similar, ampollas, tubos de cristal o frascos tapados antes de romper, desenroscar o apretar. Si se 
+rompieran, echar los trozos de cristal a un contenedor adecuado. 
+c) 
+Las agujas y jeringas, han de ser de un solo uso y desechadas en bolsa de bioseguridad. 
+d) Si se requiere solución salina como disolvente, utilizar los envases de plástico de 10 ml. en vez de las ampollas de vidrio. 
+e) Usar envases de seguridad, que deben estar disponibles en el control de enfermería para la desechar agujas, lancetas, etc. 
+f) 
+Retirar espray y otros envases a presión en contenedores especiales. No incinerarlos, no mezclar el contenido de dos envases, 
+pues pueden formarse gases tóxicos o combustión espontánea. 
+g) No buscar dentro de la papelera. Cogerla por los bordes y vaciarla sobre un papel o bolsa. 
+h) Usar tenazas para sacar objetos puntiagudos o cortantes de un recipiente, o bien vaciar el contenedor sobre una superficie lisa. 
+i) 
+Los objetos agudos (agujas, hojas de bisturí, etc.) deben considerarse como potencialmente infectantes. Requieren un manejo 
+extremadamente cuidadoso para prevenir accidentes y guardarse en envases resistentes a punción. 
+j) 
+Tener extremo cuidado en evitar contacto con heridas, eczemas, escoriaciones de piel y mucosas del personal con fluidos o 
+material procedente de pacientes infectados. Siempre que exista posibilidad de contacto. 
+k) 
+hay que adoptar medidas de protección (batas, gafas, mascarilla, guantes). 
+l) 
+Las salpicaduras de material orgánico, especialmente sangre, han de ser rápidamente limpiadas con solución desinfectante, al igual 
+que las superficies en suelos, paredes, etc. (Hipoclorito sódico ó lejía concentrada al 10%). 
+m) Las torundas, gasas, algodón, etc. contaminadas con sangre han de colocarse en bolsas plásticas de color rojo, debidamente 
+señalizadas y enviadas a zonas de desecho. 
+n) Utilizar guantes para manipular sangre, secreciones, secreciones vaginales, saliva y heridas abiertas. 
+o) Aplicar sistemas de trabajo seguros, procedimientos seguros para la utilización y eliminación del instrumental médico corto 
+punzante. 
+p) Al momento de trasladar al paciente, utilizar las normas de ergonomía establecidas para su área. 
+ 
+Art. 37 Clasificación de los Riesgos en el Centro de Salud. 
+• 
+Riesgos Físicos: 
+Radiaciones ionizantes, descargas eléctricas, electrocución, pinchazos, caídas, manipulación manual de cargas, etc. 
+• 
+Riesgos Químicos: 
+Formol, óxido de etileno, gases anestésicos, etc. 
+• 
+Riesgos Biológicos: 
+Bacterias, hongos, virus, especialmente hepatitis B, tuberculosis, etc. 
+ 
+Art. 38 Estándares de Seguridad en los Servicios de Limpieza 
+La Municipalidad Provincial de Tacna, tienen la responsabilidad de dotar a sus trabajadores obligatoriamente de los equipos de protección personal 
+(EPP), necesarios para las labores que desempeñan; capacitar a su personal en el uso y manejo de herramientas, equipos y productos 
+químicos que emplean en el desarrollo de sus actividades diarias, así como de informar los riesgos de las áreas donde realizan limpieza. 
+a) Los trabajadores deben emplear obligatoriamente los equipos de protección personal (EPP) 
+b) Usar adecuadamente, las máquinas, aparatos, herramientas, sustancias peligrosas, equipos de transporte y, en general, 
+cualquier otro medio con los que desarrollen su actividad. 
+c) 
+Realizar las tareas de limpieza con el mayor cuidado y esmero, disponiendo las medidas de seguridad en las inmediaciones de la 
+zona de trabajo, colocar letreros que adviertan peligro. 
+d) Cuidar que los pisos no se encuentren inundados y se mantengan limpios, evitando que contengan elementos que los hagan 
+resbaladizos. 
+e) La limpieza debe efectuarse progresando, desde el fondo del local hacia la puerta. 
+f) 
+Trasladar las bolsas de residuos cerradas, para evitar cortes o pinchazos, no deben apretarse ni deben acercarse al cuerpo ni a las 
+piernas. 
+g) Los envases y recipientes de productos de limpieza y desinfección, serán debidamente rotulados. 
+
+--- P.31 ---
+ 
+Municipalidad Provincial de Tacna 
+REGLAMENTO INTERNO DE SEGURIDAD Y 
+SALUD EN EL TRABAJO DE LA 
+MUNICIPALIDAD PROVINCIAL DE TACNA 
+F. Aprobación 
+RISST- 001 
+14/11/24 
+Versión 
+02 
+Página 31 /51 
+ 
+ 
+h) No colocar nunca las manos en las papeleras, sino que debe volcar su contenido en bolsas de basura más grandes. 
+i) 
+Tener cuidado para no golpearse la cabeza o partes del cuerpo, en zonas muy estrechas y con obstáculos, como máquinas, 
+conductos, barandillas, cajones de mesa, armarios, estanterías. 
+j) 
+No introducir las manos en cisternas, papeleras, recipientes que claramente no se vea su interior. 
+k) 
+Evitar sobreesfuerzo por el peso y manejo de máquinas y productos de equipos. 
+l) 
+Tener especial cuidado al trabajar con productos químicos, que pueden provocar efectos sobre las vías respiratorias, irritación de los ojos, 
+erupciones en la piel. Utilizar siempre los productos de limpieza, según las recomendaciones e instrucciones del fabricante; cuando se 
+trate de productos concentrados que necesiten diluirse, se utilizarán en la dilución indicada y nunca, con la excusa de conseguir más 
+eficacia, a mayor concentración. 
+m) Las sustancias inflamables y las sustancias nocivas, sobre todo si desprenden gases o vapores (como el amoníaco y el aguarrás u otros 
+disolventes), deben manipularse siempre con ventilación adecuada. Si la ventilación no es suficiente, utilizar mascarilla y filtro adecuados 
+a las sustancias manipuladas. 
+n) Cuando se utilicen equipos de limpieza conectados a la red eléctrica, se procurará tender los cables de manera que no atraviesen las 
+zonas de trabajo o de paso. Si esto fuera imposible, se prestará la máxima atención cuando se trabaje en sus proximidades. 
+o) Lavarse las manos antes y después de las tareas con abundante agua y jabón. 
+p) No comer o beber en el puesto de trabajo. 
+Art. 39 Estándares de Seguridad en Áreas Verdes 
+a) Es responsabilidad de la jefatura de Áreas Verdes dotar a sus trabajadores obligatoriamente de los equipos de protección personal (EPP) de 
+acuerdo al trabajo a realizar, capacitar a su personal en el uso y manejo de herramientas, equipos y productos químicos que emplean en el 
+desarrollo de sus actividades diarias. 
+b) Todos los trabajadores tienen la obligación de limpiar y mantener en orden y buenas condiciones las dependencias del ambiente del 
+que estén haciendo uso. 
+c) Todos los productos químicos (combustibles, plaguicidas, abonos, cloro, productos de limpieza.), deben mantenerse en su envase 
+original y estar correctamente etiquetados. 
+d) Para el almacenamiento de combustible se tendrá un armario protegido contra el fuego y siguiendo las siguientes indicaciones: Se 
+guardará en su interior el combustible. Se ubicará en un lugar con ventilación y preferiblemente alejado de puertas. Los combustibles deben 
+estar debidamente etiquetados para facilitar la identificación. No debe colocarse nada encima del armario. El armario debe estar limpio 
+(interior y exterior) cerrado con llave, señalizado (señal de material inflamable y prohibido fumar) 
+e) Los productos fitosanitarios (pesticidas, abonos, etc.) no se almacenarán con el combustible. Se guardarán en un armario de seguridad, 
+que deberá reunir los siguientes requisitos: Se ubicará en un lugar con ventilación y preferiblemente alejado de puertas. No debe 
+colocarse nada encima del armario. Debe estar limpio (interior y exterior), cerrado con llave, señalizado (Productos fitosanitarios y prohibido 
+fumar) Debe tener una bandeja de retención para derrames. Los productos se agruparán dentro del armario según el tipo de peligrosidad. 
+f) 
+Tener cuidado de los pesticidas y los productos químicos; leer las hojas de seguridad de materiales químicos. 
+g) Bajo ninguna circunstancia se manipularán cargas que excedan de 40 kg. 
+h) Utilizar las máquinas de acuerdo con las instrucciones del fabricante y sólo en aquellos trabajos para los que han sido diseñados. 
+i) 
+El operador de equipo o maquinaria deberá usar los Equipos de protección completa. 
+j) 
+Usar máquinas y herramientas seguras. Sólo las utilizarán las personas designadas, capacitadas para utilizarlas y que estén 
+informadas de sus peligros. 
+k) 
+Cuando se riega jardines evitar caminar hacia atrás, mientras se arrastra la manguera, vaciar la manguera antes de doblarla, evitar que las 
+mangueras atraviesen vías de circulación. 
+l) 
+Utilizar mangos de longitud adecuada al trabajador, que le permitan una postura cómoda. 
+m) Poner especial atención y protegerse adecuadamente, al trabajar con o cerca de plantas punzantes. 
+n) Proteger las partes cortantes de las máquinas, con resguardos que impidan a los operarios el acceso directo a las zonas peligrosas. 
+o) No quitar, ni retirar resguardos a los elementos de seguridad de las máquinas. 
+p) Mantener distancia de seguridad con terceras personas para evitar lesionarlas. 
+q) Para podar a alturas superiores a 2 m utilizar andamios y escaleras, mover siempre la máquina de forma que apunte en dirección 
+contraria al cuerpo. 
+r) 
+No dejar las herramientas colgadas en arbustos, escaleras, etc. ni clavadas en el suelo cuando no se utilicen. 
+s) Cuando se utilice la motoguadaña por donde transitan o trabajan otras personas, con la ayuda de otro operador, se procederá a 
+cubrir el área de trabajo con una o más pantallas fijas o movibles. 
+t) 
+Inspeccionar las herramientas de trabajo cada vez que las use, para asegurar que estén en buenas condiciones de funcionamiento. 
+
+--- P.32 ---
+ 
+Municipalidad Provincial de Tacna 
+REGLAMENTO INTERNO DE SEGURIDAD Y 
+SALUD EN EL TRABAJO DE LA 
+MUNICIPALIDAD PROVINCIAL DE TACNA 
+F. Aprobación 
+RISST- 001 
+14/11/24 
+Versión 
+02 
+Página 32 /51 
+ 
+ 
+u) Cuando se use combustibles inflamables, deberá asegurarse que los recipientes estén aprobados para uso con combustibles inflamables, 
+nunca fumar mientras se reabastece de combustible. 
+v) 
+No poner en marcha (arrancar) la máquina en el lugar que ha recargado el combustible, alejarse 3 metros. 
+w) Se recomienda la vacunación contra tétanos y de la hepatitis B. 
+Operaciones con desbrozadora (Motoguadaña): 
+ 
+Seguridad antes de iniciar el trabajo: 
+a) Posicionar el equipo en un área despejada, plana y libre de obstáculos. 
+b) Colocar el equipo en posición horizontal de tal forma que el cabezal no toque el suelo u otro objeto. 
+c) 
+Verificar que todas las tuercas y tornillos estén adecuadamente ajustados. 
+d) Verificar que el protector de cuchilla y el cabezal se encuentren perfectamente ensamblados. 
+e) Tomar las medidas preventivas de acuerdo al trabajo que vayas a realizar. Si estás cortando maleza tóxica, utiliza mascarilla de 
+protección. 
+f) 
+Desechar el combustible una vez haya cumplido su tiempo de vida, en promedio cada 2 semanas. 
+g) Llenar el tanque usando un embudo. No derramar la mezcla, en caso de que ocurra, limpiar área de inmediato. 
+h) Encender el motor lejos del área donde se manipuló la gasolina. 
+i) 
+No llenar el tanque de combustible si el motor está caliente. 
+j) 
+Nunca llenar el tanque de combustible hasta rebozar. 
+k) Si a pesar de mantener las distancias de seguridad, que indica el manual de instrucciones de uso de la máquina, tanto con otros operarios 
+presentes en la zona de trabajo como con otras personas ajenas a la tarea y aún se mantiene el riesgo de impacto, se deberá colocar vallas 
+protectoras anti proyecciones de fragmentos o partículas en la zona de trabajo para protección de transeúntes. 
+Seguridad durante el uso de la desbrozadora (Motoguadaña): 
+ 
+a) Utilizar los equipos de protección personal como: botas altas anti-resbalantes o zapatos cerrados, polainas protectoras de piernas (anti 
+golpe y corte), casco de protección, lentes, mascarilla, guantes de seguridad, y tapa-oídos. 
+b) Guardar la distancia 
+c) 
+Utilizar la motoguadaña sólo para los fines previstos. 
+d) Colocarse en una posición equilibrada y estable sobre los pies. 
+e) Verificar que el peso de la máquina esté balanceado entre el motor y el cabezal. 
+f) 
+Solo cuando los dispositivos de corte se hayan detenido por completo, podrás cargar la máquina con el cabezal por debajo de la cintura y 
+lejos del cuerpo. 
+g) Evitar el contacto con piedras, cúmulos de tierra o cualquier objeto sólido durante el corte de maleza. 
+h) Si se golpea un objeto o si el cabezal es bloqueado por sobrecarga de maleza, reducir la velocidad del motor para desacoplar el embrague. 
+Verificar que el cabezal de corte no esté dañado. De ser necesario, cambiar la cuchilla. 
+i) 
+Los dispositivos de seguridad de la motoguadaña, deben permanecer en buen estado durante el uso. 
+j) 
+Utilizar el arnés y ajústalo siguiendo las instrucciones para adaptarlo a tu altura. 
+ 
+Precauciones en las Actividades de Jardinería. 
+a) No poner en marcha (arrancar) las máquinas: Si se ha derramado combustible (secarlo todo antes). Si salpicó al cuerpo o ropa, lavarse 
+y cambiarse de ropa. Si hay fuga en la tapa o conductos. 
+b) Aplicación de productos químicos, para eliminar plagas o enfermedades que atacan a los vegetales: Asegurarse de que el equipo de 
+aplicación funciona correctamente. Aplicar a favor del viento. No limpiar la boquilla soplando con la boca. Evitar hacer los tratamientos en las 
+horas de máximo calor o en días de mucho viento. Cambiarse de ropa y ducharse en el puesto de trabajo. 
+c) Si sospechamos que una persona se ha intoxicado con algún producto químico, debemos: Alejar al accidentado del lugar. Avisar 
+a una ambulancia o trasladar al accidentado al hospital más cercano. Proporcionar al personal sanitario, la ficha de seguridad del 
+producto utilizado, etiqueta y restos de vómito (en el caso que los hubiera). 
+ 
+ 
+ 
+
+--- P.33 ---
+ 
+Municipalidad Provincial de Tacna 
+REGLAMENTO INTERNO DE SEGURIDAD Y 
+SALUD EN EL TRABAJO DE LA 
+MUNICIPALIDAD PROVINCIAL DE TACNA 
+F. Aprobación 
+RISST- 001 
+14/11/24 
+Versión 
+02 
+Página 33 /51 
+ 
+Art. 40 Estándares de Seguridad en los Servicios de Barrido, Recolección y Transporte de Residuos Sólidos 
+La Unidad de Gestión de Residuos Sólidos, cumple la tarea de limpieza, acopio de residuos de origen domiciliario (orgánicos y no orgánicos), 
+recolectados en vehículos compactadores en todo el distrito de Tacna. Transportando al relleno sanitario para la eliminación de los residuos 
+sólidos. Indicar que la recolección no incluye residuos hospitalarios ni elementos peligrosos que pongan en peligro al personal que cumple las 
+tareas mencionadas. La Municipalidad Provincial de Tacna, tiene la responsabilidad de brindar los recursos para prevenir los peligros a lo que se 
+exponen los trabajadores en las actividades desarrolladas a diario, los técnicos y trabajadores encargados de la Unidad de Gestión de Residuos 
+Sólidos deberán informar de los peligros y las consecuencias para ejecutar su control del mismo. 
+ 
+a) Los trabajadores deben contar con vacuna tetánica y hepatitis, antes de iniciar a laborar por estar expuesto a peligro eminente de 
+contaminación. 
+b) Obligatorio participar en las charlas de inducción, especifica y entrenamiento para el buen desarrollo de las tareas encomendadas. 
+c) Obligatorio emplear los equipos de protección personal (EPP), correctamente durante la jornada laboral, como: guantes, mascarilla, gafas 
+de protección, zapatillas de seguridad, casco o sombrero (según actividad), tapones auditivos y EPP especiales como: guantes anticorte y 
+cascos que protejan la nuca ante posible caída de espaldas de unidad en movimiento. 
+d) Usar adecuadamente las herramientas, máquinas de trasporte y/u otro medio con los que desarrollen su actividad. 
+e) Cuando realizan barrido de vías en grupo o individual deben respetar las señales de tránsito, obligatorio utilizar los equipos de protección 
+colectiva (conos de seguridad, letreros, cinta de seguridad, etc) en especial cuando se trabaje en grupo o en vías de alto tránsito. 
+f) 
+Cuando realicen la tarea de barrido de vías, el trabajador deberá cumplir la tarea en la dirección opuesta a los vehículos (no debe dar la 
+espalda al vehículo), cuando la tarea se realice en calles angostas la tarea debe hacerse desde la vereda (no bajar a la calzada). 
+g) Cuando realizan tareas de recolección de residuos, prohibido recoger desde la pisadera del vehículo o cuando el vehículo este en 
+movimiento, mantener la pisadera limpia durante toda la jornada de trabajo. 
+h) Cumplir con las instrucciones de postura de carga, en caso que el peso de residuos es mayor a los 25 kilos deberán realizar entre dos o tres 
+personas, para cruzar la pista para recolectar residuos deben de observar en ambas direcciones, no deben de transitar por centro de la 
+pista. 
+i) 
+Al momento de contactar los residuos solo el personal capacitado para la operación debe realizar ubicado en la parte lateral del vehículo. 
+Está prohibido estar frente a la tolva del vehículo cuando se está compactando, no se debe empujar con la mano o con el pie los 
+residuos de la tolva. 
+j) 
+Cuando el vehículo está en retroceso los trabajadores deben ubicarse en los laterales donde el conductor los vea, esperar que el vehículo 
+este estacionado. 
+k) El chofer del vehículo compactador debe revisar la vigencia del seguro obligatorio contra accidente de tránsito (SOAT), en caso de estar 
+próximo a su vencimiento, debe comunicar a los responsables. Obligatorio utilizar el cinturón de seguridad durante toda la jornada de trabajo. 
+l) 
+El chofer debe hacer su check list a diario del estado del vehículo (neumáticos, frenos, luces direccionales, luces frontales, alarma de 
+retroceso etc.), en caso de surgir un desperfecto técnico el vehículo se debe comunicar a los responsables del mantenimiento 
+preventivo. 
+m) Manejar a la defensiva respetando las señales de tránsito y límites de velocidad, cuando se realizan las maniobras en el cumplimiento 
+de la tarea no deberá pasar la velocidad a más de 20 km hora de velocidad. 
+n) Prohibido utilizar audífono, celulares y/u otro objeto que distraigan durante el desarrollo de las tareas, evitar abrir las bolsas con residuos ni 
+tener contacto directo con algún miembro del cuerpo. 
+o) Al culminar la jornada laboral debe pasar por las duchas con abundante agua y jabón. 
+p) Prohibido comer o beber en el puesto de trabajo. 
+Art. 41 Estándares de Seguridad Ciudadana 
+Es responsabilidad del Área de Seguridad Ciudadana, proporcionar a sus trabajadores obligatoriamente los equipos de protección personal 
+(EPP), vestuario y equipos de comunicación, según lo dispone la norma específica de la DICSCAMEC y capacitar a su personal en el desarrollo de 
+sus actividades diarias. 
+ 
+a) Las zonas de trabajo, se mantendrán siempre limpias de materiales y/o desperdicios, cuidando la salud y seguridad de todos los 
+trabajadores. 
+b) Obligatorio emplear los equipos de protección policial como Chalecos de seguridad y equipos de protección personal como guantes de 
+protección contra corte o mordidas, mascarillas, gafas de protección, calzado de seguridad, casco y tapones auditivos. 
+c) Al final de la jornada de trabajo, desconectar máquinas, ventiladores, aparatos de aire acondicionado, a fin de prevenir siniestros. 
+
+--- P.34 ---
+ 
+Municipalidad Provincial de Tacna 
+REGLAMENTO INTERNO DE SEGURIDAD Y 
+SALUD EN EL TRABAJO DE LA 
+MUNICIPALIDAD PROVINCIAL DE TACNA 
+F. Aprobación 
+RISST- 001 
+14/11/24 
+Versión 
+02 
+Página 34 /51 
+ 
+ 
+d) Los trabajadores están obligados a acatar las disposiciones de la MPT, sobre protección de instalaciones, propiedades y a integrar los 
+cuadros de personal de emergencia que ella solicite. 
+e) El uso de vestuario y equipos es obligatorio, cada trabajador debe mantenerlos en buen estado de conservación, bajo 
+responsabilidad. 
+f) 
+Contar con la respectiva licencia, si es que porta armas de fuego. 
+g) Se informará inmediatamente a su superior, sobre cualquier lugar o condición de trabajo que se considere peligroso, a fin de adoptar los 
+correctivos necesarios. 
+h) Todo accidente de trabajo será informado sin demora al superior. 
+i) 
+Toda persona que ingrese o salga, de las instalaciones de la Institución portando, maletines o paquetes, está obligado a mostrar el 
+contenido del mismo al personal de vigilancia, para su verificación. 
+j) 
+Todo vehículo de la MPT o de particulares, que ingrese o salga de las instalaciones, será inspeccionado por el personal de vigilancia. 
+k) Está terminantemente prohibido, el ingreso de personas que se presuman en estado etílico o bajo la influencia de drogas o sustancias 
+alucinógenas. 
+l) 
+Todo visitante está obligado a identificarse con su DNI, ante el personal de serenazgo, a su solicitud, antes de ingresar a la institución. 
+m) Todo trabajador está obligado a mostrar su Identificación al personal de vigilancia, antes de ingresar a las instalaciones. 
+n) Trate a los automovilistas o conductores con respeto y educación. Evite discutir con ellos, no responder a las agresiones, comunique de 
+inmediato a su superior. 
+o) El enfriamiento puede provocar hipotermia y congelación. El enfriamiento es ocasionado por una combinación de temperaturas 
+frías y templadas, tiempo húmedo y/o condiciones húmedas, mucho viento y andar mal arropado. 
+p) Para trabajar en la noche, tome medidas de precaución especiales. Primero que nada, deberá aumentar la visibilidad y estar bien familiarizado 
+con sus alrededores, coma alimentos ricos en proteína y evite el azúcar y la grasa. 
+ 
+Art. 42 Estándares de Seguridad en la Playa de Estacionamiento y Vías de Circulación Vehicular Interna 
+Mapa de Riesgos 
+El Mapa de Riesgos identifica los factores de peligro y de riesgo que están presentes en las distintas áreas operacionales de la MPT y 
+permite tomar medidas preventivas para el control de los mismos. Es una representación gráfica a través de símbolos de uso general o 
+adoptados, indicando el nivel de exposición ya sea bajo, mediano o alto a algún tipo de riesgo, en el se representarán las rutas de evacuación, medios 
+de protección en primeros auxilios, extintores, puntos de reunión o zona segura, zonificación de ambientes, señalización de emergencia, etc. 
+según lo normado en la Norma Técnica de Edificación G.050 Seguridad Durante la Construcción 
+Validez del Mapa de Riesgos 
+ 
+La validez del Mapa de Riesgos está en función al tipo de la Metodología para su elaboración 
+• Planificación: recopilación de toda la información para el diagnóstico situacional. 
+• Ejecución: Difusión entre los trabajadores de los objetivos. 
+• Elaboración: planos de distribución y simbología a identificar. 
+Riesgos Evaluados 
+5.1.1. La identificación de peligros y evaluación de riesgos se hará como sigue: 
+5.1.1.1. Por lo menos actualizados como mínimo una vez al año 
+5.1.1.2. Cuando cambien las condiciones del trabajo. 
+5.1.1.3. Cuando se hayan producido daños a la salud y la seguridad. 
+5.1.2. Cuando la evaluación de riesgos lo amerite se realizará: 
+5.1.2.1. Controles periódicos de la salud de los trabajadores y de las condiciones de trabajo. 
+5.1.2.2. Medidas de prevención, incluidas las relacionadas con los métodos de trabajo y de producción. 
+
+--- P.35 ---
+ 
+Municipalidad Provincial de Tacna 
+REGLAMENTO INTERNO DE SEGURIDAD Y 
+SALUD EN EL TRABAJO DE LA 
+MUNICIPALIDAD PROVINCIAL DE TACNA 
+F. Aprobación 
+RISST- 001 
+14/11/24 
+Versión 
+02 
+Página 35 /51 
+ 
+Documento de Obligatoria visualización para trabajadores: A efectos de estar preparados a las intervenciones de fiscalización de parte de las 
+entidades competentes. 
+Los Gerentes, Sub Gerentes, Jefes de Oficinas Generales, residente o responsable de mantenimiento debe colocar en lugar visible lo siguiente: 
+1. 
+Plan de Seguridad y Salud en el Trabajo. 
+2. 
+Política de Seguridad y Salud en el Trabajo. 
+3. 
+La matriz IPER. El mapa de Riesgos 
+ 
+CAPITULO X 
+ 
+DE LA PREPARACIÓN Y RESPUESTA A EMERGENCIAS 
+ 
+Art. 45 Brigadas de Emergencia 
+ 
+a) 
+Los Gerentes, Sub Gerentes y Jefes de Oficinas Generales, deberán conformar brigadas con su personal para dar respuesta a emergencias, tales como 
+incendios, primeros auxilios, rescate y evacuación, etc., las mismas que deberán ser capacitadas según las funciones encomendadas, realizar 
+simulacros en coordinación con Seguridad y Salud en el Trabajo. 
+b) 
+Toda Gerencia, Sub Gerencia, Oficina General, Residencia o responsables de mantenimiento deberá contar con la elaboración de un Plan de 
+Contingencias y Respuesta a Emergencias. 
+c) 
+El proceso de selección de personal para conformar las brigadas de emergencia se hará considerando la presentación voluntaria de los potenciales 
+miembros, o por invitación especial que cada prevencionista haga a su personal calificado. 
+d) 
+Se deberá suministrar chalecos de identificación y todos los medios e implementos necesarios para poder responder en forma adecuada ante una 
+emergencia. 
+e) 
+Establecer líneas de autoridad y asignar responsabilidad. 
+f) 
+Para garantizar un adecuado trabajo del equipo de personas que conforma la brigada de emergencias recomendamos suministrar los 
+implementos básicos y necesarios. 
+g) 
+Delegarán el cargo y prestarán el apoyo necesario a la llegada de los servicios de emergencia como Cuerpo General de Bomberos, Ministerio de Salud, 
+Empresa Prestadora de Servicios, etc. 
+ 
+Instrucciones Generales en Caso de Movimientos Sísmicos 
+a) 
+Mantener la calma y controlar el pánico. 
+b) 
+Alejarse de las ventanas y puertas de vidrio. Mantenerse listo para evacuar. 
+c) 
+Tener calma y orientar al personal visitante que está atendiendo para que se dirijan a los puntos de reunión 
+d) 
+Durante el movimiento y en oficinas, protegerse junto a un escritorio, columna, mesa o armario. 
+e) 
+Pasado el sismo, la evacuación es automática hacerlo de acuerdo a las instrucciones de los responsables de evacuación, dirigiéndose al punto de 
+reunión. 
+ 
+Instrucciones Generales para la Evacuación 
+ 
+a) 
+Dada la orden de evacuación, la movilización hacia el punto de reunión asignado comenzará en orden, sin correr, sin gritar. 
+b) 
+Deberá mantenerse la calma y obedecer las instrucciones de los responsables de Evacuación. Deberá evitarse el pánico en todo momento. 
+c) 
+Obedecer la voz de mando de quien conduzca la evacuación. No empujarse ni dar indicaciones o realizar comentarios, que puedan ocasionar 
+incertidumbre, confusión y temor al resto. 
+d) 
+Al evacuar, tener cuidado de objetos que puedan caer o encontrarse en la ruta. 
+e) 
+El personal femenino que usa zapatos de taco alto debe tener especial cuidado al caminar. 
+f) 
+Si un evacuante cae, deberá tratar de levantarse inmediatamente para no provocar más caídas y amontonamientos, quienes se hallen 
+cerca, deberán ayudar a levantarlo rápidamente. 
+g) 
+Al llegar al punto de reunión, cada oficina o área se constituirá en orden para verificar si todos se encuentran presentes. No regresar al edificio a 
+menos que las autoridades lo indiquen. 
+h) 
+Si en los momentos de evacuación se encuentra a visitantes, indicarles la ruta y acciones a seguir para su rápida evacuación, al punto de reunión. 
+
+--- P.36 ---
+ 
+Municipalidad Provincial de Tacna 
+REGLAMENTO INTERNO DE SEGURIDAD Y 
+SALUD EN EL TRABAJO DE LA 
+MUNICIPALIDAD PROVINCIAL DE TACNA 
+F. Aprobación 
+RISST- 001 
+14/11/24 
+Versión 
+02 
+Página 36 /51 
+ 
+ 
+PREVENCIÓN Y PROTECCIÓN CONTRA INCENDIOS 
+a. Condiciones generales de Prevención contra Incendios 
+Frente a incendios se deberá tener en cuenta las consideraciones generales siguientes: 
+• 
+Evitar que se produzcan incendios mediante la prevención. 
+• 
+Mantener su área de trabajo limpia, ordenada y en lo posible libre de materiales combustibles y líquidos inflamables. 
+• 
+No obstruir las puertas, vías de acceso o pasadizos, con materiales que puedan dificultar la libre circulación de las personas. 
+• 
+Informar a su Superior sobre cualquier equipo eléctrico defectuoso. 
+• 
+Familiarizarse con la ubicación y forma de uso de los extintores y grifos contra incendios. 
+• 
+En caso de incendio de equipos eléctricos desconectar el fluido eléctrico. No usar agua ni extintores que lo contengan si no se ha cortado 
+la energía eléctrica. 
+• 
+En caso de amagos de incendios, la operación de emplear un extintor dura muy poco tiempo; por consiguiente, utilícelo bien, 
+acérquese lo más que pueda, dirija el chorro a la base de las llamas, no desperdicie su contenido. 
+• 
+Obedecer los avisos de seguridad y familiarizarse con los principios fundamentales de primeros auxilios. 
+Los incendios se clasifican de acuerdo con el tipo de material combustible que arde en: 
+1. Incendio Clase A: 
+Son fuegos que se producen en materiales combustibles sólidos, tales como: madera, papel, cartón, tela, etc. 
+2. Incendio Clase B: 
+Son fuegos producidos por líquidos inflamables tales como: Gasolina, aceite, pintura, solvente, etc. 
+3. Incendio Clase C: 
+Son fuegos producidos en equipos eléctricos como motores, interruptores, etc. 
+ 
+b. Instrucciones Generales en Caso de Incendio 
+• 
+Cuando se detecta un incendio, actuar de inmediato y sin perder la calma. 
+• 
+Dar el aviso del incendio inmediatamente. 
+• 
+Si algún empleado se encuentra en el lugar del incendio y está entrenado para usar el equipo extintor apropiado deberá utilizarlo. 
+• 
+Si algún empleado se encuentra con humo, este debe agacharse y arrastrarse ya que el aire más limpio esta al ras del suelo. 
+• 
+Si el empleado no pudiera salir, se debe buscar un lugar seguro, cerrar la puerta y sellar las rendijas con toallas húmedas. 
+• 
+Por ningún motivo, el personal que no tenga puesto asignado o responsabilidad específica en la Organización de Emergencia, 
+deberá dirigirse al lugar del incendio o abandonar su puesto de trabajo salvo los casos que comprometan su integridad. 
+ 
+c. Extintores Portátiles 
+En el uso de extintores portátiles se tendrá en cuenta lo siguiente: 
+a) Los aparatos portátiles contra incendios, serán inspeccionados por lo menos una vez por mes y serán recargados cuando se venza 
+su tiempo de vigencia o se utilicen, se gaste o no toda la carga. 
+b) Todos los extintores se colocarán en lugares visibles, de fácil acceso, los que pesen menos de 18 Kg., se colgarán a una altura máxima 
+de 1.50 m medidos del suelo a la parte superior del extintor, al centro de un recuadro pintado con franjas oblicuas de colores alternados 
+rojo o blanco (o amarillo) de aproximadamente 20 cm. de ancho y 45° de inclinación. 
+c) 
+Cuando ocurran incendios que implican equipos eléctricos, los extintores para combatirlos serán de polvo químico seco; en caso de que 
+el incendio sea en el centro de cómputo, laboratorios o implique equipos sofisticados, se utilizarán los extintores de gas carbónico 
+(CO2), para su extinción. 
+d) Deberán estar en condiciones operativas, ubicados en sitios accesibles, visibles, debidamente señalizados. 
+Art. 46 Del Almacenaje de Sustancias Inflamables 
+a) Se considerará medidas de seguridad, en el caso que se almacenen pólvora, anfo, dinamita u otras sustancias explosivas. 
+b) Se tomarán las medidas para evitar escapes de líquidos inflamables hacia desagües y detener cualquier pérdida de líquido dentro de la 
+zona de seguridad, así como también para evitar la formación de mezclas explosivas o inflamables de vapores y aire, especialmente 
+durante el trasiego. 
+
+--- P.37 ---
+ 
+Municipalidad Provincial de Tacna 
+REGLAMENTO INTERNO DE SEGURIDAD Y 
+SALUD EN EL TRABAJO DE LA 
+MUNICIPALIDAD PROVINCIAL DE TACNA 
+F. Aprobación 
+RISST- 001 
+14/11/24 
+Versión 
+02 
+Página 37 /51 
+ 
+ 
+c) Queda terminantemente prohibido, el empleo de líquidos inflamables para fines de limpieza en general, excepto en aquellos casos 
+en que las condiciones técnicas del trabajo, así lo exijan, en cuyo caso estos trabajos se efectuarán en locales adecuados, libres de 
+otras materias combustibles, dotados de los sistemas preventivos contra incendios. 
+d) En los locales, donde se use, manipule, almacene, transporte, etc., materiales o líquidos combustibles o inflamables, será 
+terminantemente prohibido fumar o usar llamas descubiertas o luces que no sean a prueba de fuego o explosión. 
+Art. 47 Eliminación de Desperdicios 
+ 
+a) No se permitirá que se acumulen en el piso desperdicios de material inflamable, los cuales serán destruidos o acumulados 
+separadamente de otros desperdicios. 
+b) Se dispondrá de recipientes para recoger inmediatamente los trapos saturados de aceite, pintura u otros materiales combustibles, sujeto 
+a combustión espontánea, en los lugares de trabajo donde estos se produzcan. 
+c) Diariamente el encargado de limpieza recolectará los recipientes de basura de cada ambiente, colocándolos en un lugar 
+determinado para ser erradicados del área de la obra. 
+ 
+Tabla N° 3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+--- P.38 ---
+ 
+Municipalidad Provincial de Tacna 
+REGLAMENTO INTERNO DE SEGURIDAD Y 
+SALUD EN EL TRABAJO DE LA 
+MUNICIPALIDAD PROVINCIAL DE TACNA 
+F. Aprobación 
+RISST- 001 
+14/11/24 
+Versión 
+02 
+Página 38 /51 
+ 
+ 
+Art. 48 De las Señales de Seguridad 
+El objeto de las señales de seguridad será el hacer conocer, con la mayor rapidez posible, la posibilidad de accidente y el tipo de accidente y 
+también la existencia de circunstancias particulares. 
+ 
+a) Dimensiones de las Señales de Seguridad 
+Las señales de seguridad serán tan grandes como sea posible y su tamaño será congruente con el lugar, en que se colocan o el tamaño 
+de los objetos, dispositivos o materiales a los cuales se fijan, en todos los casos, el símbolo de seguridad, debe ser identificado desde 
+una distancia segura. 
+Las dimensiones de las señales de seguridad serán las siguientes: 
+Círculo 
+: 20 cm de diámetro 
+Cuadrado 
+: 20 cm. de lado 
+Rectángulo 
+ : 20 cm. de altura y 30 cm. de base Triángulo equilátero 
+: 20 cm. de lado 
+Estas dimensiones pueden multiplicarse por las series siguientes: 1.25, 1.75, 2, 2.25, 2.5 y 3.5, según sea necesario ampliar el tamaño. 
+ 
+b) Aplicación de los Colores y Símbolos en las Señales de Seguridad. 
+Las señales de prohibición serán de color de fondo blanco, la corona circular y la barra transversal serán rojos, el símbolo de seguridad 
+será negro y se ubicará al centro y no se superpondrá a la barra transversal, el color rojo cubrirá como mínimo el 35% del área de la 
+señal. 
+• 
+Las señales de advertencia tendrán un color de fondo amarillo, la banda triangular será negra, el símbolo de seguridad será 
+negro y estará ubicado en el centro, el color amarillo cubrirá como mínimo el 50% de área de la señal. 
+• 
+Las señales de obligatoriedad tendrán un color de fondo azul, la banda circular será blanca, el símbolo de seguridad será 
+blanco y estará ubicado en el centro, el color azul cubrirá como mínimo el 50% del área de la señal. 
+• 
+Las señales informativas se realizarán en equipos de seguridad en general, rutas de escape, etc. 
+• 
+Las formas de las señales informativas serán cuadradas o rectangulares, según convengan a la ubicación del símbolo de 
+seguridad o el texto, el símbolo de seguridad será blanco, el color de fondo será verde, el color verde cubrirá como mínimo el 
+50% del área de la señal. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+--- P.39 ---
+ 
+Municipalidad Provincial de Tacna 
+REGLAMENTO INTERNO DE SEGURIDAD Y 
+SALUD EN EL TRABAJO DE LA 
+MUNICIPALIDAD PROVINCIAL DE TACNA 
+F. Aprobación 
+RISST- 001 
+14/11/24 
+Versión 
+02 
+Página 39 /51 
+ 
+ 
+Art. 49 Primeros Auxilios 
+El principal objetivo de los primeros auxilios, es la de evitar, por todos los medios posibles, la muerte la invalidez de la persona accidentada. Toda 
+zona de trabajo deberá contar con botiquín o maletín de primeros auxilios, con frazada y camilla de evacuación. 
+Otro de los objetivos principales es que mediante los mismos se brindan un auxilio a la persona accidentada mientras se espera la llegada del médico 
+o se le traslada a un hospital. 
+a) Reglas Generales 
+ 
+Cuando se presente la necesidad de un tratamiento de emergencia, siga estas reglas básicas: 
+1. 
+Evite el nerviosismo y el pánico. 
+2. Si se requiere acción inmediata para salvar una vida (respiración artificial, control de hemorragias, etc.), haga el tratamiento 
+adecuado sin demora. 
+3. Si se requiere acción inmediata para salvar una vida (respiración artificial, control de hemorragias, etc.), haga el tratamiento 
+adecuado sin demora. 
+4. 
+Haga un examen cuidadoso de la víctima. 
+5. Nunca mueva a la persona lesionada a menos que sea absolutamente necesario para retirarla del peligro. 
+6. 
+Avise al médico inmediatamente. 
+b) Tratamientos 
+Cuando ocurra un “shock “siga estas reglas básicas: 
+ 
+1. Acostar al paciente con la cabeza hacia abajo, esto se puede conseguir levantando los pies de la camilla o banca, donde 
+esté acostado el paciente, 6 pulgadas más alto que la cabeza. 
+2. 
+Constatar que la boca esté libre de cuerpos extraños y que la lengua esté hacia adelante. 
+3. 
+Suministrarle abundante cantidad de aire fresco u oxigeno si existe disponible. 
+4. 
+Evitar al paciente el enfriamiento, se le debe abrigar con una frazada y llevarlo al médico. 
+Heridas con Hemorragias 
+Seguir el siguiente Tratamiento: 
+ 
+1. Se puede parar o retardar la hemorragia, colocando una venda o pañuelo limpio sobre la herida, presionando 
+moderadamente. 
+2. Si la hemorragia persiste aplique el torniquete (cinturón, pañuelo, etc.), en la zona inmediatamente superior a la herida y 
+ajuste fuertemente. 
+3. 
+Acueste al paciente y trate de mantenerlo abrigado. 
+4. 
+Conduzca al herido al hospital. 
+5. 
+Si el viaje es largo, suelte el torniquete cada 15 minutos para que circule la sangre. 
+ 
+Fracturas 
+Siga el Siguiente Tratamiento: 
+ 
+1. 
+No doble, ni tuerza, ni jale el miembro fracturado. 
+2. 
+Mantenga al paciente descansando y abrigado. 
+3. 
+Por fracturas de espalda, cuello, brazo o de la pierna, no mueva al paciente y llame al médico. 
+4. 
+Por fracturas de cualquier otra parte del cuerpo, lleve al accidentado al médico. 
+5. 
+Si hay duda acerca de si un hueso está o no fracturado, trátese como fractura. 
+
+--- P.40 ---
+ 
+Municipalidad Provincial de Tacna 
+REGLAMENTO INTERNO DE SEGURIDAD Y 
+SALUD EN EL TRABAJO DE LA 
+MUNICIPALIDAD PROVINCIAL DE TACNA 
+F. Aprobación 
+RISST- 001 
+14/11/24 
+Versión 
+02 
+Página 40 /51 
+ 
+ 
+Quemaduras: 
+Son lesiones que se producen a causa del calor seco o del calor húmedo y se clasifican de acuerdo al grado de lesión que causa en los 
+tejidos del cuerpo en de 1er, 2do, y 3er grado. 
+1. 
+Para quemaduras leves o de 1er grado se puede aplicar ungüento y puede ser cubierta por una gasa esterilizada. 
+2. Para quemaduras de 2 do y 3er grado quite la ropa suelta y aplique una gasa esterilizada suficientemente grande para 
+cubrir la quemadura y la zona circundante y lo suficientemente larga para evitar el contacto del aire con la quemadura. 
+Respiración Boca a Boca: 
+Es un método efectivo, mediante el cual se revive a una persona que no puede respirar por sí misma, su aplicación nunca daña a la 
+víctima, aunque la falta de esta puede resultar fatal ya que cualquier demora puede producir consecuencias graves o fatales. 
+1. 
+Acueste de espaldas y en su posición horizontal al lesionado y colóquese al lado junto a la cabeza. 
+2. 
+Levante la mandíbula inferior para asegurar el paso del aire. 
+3. Trate de cubrir la boca, para ello introduzca el dedo, pulgar y tire del mentón hacia adelante con la otra mano tape los orificios 
+nasales (esto evita la pérdida del aire). 
+4. 
+Respire profundamente y coloque su boca sobre la de la víctima y sople en forma suave y regular. 
+5. 
+Retire su boca para permitir que la víctima exhale, vuelva a soplar repita 12 veces por minuto como mínimo. Algunas veces la 
+víctima cierra la boca fuertemente que resulta difícil abrirla, en estos casos sople el aire por la nariz, selle los labios con el índice 
+de la mano que contiene la barbilla. 
+ 
+ 
+Botiquines de Primeros Auxilios. 
+ 
+En todo edificio o centro de trabajo, e igualmente todo vehículo al servicio de la Municipalidad destinado a las actividades de administración y 
+operación deberá disponer obligatoriamente de botiquines de primeros auxilios debidamente implementados. 
+1. Cada botiquín contará la publicación de la hoja obligatoria de indicaciones para la utilización del material de emergencia. 
+2. 
+Cada botiquín contará con la publicación del Directorio de los Números de Emergencia 
+3. 
+No está permitido el uso de pastillas u otro medicamento en los botiquines de primeros auxilios 
+4. 
+Se reemplazará cualquier elemento utilizado o caducado. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+--- P.41 ---
+ 
+Municipalidad Provincial de Tacna 
+REGLAMENTO INTERNO DE SEGURIDAD Y 
+SALUD EN EL TRABAJO DE LA 
+MUNICIPALIDAD PROVINCIAL DE TACNA 
+F. Aprobación 
+RISST- 001 
+14/11/24 
+Versión 
+02 
+Página 41 /51 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+LISTA DE IMPLEMENTOS DE BOTIQUIN DE PRIMEROS AUXILIOS 
+ 
+ 
+ 
+LIMPIEZA 
+GUANTES QUIRURGICOS AGUA OXIGENADA ALGODÓN PINZA 
+TIJERAS PUNTA ROMA 
+CURACION 
+GUANTES QUIRURGICOS AGUA OXIGENADA ALGODÓN 
+YODOPOVIDONA 
+ 
+GASA ESTERILIZADA TIJERAS PUNTA ROMA PINZA 
+CAIDAS, GOLPES 
+VENDA ELASTICA 
+ 
+PALETAS BAJA LENGUAS/P/ ENTABLILLAR DEDOS 
+LIMPIEZA O MOLESTIA EN OJOS 
+COLIRIO 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ANTISEPTICO 
+CABESTRILLO 
+ITEM 
+IMPLEMENTOS DE 
+BOTIQUIN 
+UNIDAD 
+CANTIDAD 
+1 
+GUANTES QUIRUGICOS 
+PQT 
+02 
+2 
+YODOPOVIDONA 120 ML 
+SOLUCION ANTISEPTICO 
+FCO 
+01 
+3 
+AGUA OXIGENADA 120 ML 
+FCO 
+01 
+4 
+ALCOHOL 250 ML 
+FCO 
+01 
+5 
+GASA ESTERILIZADA DE 10 
+CMX 10 CM 
+PQT 
+05 
+6 
+APOSITOS 
+PQT 
+02 
+7 
+ESPARADRAPO DE 
+5CMX4.5M 
+RLL 
+01 
+8 
+VENDA ELASTICA DE 3 
+PULGADAS X 5 YARDAS 
+RLL 
+02 
+9 
+VENDA ELASTICA DE 3 
+PULGADAS X 5 YARDAS 
+RLL 
+02 
+10 
+ALGODÓN DE 100 GRAMOS 
+PQT 
+01 
+11 
+VENDA TRIANGULAR 
+UND 
+01 
+12 
+PALETAS BAJA LENGUA 
+(PARA ENTABILLAR DEDOS) 
+UND 
+20 
+13 
+CLORURO DE SODIO AL 
+9/1000 X 1 LITRO 
+FCO 
+01 
+14 
+GASA TIPO JELONET 
+(QUEMADURAS) 
+PQT 
+02 
+15 
+COLIRIO 10 ML 
+FCO 
+03 
+16 
+TIJERA PUNTA ROMA 
+UND 
+01 
+17 
+PINZA 
+UND 
+01 
+
+--- P.42 ---
+ 
+Municipalidad Provincial de Tacna 
+REGLAMENTO INTERNO DE SEGURIDAD Y 
+SALUD EN EL TRABAJO DE LA 
+MUNICIPALIDAD PROVINCIAL DE TACNA 
+F. Aprobación 
+RISST- 001 
+14/11/24 
+Versión 
+02 
+Página 42 /51 
+ 
+ 
+ 
+DIRECTORIO TELEFÓNICO DE EMERGENCIA 
+VIOLENCIA FAMILIAR Y SEXUAL 
+100 
+CENTRAL POLICIAL DE TACNA 
+105 
+052-414141 
+BOMBEROS 
+116 
+052-425833 
+SERVICIO DE ATENCION MEDICA DE URGENCIA (SAMU) 
+052-241994 
+HOSPITALES 
+HOSPITAL HIPOLITO UNANUE 
+052-583730 
+HOSPITAL ESSALUD DANIEL ALCIDES CARRION 
+052-722213 
+DEFENSA CIVIL 
+115 
+EPS (AGUA POTABLE) 
+952007778 
+052-583446 
+ELECTROSUR (LUZ ELECTRICA) 
+052-583315 
+052-583316 
+POLICIA DE CARRETERAS 
+110 
+SEGURIDAD CIUDADANA (SERENAZGO) 
+TACNA (CERCADO) 
+052-314028 
+GREGORIO ALBARRACIN 
+052-402050 
+ALTO DE LA ALIANZA 
+052-310132 
+CIUDAD NUEVA 
+0800 13926 
+POCOLLAY 
+052-246753 
+COMISARIAS 
+Comisaria Central 
+052-422293 
+Comisaria Alto de la Alianza 
+052-505166 
+Comisaria Augusto B. Leguía 
+052-314325 
+Comisaria Calana 
+052-471017 
+Comisaria de Ciudad Nueva 
+052-310451 
+Comisaria de la Familia 
+052-412592 
+Comisaria Gregorio Albarracín 
+052-402637 
+Comisaria Gonzáles Vigil 
+052-422286 
+Comisaria Natividad 
+052-318269 
+Comisaria de Pocollay 
+052-245520 
+Comisaria Sama 
+052-414141 
+Comisaria Inclán 
+952875639 
+Comisaría Pachía 
+052-309011 / 989126541 
+Comisaria Palca 
+989126541 
+Comisaria Terminal Terrestres 
+052-245987 
+Comisaria Turismo 
+052-424238 
+
+--- P.43 ---
+ 
+Municipalidad Provincial de Tacna 
+REGLAMENTO INTERNO DE SEGURIDAD Y 
+SALUD EN EL TRABAJO DE LA 
+MUNICIPALIDAD PROVINCIAL DE TACNA 
+F. Aprobación 
+RISST- 001 
+14/11/24 
+Versión 
+02 
+Página 43 /51 
+ 
+ 
+CAPITULO XI 
+ 
+ 
+DE LA CAPACITACIÓN Y ENTRENAMIENTO 
+Art. 50 La Capacitación y Entrenamiento 
+ 
+La capacitación y entrenamiento en seguridad y salud en trabajo, se debe tener en cuenta las siguientes consideraciones: 
+a) La capacitación y entrenamiento en Seguridad y Salud en Trabajo es un proceso permanente que involucra a todos los miembros de la 
+organización y que tiene como objetivo la optimización de las siguientes competencias: conciencia de seguridad, preservación de la 
+salud y prevención de incidentes y accidentes de trabajo. 
+b) Se aplicará un enfoque por competencias, implementando eventos de capacitación que permitan lograr las competencias generales 
+(dirigidas a todos los trabajadores) y las competencias específicas (dirigidas al personal de Seguridad y Salud en el Trabajo, del Comité 
+y Sub Comités de Seguridad y Salud en el Trabajo y el personal especializado en aspectos específicos del sistema). Se formulará 
+recomendaciones al empleador para mejorar la efectividad de dichas capacitaciones. 
+• 
+La Municipalidad tomará las medidas necesarias para transmitir al trabajador información sobre los riesgos en el centro de 
+trabajo, así como las medidas de protección que correspondan. 
+• 
+La Municipalidad impartirá capacitación apropiada y oportuna al trabajador, en materia de seguridad y salud en el trabajo, al 
+momento de la contratación, durante el desempeño de su labor y cuando se produzcan cambios tecnológicos y/o en el puesto de 
+trabajo. 
+• 
+La capacitación y entrenamiento en Seguridad y Salud en el Trabajo estarán normadas por las Directivas y Reglamentos de 
+Capacitación vigentes y cuentan con la conformidad del Comité de Seguridad y Salud en el Trabajo. 
+• 
+La capacitación cualquiera sea su modalidad debe realizarse dentro del horario de trabajo 
+• 
+La capacitación y entrenamiento son impartidos mediante eventos (cursos, seminarios, conferencias, talleres, simulacros, etc.) 
+debidamente documentados y que cumplen con los requisitos académicos necesarios para el logro de los objetivos de 
+capacitación. 
+• 
+La Municipalidad brindará capacitación y/o entrenamiento sobre los siguientes temas: 
+1. 
+Organización y funcionamiento del Comité de Seguridad y Salud en el Trabajo; 
+2. 
+Orden y Limpieza 
+3. 
+Uso y mantenimiento de equipos de protección 
+4. 
+Inducción en Seguridad y Salud en el Trabajo; 
+5. 
+Seguridad en los procedimientos de trabajo, con énfasis en los riesgos de los procesos. 
+6. 
+Prevención de accidentes y de enfermedades ocupacionales; 
+7. 
+Primeros Auxilios; 
+8. 
+Preparación y Respuesta en caso de Emergencias; 
+9. 
+Otros que se consideren necesarios para la mejora continua del sistema. 
+ 
+Art. 51 Del Procedimiento en Casos de Accidentes de Trabajo 
+Se considera accidente de trabajo, a toda lesión orgánica o funcional que en forma violenta o repentina sufran los trabajadores, debido a causas 
+externas a la víctima o al esfuerzo realizado por ésta y que origine una reducción temporal o permanente en su capacidad de trabajo o produzca 
+su fallecimiento. Asimismo, se considera accidente de trabajo: 
+a. 
+El que sobrevenga al trabajador en la ejecución de órdenes del empleador, aún fuera del lugar y las horas de trabajo. 
+b. 
+El que sobrevenga antes, durante y en las interrupciones del trabajo, si el trabajador se hallase por razón de sus obligaciones laborales, 
+en el lugar de trabajo de las instalaciones de la Municipalidad Provincial de Tacna 
+c. 
+El que sobrevenga por acción de tercera persona, o por acción del empleador o del otro trabajador durante la ejecución del trabajo. 
+ 
+
+--- P.44 ---
+ 
+Municipalidad Provincial de Tacna 
+REGLAMENTO INTERNO DE SEGURIDAD Y 
+SALUD EN EL TRABAJO DE LA 
+MUNICIPALIDAD PROVINCIAL DE TACNA 
+F. Aprobación 
+RISST- 001 
+14/11/24 
+Versión 
+02 
+Página 44 /51 
+ 
+Factores Técnicos y Humanos en las Causas de los Accidentes Dentro de los factores técnicos se tomarán en cuenta: 
+• 
+El agente u objeto defectuoso relacionados con los accidentes. 
+• 
+La parte del agente que produce el accidente. 
+• 
+Las condiciones físicas y mecánicas que contribuyeron a que ocurriera el accidente. 
+ 
+Los factores humanos 
+Son las omisiones o faltas a un método de trabajo establecido, por parte del trabajador ya sea por negligencia o por una característica mental o 
+física del individuo, dentro de estos casos se tomarán en cuenta: 
+ 
+• 
+Operar sin permiso. 
+• 
+Manipular herramientas o maquinarias sin tener experiencia previa o haber sido entrenado. 
+• 
+Trabajar en máquinas a velocidades inseguras. 
+• 
+Usar equipos en mal estado, usar las manos u otra parte del cuerpo en lugar del equipo o herramienta apropiada. 
+• 
+Realizar labores de mantenimiento con equipos funcionando. 
+• 
+Distraer a un compañero de trabajo. 
+• 
+Realizar labores de riesgo sin utilizar el equipo de seguridad requerido. 
+• 
+Laborar bajo efectos de alcohol o drogas. 
+• 
+Realizar labores en mal estado de salud. 
+ 
+Notificación de Accidentes e Incidentes 
+Para la notificación de accidentes se procede como sigue: 
+a) Todo Gerente, Sub Gerente, Jefe de oficina General debe coberturar a todo trabajador que ejecute actividades de alto riesgo con 
+el Seguro Complementario de Trabajo de Riesgo tanto de pensiones como el de salud. 
+b) Todo incidente o accidente de trabajo por más leve que este sea, deberá ser informado bajo responsabilidad, a la brevedad 
+posible al Jefe inmediato, prevencionista para realizar la investigación de accidentes y elevar informe al área de Seguridad y Salud 
+en el Trabajo con originales del “aviso de accidente” a su vez hacer de conocimiento al Comité y Sub Comité de Seguridad y Salud 
+en el Trabajo para las acciones correspondientes. 
+c) Todo informe de accidente de trabajo deberá adjuntar el formato de “aviso de accidente” con el sello de recepción de la oficina de 
+Seguros de ESSALUD en un plazo no mayor a dos días hábiles. 
+d) Todos los Gerentes, Sub Gerentes, Jefes de Oficinas Generales deberán comunicar un accidente de trabajo mortal al Ministerio 
+de Trabajo y Promoción del Empleo (MTPE). La notificación debe realizarse dentro de las 24 horas de ocurrido el accidente, pudiendo 
+utilizar el sistema SAT del MTPE para notificar el accidente. En caso de que el empleador no notifique el accidente, pueden 
+hacerlo: El trabajador accidentado, Los derechohabientes del trabajador, El Comité Paritario de Seguridad y Salud de la MPT, el médico 
+que atendió al trabajador. El Informe de Investigación del accidente mortal debe presentarse ante la Autoridad Administrativa de Trabajo 
+dentro de los 10 días de ocurrido. 
+e) En caso de diagnosticarse una enfermedad ocupacional, un accidente o incidente, se notificará a la autoridad competente de 
+acuerdo a Ley. 
+f) 
+Cada prevencionista de Riesgos asignado a las Unidad Orgánica, deberá revisar los procedimientos analizar y evaluar si se 
+requieren cambios en los procedimientos de seguridad o capacitación. 
+g) El jefe inmediato y el prevencionista deberá hacer de conocimiento a todos los trabajadores sobre el incidente y las medidas 
+correctivas implementadas para prevenir futuros eventos. 
+h) El Jefe inmediato y el prevencionista de riesgos implementan las medidas correctivas y preventivas para asegurar de que no vuelva a 
+ocurrir dicho accidente. 
+i) 
+El prevencionista de riesgos deberá tener a disposición toda documentación concerniente al manejo de registros del sistema de 
+Seguridad y Salud en el Trabajo, pólizas de seguros y otros documentos necesarios en coordinación con el área de bienestar Social. 
+ 
+
+--- P.45 ---
+ 
+Municipalidad Provincial de Tacna 
+REGLAMENTO INTERNO DE SEGURIDAD Y 
+SALUD EN EL TRABAJO DE LA 
+MUNICIPALIDAD PROVINCIAL DE TACNA 
+F. Aprobación 
+RISST- 001 
+14/11/24 
+Versión 
+02 
+Página 45 /51 
+ 
+Art. 52 Investigación de Accidentes 
+El Gerente, Subgerente, Jefe de Oficina General o responsable del Área donde pertenece el accidentado deberá realizar una investigación cuando 
+se hayan producido daños a la salud del trabajador o cuando aparezcan indicios de que las medidas de prevención resultan insuficientes, a fin de 
+detectar las causas y tomar las medidas correctivas al respecto. 
+Independientemente el responsable del Área de Seguridad y Salud en el Trabajo de la Municipalidad Provincial, efectuará las investigaciones 
+del caso conjuntamente con el Comité de Seguridad y Salud en el Trabajo. 
+Toda investigación de accidentes deberá comprender seguir el procedimiento del ANEXO 2 del presente documento. 
+Art. 53 Estadísticas de Accidente de Trabajo 
+ 
+Las estadísticas de los accidentes de trabajo que ocurran en la Municipalidad Provincial de Tacna, servirán para evaluar la efectividad de los 
+programas de seguridad trazados, así como para planificar las futuras actividades. 
+ÍNDICE DE FRECUENCIA, es el número de lesiones ocurridas en el trabajo, por doscientos mil horas de exposición u horas de trabajo. 
+F= Número Accidentes incapacitantes x 200,000 horas 
+Horas de trabajo 
+ 
+ 
+ÍNDICE DE GRAVEDAD, es el total de tiempo perdido por doscientos mil horas trabajadas. 
+G= Número de días perdidos x 200, 000 horas 
+Horas de trabajo 
+ 
+ 
+ 
+CAPITULO XII 
+ 
+Art. 54 DE LAS ENFERMEDADES PROFESIONALES 
+Se considera Enfermedad Profesional a todo estado patológico crónico que sufra el trabajador y que sobrevenga como consecuencia de la clase 
+de trabajo que desempeña o hubiese desempeñado. 
+No se considera enfermedad profesional, a las enfermedades de carácter endémico, que prevalecen de acuerdo a la temporada o estación, por 
+ejemplo: gripes, cólera, pulmonía, etc., y se adquieren en el lugar donde se presta el trabajo. 
+ 
+a) Enfermedades Causadas por el Ambiente Físico 
+Entre las enfermedades causadas por el ambiente físico tenemos: 
+ 
+1. Por ruido: Los daños producidos por el ruido generalmente no tienen cura y originan hipoacusia y afecciones de los músculos, tendones 
+de los huesos, etc. 
+2. Por temperatura: La exposición del trabajador a situaciones termo ambientales extremas, ocasiona deshidratación, neumonía, 
+agotamiento insolación, etc. 
+3. Por radiaciones luminosas: Puede ocasionar al trabajador: cataratas, dilatación de las pupilas, irritación visual, etc. 
+b) Enfermedades Causadas Por el Ambiente Químico 
+Entre las principales tenemos: 
+ 
+1. Por el uso de sustancias químicas, intoxicaciones, alergias dermatitis, etc. 
+2. Por la presencia de polvos en el ambiente: neumoconiosis. 
+ 
+
+--- P.46 ---
+ 
+Municipalidad Provincial de Tacna 
+REGLAMENTO INTERNO DE SEGURIDAD Y 
+SALUD EN EL TRABAJO DE LA 
+MUNICIPALIDAD PROVINCIAL DE TACNA 
+F. Aprobación 
+RISST- 001 
+14/11/24 
+Versión 
+02 
+Página 46 /51 
+ 
+c) Enfermedades Causadas por el Ambiente Biológico 
+ 
+Los agentes biológicos causan afecciones a la salud como enfermedades, infecciones, alergias, dermatitis, etc., y son ocasionadas por hongos, 
+bacterias, parásitos, etc. 
+ 
+ 
+CAPITULO XIII 
+ 
+DEL REGIMEN DE ESTIMULOS Y SANCIONES 
+Art. 55 Del Otorgamiento de Estímulos 
+ 
+Los estímulos tienen por finalidad: 
+a) Premiar al cumplimiento de los deberes, obligaciones y reglas señaladas en el presente Reglamento. 
+b) Premiar el comportamiento y actitudes excepcionales mostradas durante el desenvolvimiento de situaciones de emergencia, accidentes 
+o siniestros. 
+c) Promover la actitud proactiva hacia las necesidades de seguridad y salud en el trabajo, así como con los objetivos, misión y visión 
+adoptados por la Municipalidad Provincial de Tacna. 
+Clases de Estímulos 
+Las clases de estímulos que otorgará la Municipalidad Provincial de Tacna son: 
+ 
+a) Resolución de Gerencia Municipal. Y otorgamiento de un premio pecuniario, en mérito al cumplimiento permanente y destacado 
+de los deberes, obligaciones y reglas de seguridad y salud en el trabajo. 
+ 
+b) Resolución de la Gerencia de Ingeniería y Obras y otorgamiento de premio pecuniaria, en mérito al cumplimiento y actitud 
+excepcional durante el desenvolvimiento de situaciones de emergencia, accidentes o siniestros. 
+c) Otros estímulos que acuerde entregar la autoridad competente. 
+ 
+Procedimientos para el otorgamiento de estímulos 
+Para el otorgamiento de estímulos se tendrá en cuenta el siguiente procedimiento: 
+ 
+a) Mediante informe las Gerencias, Sub Gerencias y Jefaturas de Oficinas Generales enviarán lista de candidatos para 
+reconocimiento de estímulos por buena conducta en seguridad y salud en el trabajo, la misma que debe ser ratificada por el Área de 
+Seguridad y Salud en el Trabajo, dicha relación se remitirá a la Gerencia Municipal. 
+b) La Gerencia Municipal evaluará las propuestas alcanzadas y ejecutará la gestión de reconocimiento a la terna de trabajadores 
+merecedores de los estímulos. 
+c) 
+El otorgamiento de estímulos se efectuará con ocasión del día de Seguridad y salud en el trabajo. 
+d) Para el otorgamiento de premios pecuniarios se requerirá la conformidad de disponibilidad financiera y la respectiva previsión 
+presupuestal. 
+e) Las Resoluciones de reconocimiento de estímulos constituirá méritos en los legajos personales de los trabajadores reconocidos. 
+f) 
+A través de la Oficina de General de Comunicaciones y Prevención de conflictos, se difundirá los efectos e impactos de las acciones 
+distinguidas reconocidas con el otorgamiento de estímulos. 
+ 
+
+--- P.47 ---
+ 
+Municipalidad Provincial de Tacna 
+REGLAMENTO INTERNO DE SEGURIDAD Y 
+SALUD EN EL TRABAJO DE LA 
+MUNICIPALIDAD PROVINCIAL DE TACNA 
+F. Aprobación 
+RISST- 001 
+14/11/24 
+Versión 
+02 
+Página 47 /51 
+ 
+ 
+Art. 56 Régimen Disciplinario Objetivo del Régimen Disciplinario 
+El objetivo primordial es el de lograr la prevención en seguridad y salud en el trabajo, por medio de la educación y no del castigo que acompaña 
+cada sanción disciplinaria. 
+• 
+Toda acción disciplinaria se dirige a aquellos funcionarios y trabajadores infractores, que conscientemente violan las medidas de 
+seguridad y salud en el trabajo, poniendo en peligro su integridad física, la de sus compañeros, el medio ambiente, así como los 
+bienes de la MPT o de terceros. Estos infractores son personas que forman un pequeño grupo que se autoexcluye y a quienes la 
+sanción disciplinaria constituye un último recurso. 
+• 
+Por lo que en toda sanción disciplinaria se debe evaluar los antecedentes de los infractores, las características y gravedad 
+de la infracción, la participación individual o de grupo en la comisión de la infracción y el daño que esos actos pudieran ocasionar. 
+Sanciones Disciplinarias. 
+ 
+Las sanciones disciplinarias se harán conocer al trabajador señalándole las razones que justifican su aplicación concediéndole la oportunidad 
+de ofrecer descargos desvirtuar las imputaciones formuladas. 
+Las sanciones disciplinarias en Seguridad y Salud en el Trabajo, según su gravedad será: 
+ 
+a) Amonestación Verbal 
+ 
+Para corregir verbalmente las infracciones cometidas por primera vez a las reglas de Seguridad y Salud en el Trabajo, señaladas en el 
+Presente Reglamento, se aplican siempre que el acto infractor no haya devenido en un daño físico de lesiones o que no haya impedido el 
+desarrollo de las actividades laborales asignadas. 
+b) Amonestación Escrita 
+ 
+Se aplica cuando se reitera una infracción a las Reglas de Seguridad y Salud en el Trabajo, o cuando se infringe por primera vez las obligaciones 
+contenidas en el Presente Reglamento, para su aplicación se observará la ocurrencia de una lesión física leve, el impedimento temporal de las 
+actividades laborales, o el daño no serio a equipos o bienes de la MPT. 
+c) Suspensión 
+Tiene por objeto hacer ver al servidor que su permanencia en la institución, comienza a ser cuestionada y no castigarlo económicamente. 
+Por tanto, no está sujeto a descuentos. Se Aplican con un máximo de tres días y se aplican cuando se reitera la violación, a las obligaciones 
+o a las Reglas de Seguridad y Salud en el Trabajo, señalados en el Presente Reglamento, con independencia de que la infracción haya devenido 
+en daños o pérdidas leves o más o menos graves. 
+d) Despido 
+ 
+Se aplican ante el incumplimiento reiterado o de negligencia evidente de las obligaciones o de las Reglas de Seguridad y Salud en el Trabajo 
+genere lesiones, impidan la prestación de servicios, causen daños o pérdidas a los bienes de la MPT. Su aplicación se efectuará como falta grave, 
+según la forma prevista por las disposiciones que regulan el régimen laboral de la actividad privada y a lo previsto con el Reglamento 
+Interno de Trabajo, independientemente de la sanción disciplinaria que se imponga, todo daño a los bienes de la MPT. Que se ocasione o por 
+desidia o negligencia demostrada deberá ser cubierto por quien o quienes lo hayan producido, ya sea reponiendo el bien o autorizando el 
+descuento de sus haberes por el valor del daño o pérdida. Esto es sin perjuicio de lo establecido en lo pertinente por el Decreto Supremo Nº003-
+97 TR. Texto Único Ordenado del Decreto Legislativo Nº728 Ley de Productividad y Competitividad Laboral y Decreto Legislativo N°276 y su 
+Reglamento. 
+ 
+ 
+
+--- P.48 ---
+ 
+Municipalidad Provincial de Tacna 
+REGLAMENTO INTERNO DE SEGURIDAD Y 
+SALUD EN EL TRABAJO DE LA 
+MUNICIPALIDAD PROVINCIAL DE TACNA 
+F. Aprobación 
+RISST- 001 
+14/11/24 
+Versión 
+02 
+Página 48 /51 
+ 
+ 
+Art. 57 Definiciones 
+Para los fines del presente Reglamento y el Sistema de Gestión de Seguridad y Salud en el Trabajo de la Municipalidad, se aplicarán 
+las siguientes definiciones: 
+ACCIDENTE DE TRABAJO (AT): Todo suceso repentino por causa de actividades laborales y que produzca en el trabajador una lesión orgánica, 
+una perturbación funcional, una invalidez o la muerte. Es también accidente de trabajo aquel que se produce durante la ejecución de órdenes 
+del empleador, o durante la ejecución de una labor bajo su autoridad, y aun fuera del lugar y horas de trabajo. 
+1. Accidente Leve: Suceso cuya lesión, resultado de la evaluación médica, que genera en el accidentado un descanso breve con retorno 
+máximo al día siguiente a sus labores habituales. 
+ 
+2. Accidente Incapacitante: suceso cuya lesión, resultado de la evaluación médica, da lugar a descanso, ausencia justificada al trabajo y tratamiento. 
+Para fines estadísticos, no se tomará en cuenta el día de ocurrido el accidente. 
+Según el grado de incapacidad los accidentes de trabajo pueden ser: 
+ 
+2.1. Total Temporal: cuando la lesión genera en el accidentado la imposibilidad de utilizar su organismo; se otorgará tratamiento médico 
+hasta su plena recuperación. 
+2.2. Parcial Permanente: cuando la lesión genera la pérdida parcial de un miembro u órgano o de las funciones del mismo. 
+2.3. Total Permanente: cuando la lesión genera la pérdida anatómica o funcional total de un miembro u órgano; o de las funciones del mismo. 
+Se considera a partir de la pérdida del dedo meñique. 
+3. Accidente Mortal: Suceso cuyas lesiones producen la muerte del trabajador. Para efectos estadísticos debe considerarse la fecha del 
+deceso. 
+ACCIÓN CORRECTIVA: Implementación de soluciones para la reducción o eliminación de problemas identificados. 
+ACTIVIDADES, PROCESOS, OPERACIONES O LABORES DE ALTO RIESGO: Aquellas que impliquen una alta probabilidad de daño a la salud 
+del trabajador con ocasión o como consecuencia del trabajo que realiza. 
+AMBIENTE, CENTRO DE TRABAJO O CENTRO DE LABORES: Lugar donde los trabajadores desempeñan sus labores. 
+ 
+AMENAZA: es un fenómeno, sustancia, actividad humana o condición peligrosa que puede ocasionar la muerte, lesiones u otros impactos a la 
+salud, al igual que daños a la propiedad. 
+CAPACITACIÓN: Actividad que consiste en instruir conocimientos teóricos y prácticos a los participantes. 
+ 
+CAUSAS DE LOS ACCIDENTES: Criterios que permiten comprender las razones por las cuales ocurre un Accidente. 
+COMITÉ DE SEGURIDAD Y SALUD EN EL TRABAJO: Órgano paritario constituido por representantes del empleador y de los trabajadores, 
+con las facultades y obligaciones previstas por las normas vigentes y disposiciones del presente Reglamento. 
+CONTAMINACIÓN DEL AMBIENTE DE TRABAJO: Es toda alteración del ambiente de trabajo; calidad del suelo, agua o aire a un nivel que puede 
+afectar la salud y la integridad física de los trabajadores. 
+CONSECUENCIA: Se refiere al nivel que pueden tener las lesiones, daños o enfermedades que puede provocar la ocurrencia de un evento o 
+exposición peligrosa. 
+CONDICIONES Y MEDIO AMBIENTE DE TRABAJO: Aquellos elementos, agentes o factores que tienen influencia significativa en la generación 
+de riesgos para la seguridad y salud de los trabajadores. Están dentro de esta definición: 
+a. 
+Las características generales de los locales, instalaciones, equipos, productos y demás útiles que se encuentran en el centro de labores. 
+
+--- P.49 ---
+ 
+Municipalidad Provincial de Tacna 
+REGLAMENTO INTERNO DE SEGURIDAD Y 
+SALUD EN EL TRABAJO DE LA 
+MUNICIPALIDAD PROVINCIAL DE TACNA 
+F. Aprobación 
+RISST- 001 
+14/11/24 
+Versión 
+02 
+Página 49 /51 
+b. 
+La naturaleza, intensidades, concentraciones o niveles de presencia de los agentes físicos, químicos y biológicos presente en el centro de 
+labores. 
+c. 
+Los procedimientos para la utilización de los agentes anteriormente indicados, que influyan en la generación de riesgos para los 
+trabajadores. 
+d. 
+La organización y ordenamiento de las labores, incluidos los factores ergonómicos y psicosociales. 
+ 
+CONTRATISTA: Persona o empresa que presta servicios remunerados a un empleador con especificaciones, plazos y condiciones 
+convenidos. 
+ 
+CONTROL DE RIESGOS: Es el proceso de toma de decisión, mediante la evaluación de la información de riesgos, para tratar o reducir los riesgos, 
+para implantar medidas correctivas, exigir su cumplimiento y evaluación periódica de su eficacia. 
+ 
+CULTURA DE SEGURIDAD O CULTURA DE PREVENCIÓN: Conjunto de valores, principios y normas de comportamiento y conocimiento 
+que comparten los miembros de una organización, con respecto a la prevención de incidentes, accidentes de trabajo y enfermedades ocupacionales. 
+EMERGENCIA: Accidente o suceso que acontece de manera absolutamente imprevista, tales como: incendios, explosiones, sismos, 
+deslizamientos, accidentes y otros. 
+EMPLEADOR: Toda persona natural o jurídica que emplea trabajadores. 
+ENFERMEDAD OCUPACIONAL O PROFESIONAL: Es una enfermedad contraída como resultado de la exposición a factores de riesgo 
+relacionados al trabajo. 
+EQUIPOS DE PROTECCIÓN PERSONAL (EPP): Son dispositivos, materiales e indumentaria personal destinados a cada trabajador que ejecuta 
+actividades de alto riesgo para protegerlo de uno o varios riesgos presentes en el trabajo y que puedan amenazar su seguridad y salud. 
+ERGONOMÍA: Es el conjunto de conocimientos aplicados para la adecuación de los productos, sistemas y entornos artificiales a las necesidades, 
+limitaciones y características de sus usuarios, optimizando la eficacia, seguridad y bienestar. La ergonomía elimina las barreras que se oponen a 
+un trabajo humano seguro, productivo y de calidad mediante el adecuado ajuste de productos, tareas y ambientes a la persona. 
+ESTADÍSTICA DE ACCIDENTES: Sistema de registro y análisis de la información de accidentes, orientada hacia el empleo de la misma para 
+reducir los índices de accidentabilidad. 
+EVALUACIÓN DE RIESGOS: Proceso mediante el cual se establece la probabilidad y la gravedad de que los peligros identificados se 
+manifiesten, obteniéndose la información necesaria para estar en condiciones de tomar una decisión apropiada sobre la oportunidad y el tipo de 
+acciones preventivas que debe adoptarse. 
+EXÁMENES MÉDICOS DE PRE OCUPACIONALES: Son evaluaciones médicas que se realizan al trabajador antes de que éste sea admitido en 
+un puesto de trabajo, tiene por objeto determinar el estado de salud al momento del ingreso y su aptitud para el puesto de trabajo. 
+EXÁMENES MÉDICOS PERIÓDICOS: Son evaluaciones médicas que se realizan al trabajador durante la vigencia del vínculo laboral; tienen por 
+objeto la detección precoz de patologías ocupacionales y la promoción de la salud. Asimismo, permiten definir la eficiencia de las medidas 
+preventivas y de control que se toman y el impacto de éstas, así como la reorientación de dichas medidas. 
+EXÁMENES DE RETIRO: Evaluaciones médicas realizadas al trabajador una vez concluido el vínculo laboral. Mediante estos exámenes se 
+busca detectar enfermedades ocupacionales y comunes, secuelas de accidentes de trabajo y en general lo agravado por el trabajo. 
+EXPOSICIÓN: Condiciones de trabajo que implican un determinado nivel de riesgo a los trabajadores. 
+ 
+GESTIÓN DE LA SEGURIDAD Y SALUD: Aplicación de la normatividad vigente de seguridad y salud en el trabajo a la organización de trabajo 
+dentro de la municipalidad. 
+GESTIÓN DE RIESGOS: Procedimiento que permite una vez identificado el riesgo, la aplicación de las medidas más adecuadas para eliminar, 
+reducir al mínimo o mitigar los efectos de los riesgos. 
+
+--- P.50 ---
+ 
+Municipalidad Provincial de Tacna 
+REGLAMENTO INTERNO DE SEGURIDAD Y 
+SALUD EN EL TRABAJO DE LA 
+MUNICIPALIDAD PROVINCIAL DE TACNA 
+F. Aprobación 
+RISST- 001 
+14/11/24 
+Versión 
+02 
+Página 50 /51 
+ 
+IDENTIFICACIÓN DE PELIGROS: Proceso mediante el cual se reconoce que existe un peligro y se definen sus características. 
+INCIDENTE: cualquier suceso no esperado ni deseado que no dando lugar a pérdidas de la salud o lesiones a las personas puede ocasionar daños 
+a la propiedad, equipos, productos o al medio ambiente, pérdidas de producción. 
+INCIDENTE PELIGROSO: Todo suceso que puede causar lesiones o enfermedades a las personas en su trabajo, o a la población. 
+INSPECCIÓN: Proceso de verificación directa que acopia datos sobre el trabajo, sus procesos, condiciones, medidas de protección y 
+cumplimiento de los dispositivos legales en SST. 
+INSPECTOR: Trabajador encargado de fiscalizar el cumplimiento de una norma o reglamento. 
+ 
+INVESTIGACIÓN DE ACCIDENTES E INCIDENTES: Proceso de recopilación y evaluación de evidencias que conducen a determinar las 
+causas de los accidentes e incidentes, y que permite tomar las acciones correctivas y prevenir la recurrencia de los mismos, que involucra al 
+personal propio, contratistas, proveedores o visitas que se encuentren bajo su autoridad 
+LESIÓN: Daño físico u orgánico que sufre una persona como consecuencia de un accidente de trabajo o enfermedad ocupacional. 
+MAPA DE RIESGOS: Es un plano de las condiciones de trabajo, es una herramienta visual y gráfica (Plano) que permite identificar, evaluar y 
+gestionar los riesgos potenciales que pueden afectar al área, frente de trabajo donde se desarrollan las actividades. Este mapa es una representación 
+gráfica de los riesgos identificados, en la cual se puede ver el impacto y probabilidad de ocurrencia que podrían tener. Tiene otros propósitos 
+como facilitar la comunicación efectiva y la transparencia en la organización, fomentar la cultura de riesgos y desarrollar planes de contingencia y 
+estrategias para enfrentar la crisis o eventos inesperados que puedan afectar a los objetivos estratégicos de la organización. 
+MEDIDAS DE PREVENCIÓN: Acciones que se adoptan con el fin de evitar o disminuir los riesgos derivados del trabajo, dirigidas a proteger la 
+salud de los trabajadores cuya implementación constituye una obligación tanto de los inmediatos superiores competentes como de los trabajadores 
+a quienes va dirigido. 
+PELIGRO: Cualquier situación, que puede ser una acción o una condición, que tiene el potencial de producir un daño sobre una determinada 
+persona o cosa. Ese daño puede ser físico y por ende producir alguna lesión física o una posterior enfermedad, según corresponda. Las situaciones 
+peligrosas son latentes y suelen ser el primer paso al desarrollo de una situación de emergencia. 
+PÉRDIDA: Es un daño en recursos personales y/o materiales; es la carencia o privación de lo que se poseía. 
+ 
+PLAN DE EMERGENCIA: Conjunto de medidas a aplicar antes, durante y después de que se presenta una emergencia, propone una serie 
+de procedimientos alternativos al funcionamiento normal de la organización, intenta garantizar la continuidad del funcionamiento de la organización 
+frente a cualquier eventualidad, ya sean materiales o personales. 
+PREVENCIÓN DE ACCIDENTES: Combinación de políticas, estándares, procedimientos, actividades y prácticas en el proceso y organización del 
+trabajo, que establece una organización con el objetivo de prevenir los riesgos en el trabajo. 
+PROGRAMA ANUAL DE SEGURIDAD Y SALUD: Conjunto de actividades de prevención en Seguridad y Salud en el Trabajo que establece la 
+organización, servicio o empresa para ejecutar a lo largo del año. 
+PRIMEROS AUXILIOS: Técnicas y procedimientos de carácter inmediato, limitado, temporal, no profesional que recibe una persona, víctima de 
+un accidente o enfermedad repentina. 
+ 
+ 
+PRO ACTIVIDAD: Actitud favorable en el cumplimiento de las normas de Seguridad y Salud en el Trabajo, con diligencia y eficacia. 
+REGLAMENTO: Conjunto de normas, procedimientos, prácticas o disposiciones detalladas, elaborado por la Municipalidad y que tiene 
+carácter obligatorio. 
+ 
+
+--- P.51 ---
+ 
+Municipalidad Provincial de Tacna 
+REGLAMENTO INTERNO DE SEGURIDAD Y 
+SALUD EN EL TRABAJO DE LA 
+MUNICIPALIDAD PROVINCIAL DE TACNA 
+F. Aprobación 
+RISST- 001 
+14/11/24 
+Versión 
+02 
+Página 51 /51 
+ 
+REPRESENTANTE DE LOS TRABAJADORES: Trabajador elegido de conformidad con la legislación vigente, para actuar a nombre de los 
+trabajadores ante el Comité de Seguridad y Salud en el Trabajo. 
+RIESGO: Probabilidad de que en un área de trabajo, persona o bien vulnerables, experimenten una pérdida debido a una amenaza en un espacio 
+y durante un período de tiempo. 
+RIESGO LABORAL: Todo aquel aspecto del trabajo que ostenta la potencialidad de causarle algún daño al trabajador. 
+ 
+SALUD: Estado de completo bienestar físico, mental, espiritual, emocional y social, y no solamente la ausencia de afecciones o enfermedades. 
+SALUD OCUPACIONAL: Actividad multidisciplinaria que promueve y protege la salud de los trabajadores. Esta disciplina busca controlar los 
+accidentes y las enfermedades mediante la reducción de las condiciones de riesgo. 
+ 
+SEGURIDAD: Conjunto de medidas, técnicas educacionales, médicas y psicológicas empleadas para prevenir accidentes, tendientes a 
+eliminar las condiciones inseguras del ambiente y a instruir o convencer a las personas acerca de la necesidad de implantación de prácticas 
+preventivas. 
+SUB COMITÉ DE SEGURIDAD Y SALUD EN EL TRABAJO: Es un órgano paritario constituido en las Unidades Orgánicas que realizan trabajos de 
+alto riesgo y está encargado de velar por el cumplimiento de la Ley N°29783 de Seguridad y Salud en el Trabajo y normativa inherente y vigente 
+den la materia, coordina sus actividades con el Comité de Seguridad y Salud en el trabajo de la Institución. 
+SUPERVISOR DE SEGURIDAD Y SALUD EN EL TRABAJO: Es la persona elegida cuando el número de trabajadores no es mayor a 20 
+personas y está encargada de garantizar la seguridad y salud de los trabajadores de la unidad orgánica, obra de construcción civil o actividad que 
+ejecuta la Municipalidad. 
+VULNERABILIDAD: Son las características y las circunstancias de una persona, área de trabajo, sistema o bien que los hacen susceptibles a 
+los efectos dañinos de una amenaza o peligro. 
+DISPOSICIONES COMPLEMENTARIAS TRANSITORIAS Y FINALES 
+Primera: Todos los miembros representantes del empleador y trabajadores ante el Comité de Seguridad y Salud en el Trabajo deben portar los 
+equipos de protección personal y una credencial que será otorgada por la Municipalidad Provincial de Tacna, para su identificación en acciones de 
+su competencia y funciones. 
+Segunda: Los encargados de la implementación del Sistema de Seguridad y Salud en el Trabajo deberán portar los Equipos de protección 
+necesarios, estar protegidos con los seguros correspondientes y la credencial que lo identifique. 
+Tercero: La Municipalidad Provincial de Tacna, destinará los materiales, equipamiento y ambientes necesarios, para el cumplimiento de las 
+competencias y funciones del Comité de Seguridad y Salud en el Trabajo y el Sistema de Seguridad y Salud en el Trabajo respectivamente. 
+ 
+Cuarto: Los aspectos no contemplados en el presente reglamento se ajustarán a lo establecido en las normas legales del Sistema de 
+Seguridad y Salud en el Trabajo, concordantes con las normas legales internacionales de obligatorio cumplimiento por nuestro país, y/o 
+acuerdos del Comité de Seguridad y Salud en el Trabajo de la Municipalidad Provincial de Tacna. 
+ 
+Quinto: Déjese sin efecto toda disposición que se oponga al presente reglamento. 

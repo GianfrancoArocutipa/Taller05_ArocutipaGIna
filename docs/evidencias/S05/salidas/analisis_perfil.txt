@@ -1,0 +1,36 @@
+ANALISIS DE PERFIL CULTURAL Y CONGRUENCIA - MUNICIPALIDAD PROVINCIAL DE TACNA
+================================================================================
+
+Cultura Dominante ACTUAL: Jerarquia (44.10 puntos)
+Cultura Dominante DESEADA: Adhocracia (34.14 puntos)
+Brecha Adhocracia: +21.52 puntos
+Brecha Jerarquia: -25.06 puntos
+
+Veredicto de Congruencia: ALTA CONGRUENCIA
+
+PERFILES POR AREA (N >= 5):
+Area: GGT (n=7)
+  Actual: Clan=15.2, Adhoc=10.4, Merc=34.9, Jer=39.5 (Dominante: Jerarquia)
+  Deseado: Clan=26.1, Adhoc=27.7, Merc=26.1, Jer=20.1 (Dominante: Adhocracia)
+  Brechas clave: Adhocracia = +17.3 | Jerarquia = -19.4
+
+Area: OGTIC (n=6)
+  Actual: Clan=17.6, Adhoc=18.4, Merc=14.5, Jer=49.5 (Dominante: Jerarquia)
+  Deseado: Clan=27.2, Adhoc=47.9, Merc=10.2, Jer=14.7 (Dominante: Adhocracia)
+  Brechas clave: Adhocracia = +29.6 | Jerarquia = -34.9
+
+Area: OGAF (n=6)
+  Actual: Clan=18.4, Adhoc=10.2, Merc=22.9, Jer=48.5 (Dominante: Jerarquia)
+  Deseado: Clan=30.1, Adhoc=27.5, Merc=18.2, Jer=24.2 (Dominante: Clan)
+  Brechas clave: Adhocracia = +17.3 | Jerarquia = -24.3
+
+Area: OGACGD (n=5)
+  Actual: Clan=20.5, Adhoc=11.9, Merc=22.6, Jer=45.0 (Dominante: Jerarquia)
+  Deseado: Clan=32.6, Adhoc=38.4, Merc=12.0, Jer=17.0 (Dominante: Adhocracia)
+  Brechas clave: Adhocracia = +26.5 | Jerarquia = -28.1
+
+Area: GTPSC (n=5)
+  Actual: Clan=16.5, Adhoc=11.7, Merc=33.3, Jer=38.5 (Dominante: Jerarquia)
+  Deseado: Clan=27.5, Adhoc=27.4, Merc=24.2, Jer=21.0 (Dominante: Clan)
+  Brechas clave: Adhocracia = +15.7 | Jerarquia = -17.5
+

@@ -1,0 +1,12 @@
+REPORTE DE CONTROL DE CALIDAD METODOLOGICO - MUNICIPALIDAD PROVINCIAL DE TACNA
+Instrumento Competing Values Framework (OCAI)
+================================================================================
+
+Muestra bruta procesada: 35 servidores publicos
+Muestra neta valida: 32 servidores publicos
+Instrumentos excluidos: 3
+
+Detalle de exclusiones por violacion de la regla de suma 100 puntos:
+ - [RECHAZADO] Respondiente R015 (OGAF): Dim 2 Actual = 110 pts (desviacion: +10)
+ - [RECHAZADO] Respondiente R024 (OGACGD): Dim 5 Deseado = 90 pts (desviacion: -10)
+ - [RECHAZADO] Respondiente R031 (GTPSC): Dim 1 Actual = 105 pts (desviacion: +5)
