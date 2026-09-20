@@ -1,0 +1,99 @@
+P00 [Centrado]: 
+P01 [Centrado]: UNIVERSIDAD PRIVADA DE TACNA
+P02 [Centrado]: FACULTAD DE INGENIERÍA
+P03 [Centrado]: ESCUELA DE INGENIERÍA DE SISTEMAS
+P04 [Centrado]: 
+P05 [Centrado]: 
+P06 [Centrado]: 
+P07 [Centrado]: 
+P08 [Centrado]: 
+P09 [Centrado]: 
+P10 [Centrado]: TALLER
+P11 [Centrado]: “…………………………………………….”
+P12 [Centrado]: 
+P13 [Centrado]: CURSO:
+P14 [Centrado]: “………………………….”
+P15 [Centrado]: 
+P16 [Centrado]: AUTOR(ES):
+P17 [Centrado]: APELLIDOS Y NOMBRES · CÓDIGO 
+P18 [Centrado]: 
+P19 [Centrado]: DOCENTE:
+P20 [Centrado]: DR. OSCAR JUAN JIMENEZ FLORES
+P21 [Centrado]: 
+P22 [Centrado]: 
+P23 [Centrado]: 
+P24 [Centrado]: 
+P25 [Centrado]: 
+P26 [Centrado]: 
+P27 [Centrado]: TACNA — PERÚ
+P28 [Normal]: 
+P29 [Heading 1]: Índice
+P30 [toc 1]: Índice	1
+P31 [toc 1]: Cómo se usa esta plantilla	1
+P32 [toc 1]: 1. Información sobre el evento práctico	1
+P33 [toc 2]: 1.1 Título del evento práctico	1
+P34 [toc 2]: 1.2 Objetivos	1
+P35 [toc 2]: 1.3 Tiempo de duración	1
+P36 [toc 2]: 1.4 Resultados de aprendizaje	1
+P37 [toc 2]: 1.5 Recursos	1
+P38 [toc 2]: 1.6 Seguridad	1
+P39 [toc 1]: 2. Procedimiento o metodología	1
+P40 [toc 2]: Paso A	1
+P41 [toc 2]: Paso B	1
+P42 [toc 2]: Paso C	1
+P43 [toc 1]: 3. Resultados	1
+P44 [toc 1]: 4. Conclusiones	1
+P45 [toc 1]: 5. Cuestionario	1
+P46 [toc 1]: 6. Referencias bibliográficas	1
+P47 [toc 1]: 7. Anexos	1
+P48 [Normal]: 
+P49 [Normal]: 
+P50 [Heading 1]: Cómo se usa esta plantilla
+P51 [First Paragraph]: Este es el formato en el que se entrega todo informe de taller de SI-886. Se llena en Word y se entrega en PDF.
+P52 [Compact]: Guarda una copia con el nombre SI886-S<NN>-TALLER-Grupo<N>.pdf. Por ejemplo, SI886-S03-TALLER-Grupo4.pdf.
+P53 [Compact]: Completa la carátula. Escribe los integrantes con apellidos, nombres y código, uno por línea.
+P54 [Compact]: Copia el enunciado de cada sección desde el archivo 3-TALLER.md de la semana. Las siete secciones son las del formato EPIS y van en este orden.
+P55 [Compact]: Actualiza el índice antes de exportar. Clic derecho sobre el índice y luego Actualizar campos.
+P56 [Compact]: Exporta con Archivo → Guardar como → PDF. No entregues el .docx.
+P57 [First Paragraph]: Borra esta página antes de entregar.
+P58 [Normal]: 
+P59 [Heading 1]: 1. Información sobre el evento práctico
+P60 [Heading 2]: 1.1 Título del evento práctico
+P61 [Heading 2]: 1.2 Objetivos
+P62 [Heading 2]: 1.3 Tiempo de duración
+P63 [Heading 2]: 1.4 Resultados de aprendizaje
+P64 [Heading 2]: 1.5 Recursos
+P65 [Heading 2]: 1.6 Seguridad
+P66 [First Paragraph]: Reglas de uso del laboratorio y de alcance que se respetaron durante el trabajo.
+P67 [Heading 1]: 2. Procedimiento o metodología
+P68 [First Paragraph]: Cada paso lleva su título, qué se buscaba, el comando o la acción, y la evidencia de que funcionó. Quien lea el informe debe poder repetir el trabajo sin preguntar nada.
+P69 [Heading 2]: Paso A
+P70 [Heading 2]: Paso B
+P71 [Heading 2]: Paso C
+P72 [Heading 1]: 3. Resultados
+P73 [Body Text]: Si algo no se logró, explícalo aquí. Un resultado no alcanzado y bien explicado vale más que uno declarado sin evidencia.
+P74 [Heading 1]: 4. Conclusiones
+P75 [First Paragraph]: Mínimo tres. Una conclusión no resume lo que hiciste. Dice lo que aprendiste y se sostiene en la evidencia de la sección 3.
+P76 [Heading 1]: 5. Cuestionario
+P77 [First Paragraph]: Copia cada pregunta de la guía de la semana y respóndela debajo.
+P78 [Heading 1]: 6. Referencias bibliográficas
+P79 [First Paragraph]: Normas técnicas, marcos profesionales, documentación oficial y bibliografía indexada, en formato APA. No se admiten wikis abiertas ni sitios sin autoría verificable.
+P80 [Heading 1]: 7. Anexos
+P81 [First Paragraph]: Capturas completas, archivos de configuración y salidas extensas. Cada anexo lleva su letra y su título, y se menciona en el cuerpo del informe.
+
+--- Table 0 ---
+Row 0: ['Recurso', 'Versión', 'Para qué se usó']
+Row 1: ['', '', '']
+Row 2: ['', '', '']
+Row 3: ['', '', '']
+
+--- Table 1 ---
+Row 0: ['#', 'Resultado esperado', '¿Se logró?', 'Evidencia']
+Row 1: ['1', '', '', '']
+Row 2: ['2', '', '', '']
+Row 3: ['3', '', '', '']
+Row 4: ['4', '', '', '']
+Row 5: ['5', '', '', '']
+Row 6: ['6', '', '', '']
+Row 7: ['7', '', '', '']
+Row 8: ['8', '', '', '']
